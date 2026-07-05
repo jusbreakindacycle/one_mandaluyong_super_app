@@ -1,0 +1,5302 @@
+[
+  {
+    "payment_id": "PAY-2026-BBDAA19F",
+    "permit_id": "PERMIT-2026-72AD4674",
+    "citizen_id": "CIT-000331",
+    "amount_php": 3698.57,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-04-30T02:29:06",
+    "reference_number": "REF0672752088547"
+  },
+  {
+    "payment_id": "PAY-2026-5AA91FF8",
+    "permit_id": "PERMIT-2026-E9A1D57C",
+    "citizen_id": "CIT-000431",
+    "amount_php": 5670.8,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-01T18:13:57",
+    "reference_number": "REF4929751702814"
+  },
+  {
+    "payment_id": "PAY-2026-2049239C",
+    "permit_id": "PERMIT-2026-0D193E22",
+    "citizen_id": "CIT-000380",
+    "amount_php": 3896.24,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-26T21:01:52",
+    "reference_number": "REF0693751509398"
+  },
+  {
+    "payment_id": "PAY-2026-82AAF756",
+    "permit_id": "PERMIT-2026-E65662BC",
+    "citizen_id": "CIT-000274",
+    "amount_php": 1609.7,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-29T12:53:28",
+    "reference_number": "REF3430187186375"
+  },
+  {
+    "payment_id": "PAY-2026-429492C3",
+    "permit_id": "PERMIT-2026-B3035DCC",
+    "citizen_id": "CIT-000001",
+    "amount_php": 8103.24,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-14T18:49:35",
+    "reference_number": "REF9980562656504"
+  },
+  {
+    "payment_id": "PAY-2026-19A595E4",
+    "permit_id": "PERMIT-2026-26159AEA",
+    "citizen_id": "CIT-000480",
+    "amount_php": 8247.23,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-10-17T03:42:50",
+    "reference_number": "REF5547813767426"
+  },
+  {
+    "payment_id": "PAY-2026-1433DE91",
+    "permit_id": "PERMIT-2026-25B928EA",
+    "citizen_id": "CIT-000130",
+    "amount_php": 7253.99,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-28T01:32:13",
+    "reference_number": "REF6299123478519"
+  },
+  {
+    "payment_id": "PAY-2026-0DD79EC0",
+    "permit_id": "PERMIT-2026-BC5CB3E5",
+    "citizen_id": "CIT-000066",
+    "amount_php": 2360.67,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-01-20T01:14:39",
+    "reference_number": "REF6106462879232"
+  },
+  {
+    "payment_id": "PAY-2026-86823A98",
+    "permit_id": "PERMIT-2026-60F22D9F",
+    "citizen_id": "CIT-000092",
+    "amount_php": 7857.52,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-02-09T11:39:57",
+    "reference_number": "REF6487049478730"
+  },
+  {
+    "payment_id": "PAY-2026-2AB38A3D",
+    "permit_id": "PERMIT-2026-68FBFCC5",
+    "citizen_id": "CIT-000421",
+    "amount_php": 7602.32,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-18T08:22:10",
+    "reference_number": "REF0244714627301"
+  },
+  {
+    "payment_id": "PAY-2026-C0CD9940",
+    "permit_id": "PERMIT-2026-7381DB60",
+    "citizen_id": "CIT-000271",
+    "amount_php": 3993.95,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-30T13:27:54",
+    "reference_number": "REF4719597964715"
+  },
+  {
+    "payment_id": "PAY-2026-BA90DE95",
+    "permit_id": "PERMIT-2026-06B6A4FE",
+    "citizen_id": "CIT-000182",
+    "amount_php": 7583.14,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-01T10:59:56",
+    "reference_number": "REF8904290257252"
+  },
+  {
+    "payment_id": "PAY-2026-192E0B64",
+    "permit_id": "PERMIT-2026-F045C09E",
+    "citizen_id": "CIT-000340",
+    "amount_php": 3747.21,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-26T19:02:12",
+    "reference_number": "REF0456504481832"
+  },
+  {
+    "payment_id": "PAY-2026-E1AB5DE5",
+    "permit_id": "PERMIT-2026-B3035DCC",
+    "citizen_id": "CIT-000001",
+    "amount_php": 3579.5,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-14T05:49:35",
+    "reference_number": "REF1928554451895"
+  },
+  {
+    "payment_id": "PAY-2026-0F62D252",
+    "permit_id": "PERMIT-2026-837463DD",
+    "citizen_id": "CIT-000353",
+    "amount_php": 4080.33,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-05T11:05:50",
+    "reference_number": "REF2028457652132"
+  },
+  {
+    "payment_id": "PAY-2026-532E6210",
+    "permit_id": "PERMIT-2026-F8FE7647",
+    "citizen_id": "CIT-000213",
+    "amount_php": 4629.17,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-03T03:17:25",
+    "reference_number": "REF8338988816711"
+  },
+  {
+    "payment_id": "PAY-2026-6F3B77F3",
+    "permit_id": "PERMIT-2026-34A5B97C",
+    "citizen_id": "CIT-000033",
+    "amount_php": 7158.63,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-03T04:59:13",
+    "reference_number": "REF2075452798524"
+  },
+  {
+    "payment_id": "PAY-2026-0A75D8BC",
+    "permit_id": "PERMIT-2026-D77BB5F9",
+    "citizen_id": "CIT-000142",
+    "amount_php": 3149.63,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-27T14:52:42",
+    "reference_number": "REF0132234232161"
+  },
+  {
+    "payment_id": "PAY-2026-DE6FD866",
+    "permit_id": "PERMIT-2026-AEFAB2FB",
+    "citizen_id": "CIT-000267",
+    "amount_php": 486.14,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-03T00:36:44",
+    "reference_number": "REF1076031089071"
+  },
+  {
+    "payment_id": "PAY-2026-8A696605",
+    "permit_id": "PERMIT-2026-9AEB4F7B",
+    "citizen_id": "CIT-000109",
+    "amount_php": 1488.61,
+    "payment_method": "Maya",
+    "status": "Failed",
+    "transaction_date": "2026-01-12T03:45:11",
+    "reference_number": "REF4014011939325"
+  },
+  {
+    "payment_id": "PAY-2026-177C81D7",
+    "permit_id": "PERMIT-2026-FE8D5508",
+    "citizen_id": "CIT-000188",
+    "amount_php": 3666.15,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-07-02T16:34:43",
+    "reference_number": "REF0124955289389"
+  },
+  {
+    "payment_id": "PAY-2026-7DF5FC1F",
+    "permit_id": "PERMIT-2026-06EFB35A",
+    "citizen_id": "CIT-000310",
+    "amount_php": 6421.6,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-09T23:44:42",
+    "reference_number": "REF1190833428013"
+  },
+  {
+    "payment_id": "PAY-2026-4F6A6904",
+    "permit_id": "PERMIT-2026-B0DB8251",
+    "citizen_id": "CIT-000118",
+    "amount_php": 1066.27,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-22T08:05:56",
+    "reference_number": "REF8759271256638"
+  },
+  {
+    "payment_id": "PAY-2026-A943B643",
+    "permit_id": "PERMIT-2026-1EDA4439",
+    "citizen_id": "CIT-000023",
+    "amount_php": 3023.41,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-24T05:40:35",
+    "reference_number": "REF3615171827548"
+  },
+  {
+    "payment_id": "PAY-2026-BF4A7DB7",
+    "permit_id": "PERMIT-2026-902B7981",
+    "citizen_id": "CIT-000416",
+    "amount_php": 5813.89,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-19T08:58:35",
+    "reference_number": "REF0157164794738"
+  },
+  {
+    "payment_id": "PAY-2026-8C3DDEE6",
+    "permit_id": "PERMIT-2026-12D283BA",
+    "citizen_id": "CIT-000070",
+    "amount_php": 4159.61,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-24T17:24:23",
+    "reference_number": "REF6463175207167"
+  },
+  {
+    "payment_id": "PAY-2026-5E8A2AFA",
+    "permit_id": "PERMIT-2026-0B6011B1",
+    "citizen_id": "CIT-000384",
+    "amount_php": 5307.07,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-16T21:32:30",
+    "reference_number": "REF8112669121535"
+  },
+  {
+    "payment_id": "PAY-2026-16633877",
+    "permit_id": "PERMIT-2026-25B928EA",
+    "citizen_id": "CIT-000130",
+    "amount_php": 6552.18,
+    "payment_method": "Credit Card",
+    "status": "Refunded",
+    "transaction_date": "2026-02-27T08:32:13",
+    "reference_number": "REF3961367499465"
+  },
+  {
+    "payment_id": "PAY-2026-122017A0",
+    "permit_id": "PERMIT-2026-C4F201E7",
+    "citizen_id": "CIT-000296",
+    "amount_php": 7002.09,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-07-06T02:44:41",
+    "reference_number": "REF7967842711477"
+  },
+  {
+    "payment_id": "PAY-2026-D244C364",
+    "permit_id": "PERMIT-2026-99C523E6",
+    "citizen_id": "CIT-000214",
+    "amount_php": 6249.31,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-05-22T22:11:03",
+    "reference_number": "REF3201017026952"
+  },
+  {
+    "payment_id": "PAY-2026-B847CBDC",
+    "permit_id": "PERMIT-2026-BDC34ACA",
+    "citizen_id": "CIT-000292",
+    "amount_php": 1155.85,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-04T07:55:35",
+    "reference_number": "REF4991187734778"
+  },
+  {
+    "payment_id": "PAY-2026-310CF8B0",
+    "permit_id": "PERMIT-2026-42274AC1",
+    "citizen_id": "CIT-000015",
+    "amount_php": 3709.63,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-23T17:46:40",
+    "reference_number": "REF4858800616756"
+  },
+  {
+    "payment_id": "PAY-2026-22CF5CE5",
+    "permit_id": "PERMIT-2026-EE9C3A60",
+    "citizen_id": "CIT-000039",
+    "amount_php": 3550.93,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-17T18:56:14",
+    "reference_number": "REF7700284276246"
+  },
+  {
+    "payment_id": "PAY-2026-D493C836",
+    "permit_id": "PERMIT-2026-C51A0A70",
+    "citizen_id": "CIT-000140",
+    "amount_php": 2957.09,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-22T03:46:14",
+    "reference_number": "REF7197889778280"
+  },
+  {
+    "payment_id": "PAY-2026-DD068D57",
+    "permit_id": "PERMIT-2026-DB932115",
+    "citizen_id": "CIT-000476",
+    "amount_php": 581.32,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-18T15:32:39",
+    "reference_number": "REF6479695450090"
+  },
+  {
+    "payment_id": "PAY-2026-09B1FD86",
+    "permit_id": "PERMIT-2026-73EF2D05",
+    "citizen_id": "CIT-000105",
+    "amount_php": 6091.74,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-24T06:48:20",
+    "reference_number": "REF2559056165565"
+  },
+  {
+    "payment_id": "PAY-2026-04354244",
+    "permit_id": "PERMIT-2026-15A13F2E",
+    "citizen_id": "CIT-000380",
+    "amount_php": 491.42,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-04-14T00:17:21",
+    "reference_number": "REF0333491141520"
+  },
+  {
+    "payment_id": "PAY-2026-3850BF79",
+    "permit_id": "PERMIT-2026-BDE4A441",
+    "citizen_id": "CIT-000408",
+    "amount_php": 2532.4,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-06-02T17:05:09",
+    "reference_number": "REF8507698640790"
+  },
+  {
+    "payment_id": "PAY-2026-F296233D",
+    "permit_id": "PERMIT-2026-23D7F4B8",
+    "citizen_id": "CIT-000133",
+    "amount_php": 1693.41,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-17T22:11:29",
+    "reference_number": "REF5696591713578"
+  },
+  {
+    "payment_id": "PAY-2026-A9AA5CD9",
+    "permit_id": "PERMIT-2026-2DEB6633",
+    "citizen_id": "CIT-000306",
+    "amount_php": 959.01,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-03T09:46:53",
+    "reference_number": "REF5294563718344"
+  },
+  {
+    "payment_id": "PAY-2026-A4382DE3",
+    "permit_id": "PERMIT-2026-D3922B7C",
+    "citizen_id": "CIT-000317",
+    "amount_php": 3160.75,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-03T16:44:29",
+    "reference_number": "REF0496391919541"
+  },
+  {
+    "payment_id": "PAY-2026-D55F9B13",
+    "permit_id": "PERMIT-2026-42D6288F",
+    "citizen_id": "CIT-000064",
+    "amount_php": 5579.57,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T01:23:18",
+    "reference_number": "REF9876351484685"
+  },
+  {
+    "payment_id": "PAY-2026-75E3BA55",
+    "permit_id": "PERMIT-2026-DD234562",
+    "citizen_id": "CIT-000431",
+    "amount_php": 1239.55,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-07T16:15:44",
+    "reference_number": "REF3664987820829"
+  },
+  {
+    "payment_id": "PAY-2026-56C123B2",
+    "permit_id": "PERMIT-2026-002E73C3",
+    "citizen_id": "CIT-000516",
+    "amount_php": 8235.56,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-29T03:52:35",
+    "reference_number": "REF7374896908357"
+  },
+  {
+    "payment_id": "PAY-2026-6095AE36",
+    "permit_id": "PERMIT-2026-6E034384",
+    "citizen_id": "CIT-000034",
+    "amount_php": 3872.18,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-01-21T10:43:55",
+    "reference_number": "REF2324665136442"
+  },
+  {
+    "payment_id": "PAY-2026-60CE4412",
+    "permit_id": "PERMIT-2026-2AD06D84",
+    "citizen_id": "CIT-000192",
+    "amount_php": 6206.68,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-30T04:27:25",
+    "reference_number": "REF4936312303477"
+  },
+  {
+    "payment_id": "PAY-2026-D2943C8F",
+    "permit_id": "PERMIT-2026-2F8BAEE5",
+    "citizen_id": "CIT-000002",
+    "amount_php": 1217.4,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-24T09:55:39",
+    "reference_number": "REF8660324204482"
+  },
+  {
+    "payment_id": "PAY-2026-567ED1CA",
+    "permit_id": "PERMIT-2026-EFD235DE",
+    "citizen_id": "CIT-000151",
+    "amount_php": 8292.3,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-17T09:29:48",
+    "reference_number": "REF0700159416516"
+  },
+  {
+    "payment_id": "PAY-2026-FA540244",
+    "permit_id": "PERMIT-2026-EB7EA367",
+    "citizen_id": "CIT-000074",
+    "amount_php": 715.37,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-21T22:51:11",
+    "reference_number": "REF2319818984713"
+  },
+  {
+    "payment_id": "PAY-2026-D483B9E9",
+    "permit_id": "PERMIT-2026-C7ED0B4F",
+    "citizen_id": "CIT-000215",
+    "amount_php": 1543.91,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-02T04:20:11",
+    "reference_number": "REF9155963632123"
+  },
+  {
+    "payment_id": "PAY-2026-53482908",
+    "permit_id": "PERMIT-2026-CA9CC5DE",
+    "citizen_id": "CIT-000320",
+    "amount_php": 529.47,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-05-02T06:36:15",
+    "reference_number": "REF4764907851586"
+  },
+  {
+    "payment_id": "PAY-2026-EA6138DF",
+    "permit_id": "PERMIT-2026-AEFAB2FB",
+    "citizen_id": "CIT-000267",
+    "amount_php": 6951.35,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-04T05:36:44",
+    "reference_number": "REF7342575409003"
+  },
+  {
+    "payment_id": "PAY-2026-BC7239A3",
+    "permit_id": "PERMIT-2026-5D4A0751",
+    "citizen_id": "CIT-000263",
+    "amount_php": 1532.08,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T01:15:59",
+    "reference_number": "REF4864518376064"
+  },
+  {
+    "payment_id": "PAY-2026-09924F83",
+    "permit_id": "PERMIT-2026-61F02388",
+    "citizen_id": "CIT-000020",
+    "amount_php": 5220.27,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-22T23:54:28",
+    "reference_number": "REF4134327560417"
+  },
+  {
+    "payment_id": "PAY-2026-9310462E",
+    "permit_id": "PERMIT-2026-FB14AA63",
+    "citizen_id": "CIT-000120",
+    "amount_php": 1968.69,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T19:01:10",
+    "reference_number": "REF7656124815698"
+  },
+  {
+    "payment_id": "PAY-2026-AA459096",
+    "permit_id": "PERMIT-2026-5D4A0751",
+    "citizen_id": "CIT-000263",
+    "amount_php": 4356.88,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-29T02:15:59",
+    "reference_number": "REF5700272063459"
+  },
+  {
+    "payment_id": "PAY-2026-A333749D",
+    "permit_id": "PERMIT-2026-67B92F74",
+    "citizen_id": "CIT-000285",
+    "amount_php": 2624.64,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-22T19:24:47",
+    "reference_number": "REF1123829657724"
+  },
+  {
+    "payment_id": "PAY-2026-571A84E5",
+    "permit_id": "PERMIT-2026-CAA8613A",
+    "citizen_id": "CIT-000373",
+    "amount_php": 530.86,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-08T06:34:44",
+    "reference_number": "REF2954316526693"
+  },
+  {
+    "payment_id": "PAY-2026-ACCA0E39",
+    "permit_id": "PERMIT-2026-E6D5A9D0",
+    "citizen_id": "CIT-000038",
+    "amount_php": 7892.52,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-11-04T14:08:41",
+    "reference_number": "REF0089317342069"
+  },
+  {
+    "payment_id": "PAY-2026-F208BC11",
+    "permit_id": "PERMIT-2026-EE9C3A60",
+    "citizen_id": "CIT-000039",
+    "amount_php": 8333.2,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-18T11:56:14",
+    "reference_number": "REF6942152910867"
+  },
+  {
+    "payment_id": "PAY-2026-8730E9A2",
+    "permit_id": "PERMIT-2026-AF77265A",
+    "citizen_id": "CIT-000257",
+    "amount_php": 3051.31,
+    "payment_method": "Over-the-Counter",
+    "status": "Failed",
+    "transaction_date": "2025-11-05T23:58:07",
+    "reference_number": "REF7133344762639"
+  },
+  {
+    "payment_id": "PAY-2026-E57FEE0A",
+    "permit_id": "PERMIT-2026-4184F77C",
+    "citizen_id": "CIT-000348",
+    "amount_php": 8052.67,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-09T10:01:27",
+    "reference_number": "REF3436262044397"
+  },
+  {
+    "payment_id": "PAY-2026-D0A2B22B",
+    "permit_id": "PERMIT-2026-136EDF85",
+    "citizen_id": "CIT-000237",
+    "amount_php": 7651.1,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-29T02:38:30",
+    "reference_number": "REF3597107256366"
+  },
+  {
+    "payment_id": "PAY-2026-54822A39",
+    "permit_id": "PERMIT-2026-3EB87ED1",
+    "citizen_id": "CIT-000029",
+    "amount_php": 6962.95,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-16T06:26:41",
+    "reference_number": "REF9411800537599"
+  },
+  {
+    "payment_id": "PAY-2026-6AEEB6F4",
+    "permit_id": "PERMIT-2026-8248D312",
+    "citizen_id": "CIT-000377",
+    "amount_php": 2287.49,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-17T12:19:44",
+    "reference_number": "REF0048964652809"
+  },
+  {
+    "payment_id": "PAY-2026-11383C8D",
+    "permit_id": "PERMIT-2026-E3E1B3FC",
+    "citizen_id": "CIT-000438",
+    "amount_php": 6377.18,
+    "payment_method": "Debit Card",
+    "status": "Failed",
+    "transaction_date": "2025-10-20T18:27:42",
+    "reference_number": "REF2428757215862"
+  },
+  {
+    "payment_id": "PAY-2026-23A8600E",
+    "permit_id": "PERMIT-2026-506C65AF",
+    "citizen_id": "CIT-000090",
+    "amount_php": 5446.45,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-12-02T20:34:54",
+    "reference_number": "REF4150274564494"
+  },
+  {
+    "payment_id": "PAY-2026-8F983F89",
+    "permit_id": "PERMIT-2026-BE8CA774",
+    "citizen_id": "CIT-000299",
+    "amount_php": 2857.6,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-05-23T03:47:39",
+    "reference_number": "REF8562572870320"
+  },
+  {
+    "payment_id": "PAY-2026-D67C388C",
+    "permit_id": "PERMIT-2026-08D1AC8D",
+    "citizen_id": "CIT-000326",
+    "amount_php": 3874.57,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-31T16:47:57",
+    "reference_number": "REF3207427617075"
+  },
+  {
+    "payment_id": "PAY-2026-88F1805C",
+    "permit_id": "PERMIT-2026-2171BC80",
+    "citizen_id": "CIT-000363",
+    "amount_php": 7683.1,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-26T21:10:41",
+    "reference_number": "REF8777121513422"
+  },
+  {
+    "payment_id": "PAY-2026-2AFD8D35",
+    "permit_id": "PERMIT-2026-3FE0CFAF",
+    "citizen_id": "CIT-000378",
+    "amount_php": 6960.24,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-25T22:41:52",
+    "reference_number": "REF8499390892613"
+  },
+  {
+    "payment_id": "PAY-2026-DA7AA281",
+    "permit_id": "PERMIT-2026-25014B1C",
+    "citizen_id": "CIT-000247",
+    "amount_php": 1656.4,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-13T20:23:58",
+    "reference_number": "REF7150416591520"
+  },
+  {
+    "payment_id": "PAY-2026-F2F5B3C5",
+    "permit_id": "PERMIT-2026-5E46740A",
+    "citizen_id": "CIT-000318",
+    "amount_php": 6976.12,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-14T00:10:05",
+    "reference_number": "REF1777490509759"
+  },
+  {
+    "payment_id": "PAY-2026-3435A46D",
+    "permit_id": "PERMIT-2026-DC0A8B67",
+    "citizen_id": "CIT-000099",
+    "amount_php": 751.61,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-03-02T12:06:28",
+    "reference_number": "REF2304501896164"
+  },
+  {
+    "payment_id": "PAY-2026-7B797900",
+    "permit_id": "PERMIT-2026-63E8A85C",
+    "citizen_id": "CIT-000024",
+    "amount_php": 6197.96,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-04T19:15:11",
+    "reference_number": "REF2361032664214"
+  },
+  {
+    "payment_id": "PAY-2026-3D5DF0B1",
+    "permit_id": "PERMIT-2026-C237CAD5",
+    "citizen_id": "CIT-000172",
+    "amount_php": 982.75,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-06T22:26:45",
+    "reference_number": "REF7649251583776"
+  },
+  {
+    "payment_id": "PAY-2026-6AAF94A1",
+    "permit_id": "PERMIT-2026-829FDECE",
+    "citizen_id": "CIT-000211",
+    "amount_php": 7954.56,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-04-06T23:23:23",
+    "reference_number": "REF7499616592661"
+  },
+  {
+    "payment_id": "PAY-2026-66FFF230",
+    "permit_id": "PERMIT-2026-70B6A266",
+    "citizen_id": "CIT-000226",
+    "amount_php": 1341.01,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-20T06:18:39",
+    "reference_number": "REF0857327881476"
+  },
+  {
+    "payment_id": "PAY-2026-235D8EE6",
+    "permit_id": "PERMIT-2026-F045C09E",
+    "citizen_id": "CIT-000340",
+    "amount_php": 4678.79,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-26T19:02:12",
+    "reference_number": "REF1742243864908"
+  },
+  {
+    "payment_id": "PAY-2026-A175FA54",
+    "permit_id": "PERMIT-2026-DE281AA0",
+    "citizen_id": "CIT-000504",
+    "amount_php": 1312.57,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2025-11-20T20:28:54",
+    "reference_number": "REF1081866179454"
+  },
+  {
+    "payment_id": "PAY-2026-D66181DA",
+    "permit_id": "PERMIT-2026-B3A54B1A",
+    "citizen_id": "CIT-000119",
+    "amount_php": 2920.17,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-10T19:27:50",
+    "reference_number": "REF9180172260164"
+  },
+  {
+    "payment_id": "PAY-2026-0C260856",
+    "permit_id": "PERMIT-2026-4825A368",
+    "citizen_id": "CIT-000148",
+    "amount_php": 4689.17,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-15T02:22:19",
+    "reference_number": "REF5977945232194"
+  },
+  {
+    "payment_id": "PAY-2026-794B9CE9",
+    "permit_id": "PERMIT-2026-99C523E6",
+    "citizen_id": "CIT-000214",
+    "amount_php": 2627.77,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-05-22T12:11:03",
+    "reference_number": "REF1680061027769"
+  },
+  {
+    "payment_id": "PAY-2026-74401AA4",
+    "permit_id": "PERMIT-2026-BE158009",
+    "citizen_id": "CIT-000378",
+    "amount_php": 160.11,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-11T22:29:07",
+    "reference_number": "REF7499564122031"
+  },
+  {
+    "payment_id": "PAY-2026-8CEFD76A",
+    "permit_id": "PERMIT-2026-DB932115",
+    "citizen_id": "CIT-000476",
+    "amount_php": 1380.59,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-17T22:32:39",
+    "reference_number": "REF0303723683147"
+  },
+  {
+    "payment_id": "PAY-2026-2D989AF6",
+    "permit_id": "PERMIT-2026-129B2F3E",
+    "citizen_id": "CIT-000047",
+    "amount_php": 7533.27,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-20T02:01:04",
+    "reference_number": "REF2760122777079"
+  },
+  {
+    "payment_id": "PAY-2026-91EFBE74",
+    "permit_id": "PERMIT-2026-41F0585D",
+    "citizen_id": "CIT-000159",
+    "amount_php": 999.5,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-15T14:58:37",
+    "reference_number": "REF3349605016679"
+  },
+  {
+    "payment_id": "PAY-2026-D5BAA16B",
+    "permit_id": "PERMIT-2026-4E093FD7",
+    "citizen_id": "CIT-000290",
+    "amount_php": 3160.12,
+    "payment_method": "GCash",
+    "status": "Pending",
+    "transaction_date": "2026-01-12T05:19:40",
+    "reference_number": "REF9840767899730"
+  },
+  {
+    "payment_id": "PAY-2026-51443A81",
+    "permit_id": "PERMIT-2026-3CC0DDB6",
+    "citizen_id": "CIT-000424",
+    "amount_php": 3729.05,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-31T15:12:51",
+    "reference_number": "REF8069581467179"
+  },
+  {
+    "payment_id": "PAY-2026-36B20D64",
+    "permit_id": "PERMIT-2026-1D015479",
+    "citizen_id": "CIT-000302",
+    "amount_php": 7607.53,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-05T11:54:04",
+    "reference_number": "REF5760243757383"
+  },
+  {
+    "payment_id": "PAY-2026-BEC04F80",
+    "permit_id": "PERMIT-2026-721618BF",
+    "citizen_id": "CIT-000037",
+    "amount_php": 7459.61,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-09-22T02:25:57",
+    "reference_number": "REF9597246657293"
+  },
+  {
+    "payment_id": "PAY-2026-EB92935B",
+    "permit_id": "PERMIT-2026-2171BC80",
+    "citizen_id": "CIT-000363",
+    "amount_php": 6919.51,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-10-27T04:10:41",
+    "reference_number": "REF4172232971674"
+  },
+  {
+    "payment_id": "PAY-2026-5F1FE5B7",
+    "permit_id": "PERMIT-2026-35DC0EF3",
+    "citizen_id": "CIT-000464",
+    "amount_php": 6644.5,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-18T14:20:24",
+    "reference_number": "REF3380054522801"
+  },
+  {
+    "payment_id": "PAY-2026-D85C2B11",
+    "permit_id": "PERMIT-2026-61F02388",
+    "citizen_id": "CIT-000020",
+    "amount_php": 6173.22,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-23T02:54:28",
+    "reference_number": "REF5619318374550"
+  },
+  {
+    "payment_id": "PAY-2026-BA704FC7",
+    "permit_id": "PERMIT-2026-7B46616B",
+    "citizen_id": "CIT-000058",
+    "amount_php": 3719.23,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-17T18:53:40",
+    "reference_number": "REF8428910771199"
+  },
+  {
+    "payment_id": "PAY-2026-A7D8EBB2",
+    "permit_id": "PERMIT-2026-53DBC930",
+    "citizen_id": "CIT-000214",
+    "amount_php": 8456.34,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-03-11T21:12:38",
+    "reference_number": "REF1808121352478"
+  },
+  {
+    "payment_id": "PAY-2026-1B3F5A9A",
+    "permit_id": "PERMIT-2026-91A9168C",
+    "citizen_id": "CIT-000369",
+    "amount_php": 4276.62,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-11T16:32:37",
+    "reference_number": "REF7125521376037"
+  },
+  {
+    "payment_id": "PAY-2026-7B4A7646",
+    "permit_id": "PERMIT-2026-3DE0242F",
+    "citizen_id": "CIT-000493",
+    "amount_php": 6775.74,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-18T10:08:00",
+    "reference_number": "REF5482145653286"
+  },
+  {
+    "payment_id": "PAY-2026-08F401EE",
+    "permit_id": "PERMIT-2026-9AD98AF3",
+    "citizen_id": "CIT-000238",
+    "amount_php": 3645.81,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-30T05:22:16",
+    "reference_number": "REF3266678507208"
+  },
+  {
+    "payment_id": "PAY-2026-491208FC",
+    "permit_id": "PERMIT-2026-25559459",
+    "citizen_id": "CIT-000504",
+    "amount_php": 4627.37,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-14T23:08:07",
+    "reference_number": "REF1155626060290"
+  },
+  {
+    "payment_id": "PAY-2026-278A1157",
+    "permit_id": "PERMIT-2026-F8CD6EAF",
+    "citizen_id": "CIT-000179",
+    "amount_php": 4975.27,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-03T19:52:22",
+    "reference_number": "REF8466845504892"
+  },
+  {
+    "payment_id": "PAY-2026-05DBD4D3",
+    "permit_id": "PERMIT-2026-EE613926",
+    "citizen_id": "CIT-000162",
+    "amount_php": 878.54,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-16T07:50:32",
+    "reference_number": "REF6738997563410"
+  },
+  {
+    "payment_id": "PAY-2026-9BAFC41B",
+    "permit_id": "PERMIT-2026-CC9EA27F",
+    "citizen_id": "CIT-000449",
+    "amount_php": 4812.43,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2026-02-04T12:11:21",
+    "reference_number": "REF8562884318848"
+  },
+  {
+    "payment_id": "PAY-2026-2944CA38",
+    "permit_id": "PERMIT-2026-198E80CC",
+    "citizen_id": "CIT-000195",
+    "amount_php": 3163.17,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-03-22T03:10:05",
+    "reference_number": "REF5200894346810"
+  },
+  {
+    "payment_id": "PAY-2026-CCF99BF3",
+    "permit_id": "PERMIT-2026-31C12753",
+    "citizen_id": "CIT-000053",
+    "amount_php": 8264.69,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-19T19:56:31",
+    "reference_number": "REF5485101749075"
+  },
+  {
+    "payment_id": "PAY-2026-0F9952C4",
+    "permit_id": "PERMIT-2026-BB127283",
+    "citizen_id": "CIT-000486",
+    "amount_php": 6387.41,
+    "payment_method": "GCash",
+    "status": "Failed",
+    "transaction_date": "2026-03-20T18:19:53",
+    "reference_number": "REF3998935449268"
+  },
+  {
+    "payment_id": "PAY-2026-52C264F2",
+    "permit_id": "PERMIT-2026-359008E8",
+    "citizen_id": "CIT-000175",
+    "amount_php": 6271.23,
+    "payment_method": "Bank Transfer",
+    "status": "Failed",
+    "transaction_date": "2026-01-17T14:23:01",
+    "reference_number": "REF3158935712661"
+  },
+  {
+    "payment_id": "PAY-2026-94C0C935",
+    "permit_id": "PERMIT-2026-42D6288F",
+    "citizen_id": "CIT-000064",
+    "amount_php": 6006.7,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-02-20T13:23:18",
+    "reference_number": "REF1062737158698"
+  },
+  {
+    "payment_id": "PAY-2026-E5E264B3",
+    "permit_id": "PERMIT-2026-28E8D91F",
+    "citizen_id": "CIT-000166",
+    "amount_php": 7418.48,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-14T19:09:00",
+    "reference_number": "REF8649767762282"
+  },
+  {
+    "payment_id": "PAY-2026-D2C6FED9",
+    "permit_id": "PERMIT-2026-D4F5F55F",
+    "citizen_id": "CIT-000207",
+    "amount_php": 2196.13,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-04T05:06:42",
+    "reference_number": "REF7728813770285"
+  },
+  {
+    "payment_id": "PAY-2026-C15D77B3",
+    "permit_id": "PERMIT-2026-00C04303",
+    "citizen_id": "CIT-000433",
+    "amount_php": 6541.24,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-20T07:45:20",
+    "reference_number": "REF1961159408215"
+  },
+  {
+    "payment_id": "PAY-2026-466D40D0",
+    "permit_id": "PERMIT-2026-CFC4E1AB",
+    "citizen_id": "CIT-000479",
+    "amount_php": 3586.21,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-22T17:30:04",
+    "reference_number": "REF4544702296044"
+  },
+  {
+    "payment_id": "PAY-2026-AF36A735",
+    "permit_id": "PERMIT-2026-829FDECE",
+    "citizen_id": "CIT-000211",
+    "amount_php": 1079.08,
+    "payment_method": "GCash",
+    "status": "Pending",
+    "transaction_date": "2026-04-06T00:23:23",
+    "reference_number": "REF3270185106794"
+  },
+  {
+    "payment_id": "PAY-2026-FF94C222",
+    "permit_id": "PERMIT-2026-48018D6B",
+    "citizen_id": "CIT-000270",
+    "amount_php": 6421.96,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-04-22T17:23:35",
+    "reference_number": "REF9756792287772"
+  },
+  {
+    "payment_id": "PAY-2026-DBD3F37F",
+    "permit_id": "PERMIT-2026-BCDEEED5",
+    "citizen_id": "CIT-000337",
+    "amount_php": 5827.19,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-15T17:07:09",
+    "reference_number": "REF5199663658074"
+  },
+  {
+    "payment_id": "PAY-2026-4A94B8D8",
+    "permit_id": "PERMIT-2026-BB829AC8",
+    "citizen_id": "CIT-000425",
+    "amount_php": 4340.63,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-03T03:01:20",
+    "reference_number": "REF1209481813989"
+  },
+  {
+    "payment_id": "PAY-2026-8B83F951",
+    "permit_id": "PERMIT-2026-53093E74",
+    "citizen_id": "CIT-000180",
+    "amount_php": 8275.57,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-11-23T11:30:48",
+    "reference_number": "REF0983780182043"
+  },
+  {
+    "payment_id": "PAY-2026-7017AADE",
+    "permit_id": "PERMIT-2026-F1576E2A",
+    "citizen_id": "CIT-000102",
+    "amount_php": 1919.07,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-10T21:25:11",
+    "reference_number": "REF3971895690705"
+  },
+  {
+    "payment_id": "PAY-2026-CD021A7C",
+    "permit_id": "PERMIT-2026-DBBADA84",
+    "citizen_id": "CIT-000463",
+    "amount_php": 7017.92,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-09-25T02:41:15",
+    "reference_number": "REF6260856411182"
+  },
+  {
+    "payment_id": "PAY-2026-E5FC4DE6",
+    "permit_id": "PERMIT-2026-6DB8DED8",
+    "citizen_id": "CIT-000400",
+    "amount_php": 4061.44,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-08T09:42:02",
+    "reference_number": "REF4224124620952"
+  },
+  {
+    "payment_id": "PAY-2026-146FBEE2",
+    "permit_id": "PERMIT-2026-CD5FD115",
+    "citizen_id": "CIT-000045",
+    "amount_php": 1526.28,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-16T12:25:02",
+    "reference_number": "REF0046152654610"
+  },
+  {
+    "payment_id": "PAY-2026-55511C6F",
+    "permit_id": "PERMIT-2026-B3E9F097",
+    "citizen_id": "CIT-000476",
+    "amount_php": 1055.15,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-10T23:43:41",
+    "reference_number": "REF3399378861405"
+  },
+  {
+    "payment_id": "PAY-2026-BF381E02",
+    "permit_id": "PERMIT-2026-ECDC2AB5",
+    "citizen_id": "CIT-000158",
+    "amount_php": 2150.07,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-25T07:14:57",
+    "reference_number": "REF7861706304891"
+  },
+  {
+    "payment_id": "PAY-2026-B9CCFEF0",
+    "permit_id": "PERMIT-2026-B1A6127C",
+    "citizen_id": "CIT-000216",
+    "amount_php": 5135.87,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-03T07:40:57",
+    "reference_number": "REF3824967183258"
+  },
+  {
+    "payment_id": "PAY-2026-1C5E794C",
+    "permit_id": "PERMIT-2026-1B073C38",
+    "citizen_id": "CIT-000190",
+    "amount_php": 7908.84,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-23T03:18:29",
+    "reference_number": "REF2386870079420"
+  },
+  {
+    "payment_id": "PAY-2026-70B5AD05",
+    "permit_id": "PERMIT-2026-8C7B9DBD",
+    "citizen_id": "CIT-000419",
+    "amount_php": 8387.22,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-19T01:04:25",
+    "reference_number": "REF0749465398402"
+  },
+  {
+    "payment_id": "PAY-2026-B28EDDBC",
+    "permit_id": "PERMIT-2026-8B9B25F9",
+    "citizen_id": "CIT-000336",
+    "amount_php": 8028.3,
+    "payment_method": "GCash",
+    "status": "Refunded",
+    "transaction_date": "2025-12-27T01:41:55",
+    "reference_number": "REF8914161284639"
+  },
+  {
+    "payment_id": "PAY-2026-2235E81E",
+    "permit_id": "PERMIT-2026-46CECD7D",
+    "citizen_id": "CIT-000497",
+    "amount_php": 4326.8,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-27T01:53:09",
+    "reference_number": "REF8554743553795"
+  },
+  {
+    "payment_id": "PAY-2026-F3F44620",
+    "permit_id": "PERMIT-2026-79C540CC",
+    "citizen_id": "CIT-000233",
+    "amount_php": 6017.18,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-25T15:03:04",
+    "reference_number": "REF0209700268768"
+  },
+  {
+    "payment_id": "PAY-2026-131F0836",
+    "permit_id": "PERMIT-2026-C7ED0B4F",
+    "citizen_id": "CIT-000215",
+    "amount_php": 4343.18,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-02T09:20:11",
+    "reference_number": "REF1180715695620"
+  },
+  {
+    "payment_id": "PAY-2026-BABF71E4",
+    "permit_id": "PERMIT-2026-81AEDAE1",
+    "citizen_id": "CIT-000194",
+    "amount_php": 5046.09,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T03:52:12",
+    "reference_number": "REF1753703045319"
+  },
+  {
+    "payment_id": "PAY-2026-D6985399",
+    "permit_id": "PERMIT-2026-5C31365A",
+    "citizen_id": "CIT-000295",
+    "amount_php": 4016.94,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-02-23T01:35:07",
+    "reference_number": "REF4337504793036"
+  },
+  {
+    "payment_id": "PAY-2026-FD18BBD5",
+    "permit_id": "PERMIT-2026-90BC3A73",
+    "citizen_id": "CIT-000236",
+    "amount_php": 6892.42,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-10-12T13:09:23",
+    "reference_number": "REF1498728399921"
+  },
+  {
+    "payment_id": "PAY-2026-1ADA420D",
+    "permit_id": "PERMIT-2026-808079FA",
+    "citizen_id": "CIT-000310",
+    "amount_php": 4461.11,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-02T16:43:36",
+    "reference_number": "REF9212493843089"
+  },
+  {
+    "payment_id": "PAY-2026-1D4C2C59",
+    "permit_id": "PERMIT-2026-B46C5891",
+    "citizen_id": "CIT-000399",
+    "amount_php": 3886.46,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-18T11:08:48",
+    "reference_number": "REF4870605664187"
+  },
+  {
+    "payment_id": "PAY-2026-A890FF0C",
+    "permit_id": "PERMIT-2026-C1329669",
+    "citizen_id": "CIT-000126",
+    "amount_php": 7297.2,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-27T10:54:41",
+    "reference_number": "REF7580304687506"
+  },
+  {
+    "payment_id": "PAY-2026-0E5A6B92",
+    "permit_id": "PERMIT-2026-627A4070",
+    "citizen_id": "CIT-000306",
+    "amount_php": 1893.65,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-02-07T11:39:31",
+    "reference_number": "REF3519036133254"
+  },
+  {
+    "payment_id": "PAY-2026-5A60E92D",
+    "permit_id": "PERMIT-2026-EB49B787",
+    "citizen_id": "CIT-000133",
+    "amount_php": 5392.04,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-06T11:45:17",
+    "reference_number": "REF1107609543173"
+  },
+  {
+    "payment_id": "PAY-2026-A47F0DB0",
+    "permit_id": "PERMIT-2026-3112A82A",
+    "citizen_id": "CIT-000415",
+    "amount_php": 6548.75,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-23T23:14:35",
+    "reference_number": "REF5058319971791"
+  },
+  {
+    "payment_id": "PAY-2026-27C79E53",
+    "permit_id": "PERMIT-2026-DD234562",
+    "citizen_id": "CIT-000431",
+    "amount_php": 935.85,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-08T17:15:44",
+    "reference_number": "REF1006512070496"
+  },
+  {
+    "payment_id": "PAY-2026-B4DC3CE3",
+    "permit_id": "PERMIT-2026-D4E398CA",
+    "citizen_id": "CIT-000220",
+    "amount_php": 719.15,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-12-29T10:30:18",
+    "reference_number": "REF1108046619639"
+  },
+  {
+    "payment_id": "PAY-2026-BBBC207B",
+    "permit_id": "PERMIT-2026-1BC6B335",
+    "citizen_id": "CIT-000454",
+    "amount_php": 1646.21,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-13T13:52:32",
+    "reference_number": "REF9076769915078"
+  },
+  {
+    "payment_id": "PAY-2026-45F19ECE",
+    "permit_id": "PERMIT-2026-CD912050",
+    "citizen_id": "CIT-000384",
+    "amount_php": 6522.27,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-18T22:50:16",
+    "reference_number": "REF5931109193928"
+  },
+  {
+    "payment_id": "PAY-2026-2EF35959",
+    "permit_id": "PERMIT-2026-B9CDC946",
+    "citizen_id": "CIT-000513",
+    "amount_php": 8263.53,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-22T15:59:34",
+    "reference_number": "REF4567972320024"
+  },
+  {
+    "payment_id": "PAY-2026-E29A5154",
+    "permit_id": "PERMIT-2026-721618BF",
+    "citizen_id": "CIT-000037",
+    "amount_php": 3565.43,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2025-09-22T05:25:57",
+    "reference_number": "REF9685498227495"
+  },
+  {
+    "payment_id": "PAY-2026-FEE2A885",
+    "permit_id": "PERMIT-2026-CA9CC5DE",
+    "citizen_id": "CIT-000320",
+    "amount_php": 3212.21,
+    "payment_method": "Over-the-Counter",
+    "status": "Failed",
+    "transaction_date": "2026-05-02T16:36:15",
+    "reference_number": "REF4508920388065"
+  },
+  {
+    "payment_id": "PAY-2026-7EC46870",
+    "permit_id": "PERMIT-2026-521113F0",
+    "citizen_id": "CIT-000427",
+    "amount_php": 5846.38,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-11-10T20:57:42",
+    "reference_number": "REF3331537795995"
+  },
+  {
+    "payment_id": "PAY-2026-193A4874",
+    "permit_id": "PERMIT-2026-0D193E22",
+    "citizen_id": "CIT-000380",
+    "amount_php": 8311.55,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-26T22:01:52",
+    "reference_number": "REF9465217073033"
+  },
+  {
+    "payment_id": "PAY-2026-68E3FD72",
+    "permit_id": "PERMIT-2026-E9A1D57C",
+    "citizen_id": "CIT-000431",
+    "amount_php": 7007.31,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-01T15:13:57",
+    "reference_number": "REF7933756362050"
+  },
+  {
+    "payment_id": "PAY-2026-0D039050",
+    "permit_id": "PERMIT-2026-24AB0E58",
+    "citizen_id": "CIT-000395",
+    "amount_php": 3288.11,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-11-21T18:03:22",
+    "reference_number": "REF1508124739500"
+  },
+  {
+    "payment_id": "PAY-2026-4C9DD788",
+    "permit_id": "PERMIT-2026-C09E8F0C",
+    "citizen_id": "CIT-000149",
+    "amount_php": 3391.66,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-13T02:04:27",
+    "reference_number": "REF3342342583230"
+  },
+  {
+    "payment_id": "PAY-2026-408AF276",
+    "permit_id": "PERMIT-2026-92E03F28",
+    "citizen_id": "CIT-000443",
+    "amount_php": 4061.88,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-02-18T01:37:50",
+    "reference_number": "REF2410261534735"
+  },
+  {
+    "payment_id": "PAY-2026-FDEA57E1",
+    "permit_id": "PERMIT-2026-8A3A7509",
+    "citizen_id": "CIT-000425",
+    "amount_php": 866.62,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-18T08:23:15",
+    "reference_number": "REF5289611223386"
+  },
+  {
+    "payment_id": "PAY-2026-7A3A77FA",
+    "permit_id": "PERMIT-2026-3C96EB8E",
+    "citizen_id": "CIT-000501",
+    "amount_php": 1815.58,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-07-02T15:50:54",
+    "reference_number": "REF5596309938425"
+  },
+  {
+    "payment_id": "PAY-2026-CA1E57EC",
+    "permit_id": "PERMIT-2026-6BD9A230",
+    "citizen_id": "CIT-000187",
+    "amount_php": 4210.56,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-02-09T14:47:06",
+    "reference_number": "REF3042897317912"
+  },
+  {
+    "payment_id": "PAY-2026-0E469CB9",
+    "permit_id": "PERMIT-2026-59B2D94D",
+    "citizen_id": "CIT-000403",
+    "amount_php": 3945.73,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-01T04:36:05",
+    "reference_number": "REF8685787255877"
+  },
+  {
+    "payment_id": "PAY-2026-E74D616C",
+    "permit_id": "PERMIT-2026-DC23A1B4",
+    "citizen_id": "CIT-000452",
+    "amount_php": 5495.81,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-19T22:58:52",
+    "reference_number": "REF7496903337363"
+  },
+  {
+    "payment_id": "PAY-2026-E9167337",
+    "permit_id": "PERMIT-2026-CA0E3733",
+    "citizen_id": "CIT-000239",
+    "amount_php": 7969.44,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-09T02:31:32",
+    "reference_number": "REF4669254812147"
+  },
+  {
+    "payment_id": "PAY-2026-2150AB3B",
+    "permit_id": "PERMIT-2026-CD912050",
+    "citizen_id": "CIT-000384",
+    "amount_php": 601.55,
+    "payment_method": "GCash",
+    "status": "Failed",
+    "transaction_date": "2026-03-18T19:50:16",
+    "reference_number": "REF8539078956776"
+  },
+  {
+    "payment_id": "PAY-2026-9A591D99",
+    "permit_id": "PERMIT-2026-93482DC8",
+    "citizen_id": "CIT-000382",
+    "amount_php": 2254.8,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-05-23T19:16:22",
+    "reference_number": "REF6575460273415"
+  },
+  {
+    "payment_id": "PAY-2026-0BF3FB60",
+    "permit_id": "PERMIT-2026-07E6ED3A",
+    "citizen_id": "CIT-000049",
+    "amount_php": 3532.32,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-02-10T20:31:55",
+    "reference_number": "REF1488814311150"
+  },
+  {
+    "payment_id": "PAY-2026-EC90C97A",
+    "permit_id": "PERMIT-2026-25716692",
+    "citizen_id": "CIT-000286",
+    "amount_php": 4531.9,
+    "payment_method": "Bank Transfer",
+    "status": "Pending",
+    "transaction_date": "2025-11-11T04:12:08",
+    "reference_number": "REF8353544439284"
+  },
+  {
+    "payment_id": "PAY-2026-87BD3B09",
+    "permit_id": "PERMIT-2026-41EF8E33",
+    "citizen_id": "CIT-000436",
+    "amount_php": 921.88,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-08T14:15:14",
+    "reference_number": "REF0445669078263"
+  },
+  {
+    "payment_id": "PAY-2026-4FBDD5A8",
+    "permit_id": "PERMIT-2026-C3E9A4A8",
+    "citizen_id": "CIT-000215",
+    "amount_php": 1808.35,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-21T17:22:53",
+    "reference_number": "REF3373898775153"
+  },
+  {
+    "payment_id": "PAY-2026-7E48B3CB",
+    "permit_id": "PERMIT-2026-808079FA",
+    "citizen_id": "CIT-000310",
+    "amount_php": 3797.15,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-03T04:43:36",
+    "reference_number": "REF6637780529240"
+  },
+  {
+    "payment_id": "PAY-2026-25B4045C",
+    "permit_id": "PERMIT-2026-43BED5D7",
+    "citizen_id": "CIT-000250",
+    "amount_php": 6688.65,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-09-25T08:50:24",
+    "reference_number": "REF7553666845909"
+  },
+  {
+    "payment_id": "PAY-2026-4BCC7BD0",
+    "permit_id": "PERMIT-2026-D3B08D94",
+    "citizen_id": "CIT-000260",
+    "amount_php": 5694.93,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-09-13T23:56:30",
+    "reference_number": "REF0225999966361"
+  },
+  {
+    "payment_id": "PAY-2026-74BC791A",
+    "permit_id": "PERMIT-2026-74BE7756",
+    "citizen_id": "CIT-000440",
+    "amount_php": 1406.73,
+    "payment_method": "Debit Card",
+    "status": "Failed",
+    "transaction_date": "2026-04-29T14:13:23",
+    "reference_number": "REF8637159741218"
+  },
+  {
+    "payment_id": "PAY-2026-FFBBD260",
+    "permit_id": "PERMIT-2026-94806B41",
+    "citizen_id": "CIT-000216",
+    "amount_php": 1098.62,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-20T19:01:32",
+    "reference_number": "REF2097023164334"
+  },
+  {
+    "payment_id": "PAY-2026-2760DC97",
+    "permit_id": "PERMIT-2026-618D9DC7",
+    "citizen_id": "CIT-000228",
+    "amount_php": 180.7,
+    "payment_method": "Debit Card",
+    "status": "Failed",
+    "transaction_date": "2026-02-04T09:15:59",
+    "reference_number": "REF8170580256621"
+  },
+  {
+    "payment_id": "PAY-2026-1A518D06",
+    "permit_id": "PERMIT-2026-F1576E2A",
+    "citizen_id": "CIT-000102",
+    "amount_php": 3901.89,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-10T14:25:11",
+    "reference_number": "REF2867163234672"
+  },
+  {
+    "payment_id": "PAY-2026-C1B32108",
+    "permit_id": "PERMIT-2026-AB455EEB",
+    "citizen_id": "CIT-000450",
+    "amount_php": 8324.92,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-14T00:05:22",
+    "reference_number": "REF9949387430271"
+  },
+  {
+    "payment_id": "PAY-2026-06643E5C",
+    "permit_id": "PERMIT-2026-FAE4B220",
+    "citizen_id": "CIT-000105",
+    "amount_php": 3302.6,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-29T05:35:52",
+    "reference_number": "REF6938597779014"
+  },
+  {
+    "payment_id": "PAY-2026-9C0779FC",
+    "permit_id": "PERMIT-2026-333C09B7",
+    "citizen_id": "CIT-000497",
+    "amount_php": 4966.58,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-12T06:12:27",
+    "reference_number": "REF7546926329676"
+  },
+  {
+    "payment_id": "PAY-2026-2720F044",
+    "permit_id": "PERMIT-2026-99C657FD",
+    "citizen_id": "CIT-000060",
+    "amount_php": 2671.24,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-11T18:09:58",
+    "reference_number": "REF2916032484137"
+  },
+  {
+    "payment_id": "PAY-2026-7B22339A",
+    "permit_id": "PERMIT-2026-515C6F9C",
+    "citizen_id": "CIT-000020",
+    "amount_php": 4317.74,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-01T20:24:48",
+    "reference_number": "REF6815118567243"
+  },
+  {
+    "payment_id": "PAY-2026-6CA70347",
+    "permit_id": "PERMIT-2026-9EC33E17",
+    "citizen_id": "CIT-000449",
+    "amount_php": 7065.35,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-08T11:30:54",
+    "reference_number": "REF8070176563600"
+  },
+  {
+    "payment_id": "PAY-2026-8945E141",
+    "permit_id": "PERMIT-2026-ECDC2AB5",
+    "citizen_id": "CIT-000158",
+    "amount_php": 7885.01,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-25T13:14:57",
+    "reference_number": "REF4125777118372"
+  },
+  {
+    "payment_id": "PAY-2026-07C787E3",
+    "permit_id": "PERMIT-2026-3EF6615D",
+    "citizen_id": "CIT-000389",
+    "amount_php": 5117.35,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-15T00:49:23",
+    "reference_number": "REF7422091241862"
+  },
+  {
+    "payment_id": "PAY-2026-703BD2D9",
+    "permit_id": "PERMIT-2026-526933DE",
+    "citizen_id": "CIT-000157",
+    "amount_php": 5899.4,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-05T18:00:57",
+    "reference_number": "REF1042752308370"
+  },
+  {
+    "payment_id": "PAY-2026-8FE796DA",
+    "permit_id": "PERMIT-2026-B8A2788A",
+    "citizen_id": "CIT-000020",
+    "amount_php": 6879.6,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-05-07T07:30:08",
+    "reference_number": "REF8164709006335"
+  },
+  {
+    "payment_id": "PAY-2026-5E78A75C",
+    "permit_id": "PERMIT-2026-8576B8CF",
+    "citizen_id": "CIT-000047",
+    "amount_php": 7936.35,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-06-09T05:51:04",
+    "reference_number": "REF3310600531312"
+  },
+  {
+    "payment_id": "PAY-2026-22EF6A22",
+    "permit_id": "PERMIT-2026-BAD2E1BA",
+    "citizen_id": "CIT-000290",
+    "amount_php": 3858.26,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-13T09:00:27",
+    "reference_number": "REF2068155839386"
+  },
+  {
+    "payment_id": "PAY-2026-16F8B0CD",
+    "permit_id": "PERMIT-2026-E88D6165",
+    "citizen_id": "CIT-000376",
+    "amount_php": 1919.12,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-22T23:55:28",
+    "reference_number": "REF6133155206506"
+  },
+  {
+    "payment_id": "PAY-2026-A539FDD6",
+    "permit_id": "PERMIT-2026-59B2D94D",
+    "citizen_id": "CIT-000403",
+    "amount_php": 7300.46,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-28T23:36:05",
+    "reference_number": "REF3731495013649"
+  },
+  {
+    "payment_id": "PAY-2026-F0C0726E",
+    "permit_id": "PERMIT-2026-11917F42",
+    "citizen_id": "CIT-000455",
+    "amount_php": 7731.75,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-23T14:31:08",
+    "reference_number": "REF7189241956252"
+  },
+  {
+    "payment_id": "PAY-2026-CCF89C56",
+    "permit_id": "PERMIT-2026-BCDEEED5",
+    "citizen_id": "CIT-000337",
+    "amount_php": 7995.8,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-14T14:07:09",
+    "reference_number": "REF5715099768389"
+  },
+  {
+    "payment_id": "PAY-2026-98CB7670",
+    "permit_id": "PERMIT-2026-9CFF967A",
+    "citizen_id": "CIT-000227",
+    "amount_php": 2358.57,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-22T08:19:44",
+    "reference_number": "REF0309143639102"
+  },
+  {
+    "payment_id": "PAY-2026-B42D1E10",
+    "permit_id": "PERMIT-2026-A611ABB8",
+    "citizen_id": "CIT-000454",
+    "amount_php": 422.83,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-06T02:25:17",
+    "reference_number": "REF5743263039752"
+  },
+  {
+    "payment_id": "PAY-2026-5E39781B",
+    "permit_id": "PERMIT-2026-2BA54E65",
+    "citizen_id": "CIT-000218",
+    "amount_php": 6997.29,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-05T16:05:40",
+    "reference_number": "REF4508640355338"
+  },
+  {
+    "payment_id": "PAY-2026-567A54BD",
+    "permit_id": "PERMIT-2026-26159AEA",
+    "citizen_id": "CIT-000480",
+    "amount_php": 8440.12,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-17T16:42:50",
+    "reference_number": "REF0339685270171"
+  },
+  {
+    "payment_id": "PAY-2026-E34DB621",
+    "permit_id": "PERMIT-2026-2AFCB513",
+    "citizen_id": "CIT-000417",
+    "amount_php": 5295.84,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-01T03:00:47",
+    "reference_number": "REF3023212983381"
+  },
+  {
+    "payment_id": "PAY-2026-DE9B1449",
+    "permit_id": "PERMIT-2026-0B6011B1",
+    "citizen_id": "CIT-000384",
+    "amount_php": 7993.92,
+    "payment_method": "Debit Card",
+    "status": "Failed",
+    "transaction_date": "2025-12-16T14:32:30",
+    "reference_number": "REF6742336293449"
+  },
+  {
+    "payment_id": "PAY-2026-11A1C314",
+    "permit_id": "PERMIT-2026-22DD8813",
+    "citizen_id": "CIT-000110",
+    "amount_php": 7699.83,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-14T00:28:59",
+    "reference_number": "REF7347156627768"
+  },
+  {
+    "payment_id": "PAY-2026-4E07EADB",
+    "permit_id": "PERMIT-2026-C51A0A70",
+    "citizen_id": "CIT-000140",
+    "amount_php": 6078.71,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-21T19:46:14",
+    "reference_number": "REF9627066149828"
+  },
+  {
+    "payment_id": "PAY-2026-F41BAE1C",
+    "permit_id": "PERMIT-2026-DBBADA84",
+    "citizen_id": "CIT-000463",
+    "amount_php": 7804.16,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-09-26T07:41:15",
+    "reference_number": "REF2467474689715"
+  },
+  {
+    "payment_id": "PAY-2026-9BFF358E",
+    "permit_id": "PERMIT-2026-50C5F7AD",
+    "citizen_id": "CIT-000241",
+    "amount_php": 928.67,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-10T20:33:55",
+    "reference_number": "REF2732300857666"
+  },
+  {
+    "payment_id": "PAY-2026-9DAF5484",
+    "permit_id": "PERMIT-2026-EB49B787",
+    "citizen_id": "CIT-000133",
+    "amount_php": 5311.13,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-05-05T00:45:17",
+    "reference_number": "REF5674916016923"
+  },
+  {
+    "payment_id": "PAY-2026-9C8F7A6B",
+    "permit_id": "PERMIT-2026-C3F82137",
+    "citizen_id": "CIT-000366",
+    "amount_php": 3343.08,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-14T05:15:11",
+    "reference_number": "REF6458750663370"
+  },
+  {
+    "payment_id": "PAY-2026-DE6AF788",
+    "permit_id": "PERMIT-2026-71B6948E",
+    "citizen_id": "CIT-000049",
+    "amount_php": 5423.04,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-14T14:49:57",
+    "reference_number": "REF5024972439920"
+  },
+  {
+    "payment_id": "PAY-2026-F20316C5",
+    "permit_id": "PERMIT-2026-B48991F9",
+    "citizen_id": "CIT-000005",
+    "amount_php": 1768.47,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-04-13T19:23:41",
+    "reference_number": "REF1166918362644"
+  },
+  {
+    "payment_id": "PAY-2026-FA3127C4",
+    "permit_id": "PERMIT-2026-24D40546",
+    "citizen_id": "CIT-000318",
+    "amount_php": 5654.8,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-16T19:27:34",
+    "reference_number": "REF8869461195243"
+  },
+  {
+    "payment_id": "PAY-2026-33938A49",
+    "permit_id": "PERMIT-2026-31C12753",
+    "citizen_id": "CIT-000053",
+    "amount_php": 343.23,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-02-20T00:56:31",
+    "reference_number": "REF6402701168646"
+  },
+  {
+    "payment_id": "PAY-2026-8F065465",
+    "permit_id": "PERMIT-2026-4388A703",
+    "citizen_id": "CIT-000308",
+    "amount_php": 7892.11,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-15T07:46:30",
+    "reference_number": "REF2252237281793"
+  },
+  {
+    "payment_id": "PAY-2026-00664BE8",
+    "permit_id": "PERMIT-2026-46CECD7D",
+    "citizen_id": "CIT-000497",
+    "amount_php": 7619.95,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-26T16:53:09",
+    "reference_number": "REF2302346791214"
+  },
+  {
+    "payment_id": "PAY-2026-385AE6B2",
+    "permit_id": "PERMIT-2026-D5C6A240",
+    "citizen_id": "CIT-000234",
+    "amount_php": 3413.18,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-01T13:21:27",
+    "reference_number": "REF1614150937710"
+  },
+  {
+    "payment_id": "PAY-2026-2DB1623A",
+    "permit_id": "PERMIT-2026-3DE0242F",
+    "citizen_id": "CIT-000493",
+    "amount_php": 4212.42,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-17T00:08:00",
+    "reference_number": "REF0409013806984"
+  },
+  {
+    "payment_id": "PAY-2026-10500589",
+    "permit_id": "PERMIT-2026-2D93E424",
+    "citizen_id": "CIT-000385",
+    "amount_php": 7579.11,
+    "payment_method": "Bank Transfer",
+    "status": "Pending",
+    "transaction_date": "2025-11-28T03:50:39",
+    "reference_number": "REF7759655553566"
+  },
+  {
+    "payment_id": "PAY-2026-2ADAAB46",
+    "permit_id": "PERMIT-2026-808079FA",
+    "citizen_id": "CIT-000310",
+    "amount_php": 2644.6,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-01T19:43:36",
+    "reference_number": "REF9055107620918"
+  },
+  {
+    "payment_id": "PAY-2026-20DB5B4C",
+    "permit_id": "PERMIT-2026-48018D6B",
+    "citizen_id": "CIT-000270",
+    "amount_php": 8298.9,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-21T10:23:35",
+    "reference_number": "REF4357978630505"
+  },
+  {
+    "payment_id": "PAY-2026-F19EA993",
+    "permit_id": "PERMIT-2026-06B6A4FE",
+    "citizen_id": "CIT-000182",
+    "amount_php": 4506.6,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-05-31T22:59:56",
+    "reference_number": "REF0573976915671"
+  },
+  {
+    "payment_id": "PAY-2026-09DD6E03",
+    "permit_id": "PERMIT-2026-6E034384",
+    "citizen_id": "CIT-000034",
+    "amount_php": 396.79,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-01-21T03:43:55",
+    "reference_number": "REF6493289802714"
+  },
+  {
+    "payment_id": "PAY-2026-76F5790C",
+    "permit_id": "PERMIT-2026-EB49B787",
+    "citizen_id": "CIT-000133",
+    "amount_php": 7388.4,
+    "payment_method": "GCash",
+    "status": "Pending",
+    "transaction_date": "2026-05-05T12:45:17",
+    "reference_number": "REF8727178333211"
+  },
+  {
+    "payment_id": "PAY-2026-614BF413",
+    "permit_id": "PERMIT-2026-B1B8A53F",
+    "citizen_id": "CIT-000042",
+    "amount_php": 1307.02,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-03T05:41:57",
+    "reference_number": "REF6025643471287"
+  },
+  {
+    "payment_id": "PAY-2026-729A41A1",
+    "permit_id": "PERMIT-2026-1EDA4439",
+    "citizen_id": "CIT-000023",
+    "amount_php": 2435.12,
+    "payment_method": "Maya",
+    "status": "Failed",
+    "transaction_date": "2025-09-24T13:40:35",
+    "reference_number": "REF1539915668633"
+  },
+  {
+    "payment_id": "PAY-2026-813CA54A",
+    "permit_id": "PERMIT-2026-C93D5EF7",
+    "citizen_id": "CIT-000207",
+    "amount_php": 4755.0,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-02T19:11:06",
+    "reference_number": "REF4141115931952"
+  },
+  {
+    "payment_id": "PAY-2026-08642BFB",
+    "permit_id": "PERMIT-2026-EF57C2F1",
+    "citizen_id": "CIT-000002",
+    "amount_php": 4430.68,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-08T06:00:47",
+    "reference_number": "REF5690409836655"
+  },
+  {
+    "payment_id": "PAY-2026-2EDCA80F",
+    "permit_id": "PERMIT-2026-837463DD",
+    "citizen_id": "CIT-000353",
+    "amount_php": 1802.27,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-05T08:05:50",
+    "reference_number": "REF2899316087524"
+  },
+  {
+    "payment_id": "PAY-2026-7DA61942",
+    "permit_id": "PERMIT-2026-014B7CD2",
+    "citizen_id": "CIT-000257",
+    "amount_php": 5023.46,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-05-30T18:11:45",
+    "reference_number": "REF3772942095481"
+  },
+  {
+    "payment_id": "PAY-2026-A0123627",
+    "permit_id": "PERMIT-2026-0B4D0126",
+    "citizen_id": "CIT-000442",
+    "amount_php": 4223.4,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-04T03:40:00",
+    "reference_number": "REF4973746052330"
+  },
+  {
+    "payment_id": "PAY-2026-BF54657C",
+    "permit_id": "PERMIT-2026-1353B056",
+    "citizen_id": "CIT-000481",
+    "amount_php": 5351.31,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-25T10:35:33",
+    "reference_number": "REF2764208656756"
+  },
+  {
+    "payment_id": "PAY-2026-F3B55BAA",
+    "permit_id": "PERMIT-2026-6F8C4950",
+    "citizen_id": "CIT-000457",
+    "amount_php": 3096.84,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-24T10:31:39",
+    "reference_number": "REF6184438612590"
+  },
+  {
+    "payment_id": "PAY-2026-EC5A3AD0",
+    "permit_id": "PERMIT-2026-BF5CBCA0",
+    "citizen_id": "CIT-000473",
+    "amount_php": 7576.9,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-02-03T20:47:04",
+    "reference_number": "REF4729277423330"
+  },
+  {
+    "payment_id": "PAY-2026-DDD269AF",
+    "permit_id": "PERMIT-2026-88E89FBC",
+    "citizen_id": "CIT-000063",
+    "amount_php": 5192.42,
+    "payment_method": "Bank Transfer",
+    "status": "Failed",
+    "transaction_date": "2025-09-22T02:56:34",
+    "reference_number": "REF5912662015720"
+  },
+  {
+    "payment_id": "PAY-2026-73FB75E8",
+    "permit_id": "PERMIT-2026-9EC33E17",
+    "citizen_id": "CIT-000449",
+    "amount_php": 400.0,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-08T14:30:54",
+    "reference_number": "REF1859626301367"
+  },
+  {
+    "payment_id": "PAY-2026-5A8B3A3B",
+    "permit_id": "PERMIT-2026-0B6011B1",
+    "citizen_id": "CIT-000384",
+    "amount_php": 3137.17,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-16T17:32:30",
+    "reference_number": "REF4926176475011"
+  },
+  {
+    "payment_id": "PAY-2026-471F5321",
+    "permit_id": "PERMIT-2026-42D6288F",
+    "citizen_id": "CIT-000064",
+    "amount_php": 1361.08,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T09:23:18",
+    "reference_number": "REF1178309997419"
+  },
+  {
+    "payment_id": "PAY-2026-37DE30C3",
+    "permit_id": "PERMIT-2026-97B35421",
+    "citizen_id": "CIT-000273",
+    "amount_php": 241.02,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-31T02:09:26",
+    "reference_number": "REF2676492151826"
+  },
+  {
+    "payment_id": "PAY-2026-CDA7DE8B",
+    "permit_id": "PERMIT-2026-BDE4A441",
+    "citizen_id": "CIT-000408",
+    "amount_php": 4839.7,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-02T18:05:09",
+    "reference_number": "REF0688871898131"
+  },
+  {
+    "payment_id": "PAY-2026-398B129D",
+    "permit_id": "PERMIT-2026-48CAF9B0",
+    "citizen_id": "CIT-000399",
+    "amount_php": 1965.82,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-04T06:17:27",
+    "reference_number": "REF2920875102932"
+  },
+  {
+    "payment_id": "PAY-2026-6765DC6E",
+    "permit_id": "PERMIT-2026-45248F51",
+    "citizen_id": "CIT-000424",
+    "amount_php": 7603.74,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-13T21:40:30",
+    "reference_number": "REF1840118458260"
+  },
+  {
+    "payment_id": "PAY-2026-886279D0",
+    "permit_id": "PERMIT-2026-F4917AEA",
+    "citizen_id": "CIT-000414",
+    "amount_php": 6941.84,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-13T20:06:01",
+    "reference_number": "REF3408487297585"
+  },
+  {
+    "payment_id": "PAY-2026-C04E3A41",
+    "permit_id": "PERMIT-2026-171124C5",
+    "citizen_id": "CIT-000391",
+    "amount_php": 540.71,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-21T16:07:48",
+    "reference_number": "REF9883103032432"
+  },
+  {
+    "payment_id": "PAY-2026-57E0FD4F",
+    "permit_id": "PERMIT-2026-515C6F9C",
+    "citizen_id": "CIT-000020",
+    "amount_php": 1579.02,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-01T04:24:48",
+    "reference_number": "REF9839542961844"
+  },
+  {
+    "payment_id": "PAY-2026-1F4603BA",
+    "permit_id": "PERMIT-2026-902B7981",
+    "citizen_id": "CIT-000416",
+    "amount_php": 327.59,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-20T17:58:35",
+    "reference_number": "REF6267146283143"
+  },
+  {
+    "payment_id": "PAY-2026-EADDD1AA",
+    "permit_id": "PERMIT-2026-A611ABB8",
+    "citizen_id": "CIT-000454",
+    "amount_php": 2524.45,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-06T05:25:17",
+    "reference_number": "REF5989262566093"
+  },
+  {
+    "payment_id": "PAY-2026-9D7928E6",
+    "permit_id": "PERMIT-2026-E839833A",
+    "citizen_id": "CIT-000351",
+    "amount_php": 5533.88,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-04T09:48:19",
+    "reference_number": "REF1418186151554"
+  },
+  {
+    "payment_id": "PAY-2026-EC198807",
+    "permit_id": "PERMIT-2026-BE158009",
+    "citizen_id": "CIT-000378",
+    "amount_php": 2663.34,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-13T11:29:07",
+    "reference_number": "REF2340163611284"
+  },
+  {
+    "payment_id": "PAY-2026-76F62FC7",
+    "permit_id": "PERMIT-2026-AE0728C2",
+    "citizen_id": "CIT-000227",
+    "amount_php": 4796.36,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-08T14:35:58",
+    "reference_number": "REF9718594849102"
+  },
+  {
+    "payment_id": "PAY-2026-E216FE14",
+    "permit_id": "PERMIT-2026-15A13F2E",
+    "citizen_id": "CIT-000380",
+    "amount_php": 2642.01,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-14T14:17:21",
+    "reference_number": "REF5625889679240"
+  },
+  {
+    "payment_id": "PAY-2026-E8589FAF",
+    "permit_id": "PERMIT-2026-E495DB61",
+    "citizen_id": "CIT-000483",
+    "amount_php": 7979.83,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-18T05:11:06",
+    "reference_number": "REF8222694053967"
+  },
+  {
+    "payment_id": "PAY-2026-3CF20504",
+    "permit_id": "PERMIT-2026-15A13F2E",
+    "citizen_id": "CIT-000380",
+    "amount_php": 1308.43,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-04-13T13:17:21",
+    "reference_number": "REF2757844683414"
+  },
+  {
+    "payment_id": "PAY-2026-8DEB7DCD",
+    "permit_id": "PERMIT-2026-3270596A",
+    "citizen_id": "CIT-000215",
+    "amount_php": 1571.1,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-03-12T06:14:32",
+    "reference_number": "REF6511131290148"
+  },
+  {
+    "payment_id": "PAY-2026-55D47345",
+    "permit_id": "PERMIT-2026-2171BC80",
+    "citizen_id": "CIT-000363",
+    "amount_php": 8412.87,
+    "payment_method": "Bank Transfer",
+    "status": "Pending",
+    "transaction_date": "2025-10-27T22:10:41",
+    "reference_number": "REF7068277881609"
+  },
+  {
+    "payment_id": "PAY-2026-B2914C8B",
+    "permit_id": "PERMIT-2026-DDD2D167",
+    "citizen_id": "CIT-000344",
+    "amount_php": 1075.21,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-04T04:24:03",
+    "reference_number": "REF3068538909728"
+  },
+  {
+    "payment_id": "PAY-2026-F69D126A",
+    "permit_id": "PERMIT-2026-516AA3F9",
+    "citizen_id": "CIT-000173",
+    "amount_php": 5266.47,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T12:04:24",
+    "reference_number": "REF3215285067625"
+  },
+  {
+    "payment_id": "PAY-2026-03A89C21",
+    "permit_id": "PERMIT-2026-26159AEA",
+    "citizen_id": "CIT-000480",
+    "amount_php": 5021.83,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-16T12:42:50",
+    "reference_number": "REF1538144744309"
+  },
+  {
+    "payment_id": "PAY-2026-D6191EB0",
+    "permit_id": "PERMIT-2026-E6D5A9D0",
+    "citizen_id": "CIT-000038",
+    "amount_php": 7563.12,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-05T10:08:41",
+    "reference_number": "REF6348079705097"
+  },
+  {
+    "payment_id": "PAY-2026-FD8FDFF4",
+    "permit_id": "PERMIT-2026-B95F40BF",
+    "citizen_id": "CIT-000145",
+    "amount_php": 4555.37,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-06T17:41:23",
+    "reference_number": "REF5451052650167"
+  },
+  {
+    "payment_id": "PAY-2026-F8623F20",
+    "permit_id": "PERMIT-2026-423B108C",
+    "citizen_id": "CIT-000517",
+    "amount_php": 2837.96,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-09-21T11:02:56",
+    "reference_number": "REF3188261702437"
+  },
+  {
+    "payment_id": "PAY-2026-5BF91167",
+    "permit_id": "PERMIT-2026-77DCFBDE",
+    "citizen_id": "CIT-000172",
+    "amount_php": 6547.79,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-25T07:35:46",
+    "reference_number": "REF6545628417722"
+  },
+  {
+    "payment_id": "PAY-2026-06696898",
+    "permit_id": "PERMIT-2026-B811B256",
+    "citizen_id": "CIT-000469",
+    "amount_php": 5553.57,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-14T01:56:01",
+    "reference_number": "REF5605313402665"
+  },
+  {
+    "payment_id": "PAY-2026-E623841A",
+    "permit_id": "PERMIT-2026-45248F51",
+    "citizen_id": "CIT-000424",
+    "amount_php": 653.23,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-13T16:40:30",
+    "reference_number": "REF0237416787256"
+  },
+  {
+    "payment_id": "PAY-2026-D231B951",
+    "permit_id": "PERMIT-2026-B941CFC7",
+    "citizen_id": "CIT-000210",
+    "amount_php": 1719.11,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-10T04:43:38",
+    "reference_number": "REF8621102258030"
+  },
+  {
+    "payment_id": "PAY-2026-818027AB",
+    "permit_id": "PERMIT-2026-B3035DCC",
+    "citizen_id": "CIT-000001",
+    "amount_php": 6500.07,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-14T16:49:35",
+    "reference_number": "REF5690674471639"
+  },
+  {
+    "payment_id": "PAY-2026-7E298310",
+    "permit_id": "PERMIT-2026-2F8BAEE5",
+    "citizen_id": "CIT-000002",
+    "amount_php": 1032.26,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-25T15:55:39",
+    "reference_number": "REF2823414363718"
+  },
+  {
+    "payment_id": "PAY-2026-D8B7AB06",
+    "permit_id": "PERMIT-2026-99C657FD",
+    "citizen_id": "CIT-000060",
+    "amount_php": 8291.79,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-05-12T17:09:58",
+    "reference_number": "REF9239231260432"
+  },
+  {
+    "payment_id": "PAY-2026-E22DB765",
+    "permit_id": "PERMIT-2026-AE0728C2",
+    "citizen_id": "CIT-000227",
+    "amount_php": 723.14,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-08T21:35:58",
+    "reference_number": "REF6093106684335"
+  },
+  {
+    "payment_id": "PAY-2026-F61303D8",
+    "permit_id": "PERMIT-2026-97E0E135",
+    "citizen_id": "CIT-000116",
+    "amount_php": 5564.0,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-10T20:03:26",
+    "reference_number": "REF6708604145456"
+  },
+  {
+    "payment_id": "PAY-2026-62B12197",
+    "permit_id": "PERMIT-2026-D4898A37",
+    "citizen_id": "CIT-000323",
+    "amount_php": 1070.16,
+    "payment_method": "GCash",
+    "status": "Pending",
+    "transaction_date": "2026-04-12T00:17:12",
+    "reference_number": "REF3502000534749"
+  },
+  {
+    "payment_id": "PAY-2026-01166895",
+    "permit_id": "PERMIT-2026-5B6591CB",
+    "citizen_id": "CIT-000081",
+    "amount_php": 388.7,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-03-31T09:11:45",
+    "reference_number": "REF1624755411082"
+  },
+  {
+    "payment_id": "PAY-2026-0DD33FA1",
+    "permit_id": "PERMIT-2026-9EC33E17",
+    "citizen_id": "CIT-000449",
+    "amount_php": 1138.02,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-12-08T05:30:54",
+    "reference_number": "REF5559895343961"
+  },
+  {
+    "payment_id": "PAY-2026-B6FCAA9E",
+    "permit_id": "PERMIT-2026-6BA22C0F",
+    "citizen_id": "CIT-000510",
+    "amount_php": 1407.68,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-10T02:00:06",
+    "reference_number": "REF1291093371189"
+  },
+  {
+    "payment_id": "PAY-2026-188FB058",
+    "permit_id": "PERMIT-2026-4E093FD7",
+    "citizen_id": "CIT-000290",
+    "amount_php": 3835.19,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-12T01:19:40",
+    "reference_number": "REF5473820236848"
+  },
+  {
+    "payment_id": "PAY-2026-76B6F302",
+    "permit_id": "PERMIT-2026-81AEDAE1",
+    "citizen_id": "CIT-000194",
+    "amount_php": 7898.97,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T19:52:12",
+    "reference_number": "REF5571617688029"
+  },
+  {
+    "payment_id": "PAY-2026-860D8549",
+    "permit_id": "PERMIT-2026-63E8A85C",
+    "citizen_id": "CIT-000024",
+    "amount_php": 5110.31,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-05T00:15:11",
+    "reference_number": "REF4240903678812"
+  },
+  {
+    "payment_id": "PAY-2026-5189A108",
+    "permit_id": "PERMIT-2026-DCAE3F3B",
+    "citizen_id": "CIT-000445",
+    "amount_php": 1061.69,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-03T17:09:06",
+    "reference_number": "REF7868669432029"
+  },
+  {
+    "payment_id": "PAY-2026-5DC698DC",
+    "permit_id": "PERMIT-2026-4388A703",
+    "citizen_id": "CIT-000308",
+    "amount_php": 1111.82,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-14T16:46:30",
+    "reference_number": "REF3908788443448"
+  },
+  {
+    "payment_id": "PAY-2026-DEB508A9",
+    "permit_id": "PERMIT-2026-E82B91A5",
+    "citizen_id": "CIT-000114",
+    "amount_php": 4593.3,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-04T07:33:23",
+    "reference_number": "REF1230834024240"
+  },
+  {
+    "payment_id": "PAY-2026-97B22A6C",
+    "permit_id": "PERMIT-2026-CD5FD115",
+    "citizen_id": "CIT-000045",
+    "amount_php": 3430.59,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-16T13:25:02",
+    "reference_number": "REF3381059551842"
+  },
+  {
+    "payment_id": "PAY-2026-D25C772F",
+    "permit_id": "PERMIT-2026-9CFF967A",
+    "citizen_id": "CIT-000227",
+    "amount_php": 1867.64,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-21T21:19:44",
+    "reference_number": "REF6945005342408"
+  },
+  {
+    "payment_id": "PAY-2026-8566D57F",
+    "permit_id": "PERMIT-2026-CD246CE7",
+    "citizen_id": "CIT-000113",
+    "amount_php": 5129.22,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-04-19T05:16:19",
+    "reference_number": "REF9164983735439"
+  },
+  {
+    "payment_id": "PAY-2026-71CB5F99",
+    "permit_id": "PERMIT-2026-FC6D51E4",
+    "citizen_id": "CIT-000008",
+    "amount_php": 7729.98,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-04-22T04:56:04",
+    "reference_number": "REF6273652717272"
+  },
+  {
+    "payment_id": "PAY-2026-6FB62714",
+    "permit_id": "PERMIT-2026-07AC59FA",
+    "citizen_id": "CIT-000258",
+    "amount_php": 2142.47,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-22T01:25:00",
+    "reference_number": "REF2397240422693"
+  },
+  {
+    "payment_id": "PAY-2026-13F37485",
+    "permit_id": "PERMIT-2026-FAE4B220",
+    "citizen_id": "CIT-000105",
+    "amount_php": 2923.5,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-28T02:35:52",
+    "reference_number": "REF1216376182091"
+  },
+  {
+    "payment_id": "PAY-2026-D3351F30",
+    "permit_id": "PERMIT-2026-829FDECE",
+    "citizen_id": "CIT-000211",
+    "amount_php": 4112.92,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-07T00:23:23",
+    "reference_number": "REF6601002314290"
+  },
+  {
+    "payment_id": "PAY-2026-CE781701",
+    "permit_id": "PERMIT-2026-6D9606DC",
+    "citizen_id": "CIT-000018",
+    "amount_php": 1575.55,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-18T09:13:08",
+    "reference_number": "REF0185132797245"
+  },
+  {
+    "payment_id": "PAY-2026-E05C0532",
+    "permit_id": "PERMIT-2026-97A6E828",
+    "citizen_id": "CIT-000040",
+    "amount_php": 158.4,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-28T07:22:18",
+    "reference_number": "REF7230848100184"
+  },
+  {
+    "payment_id": "PAY-2026-84349507",
+    "permit_id": "PERMIT-2026-AFABCC50",
+    "citizen_id": "CIT-000324",
+    "amount_php": 4886.68,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-14T05:52:10",
+    "reference_number": "REF1862030366254"
+  },
+  {
+    "payment_id": "PAY-2026-A89EE1B9",
+    "permit_id": "PERMIT-2026-92DF4870",
+    "citizen_id": "CIT-000515",
+    "amount_php": 1546.99,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-30T03:30:36",
+    "reference_number": "REF3617213145195"
+  },
+  {
+    "payment_id": "PAY-2026-569CE90F",
+    "permit_id": "PERMIT-2026-BAD2E1BA",
+    "citizen_id": "CIT-000290",
+    "amount_php": 6862.5,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-12T12:00:27",
+    "reference_number": "REF1510922685926"
+  },
+  {
+    "payment_id": "PAY-2026-F8A6EB54",
+    "permit_id": "PERMIT-2026-1379B4DE",
+    "citizen_id": "CIT-000120",
+    "amount_php": 2298.78,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-20T23:55:23",
+    "reference_number": "REF2494514754102"
+  },
+  {
+    "payment_id": "PAY-2026-D0D840BD",
+    "permit_id": "PERMIT-2026-5DDD9236",
+    "citizen_id": "CIT-000412",
+    "amount_php": 7061.71,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-20T09:48:41",
+    "reference_number": "REF2526771196421"
+  },
+  {
+    "payment_id": "PAY-2026-D487937A",
+    "permit_id": "PERMIT-2026-C69E807C",
+    "citizen_id": "CIT-000276",
+    "amount_php": 7305.58,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-05-14T01:15:42",
+    "reference_number": "REF5226557676952"
+  },
+  {
+    "payment_id": "PAY-2026-00FC9026",
+    "permit_id": "PERMIT-2026-EE0A9D1F",
+    "citizen_id": "CIT-000146",
+    "amount_php": 4486.23,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-04T10:13:17",
+    "reference_number": "REF3668788788361"
+  },
+  {
+    "payment_id": "PAY-2026-721F7692",
+    "permit_id": "PERMIT-2026-A2EB699D",
+    "citizen_id": "CIT-000443",
+    "amount_php": 5655.71,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-04T13:22:00",
+    "reference_number": "REF9689313503058"
+  },
+  {
+    "payment_id": "PAY-2026-33C59536",
+    "permit_id": "PERMIT-2026-B300DBCE",
+    "citizen_id": "CIT-000370",
+    "amount_php": 4972.83,
+    "payment_method": "Bank Transfer",
+    "status": "Failed",
+    "transaction_date": "2026-02-06T18:26:49",
+    "reference_number": "REF7210552472863"
+  },
+  {
+    "payment_id": "PAY-2026-1BC6C785",
+    "permit_id": "PERMIT-2026-C1329669",
+    "citizen_id": "CIT-000126",
+    "amount_php": 6365.45,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2025-11-26T08:54:41",
+    "reference_number": "REF3302126065019"
+  },
+  {
+    "payment_id": "PAY-2026-667BCB52",
+    "permit_id": "PERMIT-2026-955E43C3",
+    "citizen_id": "CIT-000501",
+    "amount_php": 1051.23,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-09-10T21:35:52",
+    "reference_number": "REF1792025213109"
+  },
+  {
+    "payment_id": "PAY-2026-F43EDE44",
+    "permit_id": "PERMIT-2026-BF5CBCA0",
+    "citizen_id": "CIT-000473",
+    "amount_php": 1610.85,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-02-04T19:47:04",
+    "reference_number": "REF6227284765704"
+  },
+  {
+    "payment_id": "PAY-2026-AE3247D2",
+    "permit_id": "PERMIT-2026-9AEB4F7B",
+    "citizen_id": "CIT-000109",
+    "amount_php": 5069.38,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-13T02:45:11",
+    "reference_number": "REF1200928206678"
+  },
+  {
+    "payment_id": "PAY-2026-03579099",
+    "permit_id": "PERMIT-2026-002E73C3",
+    "citizen_id": "CIT-000516",
+    "amount_php": 4492.65,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-29T03:52:35",
+    "reference_number": "REF4984362418623"
+  },
+  {
+    "payment_id": "PAY-2026-C456E70D",
+    "permit_id": "PERMIT-2026-B95F40BF",
+    "citizen_id": "CIT-000145",
+    "amount_php": 6791.03,
+    "payment_method": "Over-the-Counter",
+    "status": "Failed",
+    "transaction_date": "2026-06-06T11:41:23",
+    "reference_number": "REF6903628917756"
+  },
+  {
+    "payment_id": "PAY-2026-C11EA58A",
+    "permit_id": "PERMIT-2026-23D91DB4",
+    "citizen_id": "CIT-000433",
+    "amount_php": 1070.09,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-17T15:30:17",
+    "reference_number": "REF6205634111595"
+  },
+  {
+    "payment_id": "PAY-2026-0845288F",
+    "permit_id": "PERMIT-2026-69AADAC2",
+    "citizen_id": "CIT-000285",
+    "amount_php": 5835.71,
+    "payment_method": "Over-the-Counter",
+    "status": "Failed",
+    "transaction_date": "2026-05-08T07:47:43",
+    "reference_number": "REF0342811390438"
+  },
+  {
+    "payment_id": "PAY-2026-95DEDC99",
+    "permit_id": "PERMIT-2026-5E46740A",
+    "citizen_id": "CIT-000318",
+    "amount_php": 4214.99,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-01-14T08:10:05",
+    "reference_number": "REF3034199097005"
+  },
+  {
+    "payment_id": "PAY-2026-A01F0E3E",
+    "permit_id": "PERMIT-2026-3112A82A",
+    "citizen_id": "CIT-000415",
+    "amount_php": 491.96,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-24T19:14:35",
+    "reference_number": "REF1405468356521"
+  },
+  {
+    "payment_id": "PAY-2026-66F0B9F7",
+    "permit_id": "PERMIT-2026-8ED21074",
+    "citizen_id": "CIT-000278",
+    "amount_php": 4227.86,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-29T03:56:51",
+    "reference_number": "REF5681820967904"
+  },
+  {
+    "payment_id": "PAY-2026-36E7AEE6",
+    "permit_id": "PERMIT-2026-99BFF7DE",
+    "citizen_id": "CIT-000391",
+    "amount_php": 2249.47,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2025-11-03T23:42:01",
+    "reference_number": "REF2271133228898"
+  },
+  {
+    "payment_id": "PAY-2026-A026F6ED",
+    "permit_id": "PERMIT-2026-B7E34C7A",
+    "citizen_id": "CIT-000056",
+    "amount_php": 8153.68,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-12T17:59:32",
+    "reference_number": "REF5725459606339"
+  },
+  {
+    "payment_id": "PAY-2026-3C8FE94B",
+    "permit_id": "PERMIT-2026-5ED3A826",
+    "citizen_id": "CIT-000289",
+    "amount_php": 2410.09,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-23T20:14:15",
+    "reference_number": "REF9129710248171"
+  },
+  {
+    "payment_id": "PAY-2026-39385343",
+    "permit_id": "PERMIT-2026-9A9EDA48",
+    "citizen_id": "CIT-000453",
+    "amount_php": 1977.46,
+    "payment_method": "Debit Card",
+    "status": "Failed",
+    "transaction_date": "2026-01-06T17:41:48",
+    "reference_number": "REF7524214955112"
+  },
+  {
+    "payment_id": "PAY-2026-F4D18C90",
+    "permit_id": "PERMIT-2026-E5828B87",
+    "citizen_id": "CIT-000293",
+    "amount_php": 5469.32,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-20T00:08:04",
+    "reference_number": "REF7474721970546"
+  },
+  {
+    "payment_id": "PAY-2026-BD1FFB95",
+    "permit_id": "PERMIT-2026-49629EE6",
+    "citizen_id": "CIT-000270",
+    "amount_php": 7833.62,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-04-07T10:17:26",
+    "reference_number": "REF6927589551687"
+  },
+  {
+    "payment_id": "PAY-2026-55D511A1",
+    "permit_id": "PERMIT-2026-3270596A",
+    "citizen_id": "CIT-000215",
+    "amount_php": 7464.04,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-13T11:14:32",
+    "reference_number": "REF4090380214629"
+  },
+  {
+    "payment_id": "PAY-2026-2928F713",
+    "permit_id": "PERMIT-2026-6F8C4950",
+    "citizen_id": "CIT-000457",
+    "amount_php": 1283.02,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-23T14:31:39",
+    "reference_number": "REF6136715778711"
+  },
+  {
+    "payment_id": "PAY-2026-01DB87F5",
+    "permit_id": "PERMIT-2026-07AC59FA",
+    "citizen_id": "CIT-000258",
+    "amount_php": 2632.74,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-03-20T10:25:00",
+    "reference_number": "REF2166365155973"
+  },
+  {
+    "payment_id": "PAY-2026-55CEBE00",
+    "permit_id": "PERMIT-2026-C7B9AFF0",
+    "citizen_id": "CIT-000074",
+    "amount_php": 6683.09,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-19T05:34:58",
+    "reference_number": "REF7147082723590"
+  },
+  {
+    "payment_id": "PAY-2026-296DD0C4",
+    "permit_id": "PERMIT-2026-B1906B2E",
+    "citizen_id": "CIT-000505",
+    "amount_php": 5946.01,
+    "payment_method": "Over-the-Counter",
+    "status": "Failed",
+    "transaction_date": "2025-09-13T17:50:19",
+    "reference_number": "REF9605673030644"
+  },
+  {
+    "payment_id": "PAY-2026-04430B67",
+    "permit_id": "PERMIT-2026-FAEFD00D",
+    "citizen_id": "CIT-000105",
+    "amount_php": 3107.52,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-16T01:47:03",
+    "reference_number": "REF2121461476834"
+  },
+  {
+    "payment_id": "PAY-2026-3C96AA40",
+    "permit_id": "PERMIT-2026-A2EB699D",
+    "citizen_id": "CIT-000443",
+    "amount_php": 381.07,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-05T04:22:00",
+    "reference_number": "REF2016542356778"
+  },
+  {
+    "payment_id": "PAY-2026-68A16B20",
+    "permit_id": "PERMIT-2026-F8CD6EAF",
+    "citizen_id": "CIT-000179",
+    "amount_php": 6461.4,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2025-12-02T15:52:22",
+    "reference_number": "REF2659608931992"
+  },
+  {
+    "payment_id": "PAY-2026-BDA23D63",
+    "permit_id": "PERMIT-2026-B811B256",
+    "citizen_id": "CIT-000469",
+    "amount_php": 4426.93,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-13T20:56:01",
+    "reference_number": "REF5502727516480"
+  },
+  {
+    "payment_id": "PAY-2026-DB9E1EEC",
+    "permit_id": "PERMIT-2026-E1C35429",
+    "citizen_id": "CIT-000325",
+    "amount_php": 6457.05,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-02T05:55:36",
+    "reference_number": "REF7279103368296"
+  },
+  {
+    "payment_id": "PAY-2026-D9CE56A3",
+    "permit_id": "PERMIT-2026-7381DB60",
+    "citizen_id": "CIT-000271",
+    "amount_php": 6892.47,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-30T03:27:54",
+    "reference_number": "REF3533905504481"
+  },
+  {
+    "payment_id": "PAY-2026-4B9D8DF5",
+    "permit_id": "PERMIT-2026-797B57B3",
+    "citizen_id": "CIT-000292",
+    "amount_php": 606.68,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-17T15:15:37",
+    "reference_number": "REF7766558685127"
+  },
+  {
+    "payment_id": "PAY-2026-7B2B448B",
+    "permit_id": "PERMIT-2026-BB9E0490",
+    "citizen_id": "CIT-000480",
+    "amount_php": 4871.45,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-25T02:22:01",
+    "reference_number": "REF6528928664649"
+  },
+  {
+    "payment_id": "PAY-2026-3E01F577",
+    "permit_id": "PERMIT-2026-29DB225B",
+    "citizen_id": "CIT-000208",
+    "amount_php": 6332.95,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-14T16:29:14",
+    "reference_number": "REF1111096179817"
+  },
+  {
+    "payment_id": "PAY-2026-A67FD698",
+    "permit_id": "PERMIT-2026-8C90AC10",
+    "citizen_id": "CIT-000410",
+    "amount_php": 1862.29,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-25T09:32:44",
+    "reference_number": "REF8904633786137"
+  },
+  {
+    "payment_id": "PAY-2026-F1011D3D",
+    "permit_id": "PERMIT-2026-EF57C2F1",
+    "citizen_id": "CIT-000002",
+    "amount_php": 2016.59,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-07T11:00:47",
+    "reference_number": "REF1576605384444"
+  },
+  {
+    "payment_id": "PAY-2026-7CFEF440",
+    "permit_id": "PERMIT-2026-74470B49",
+    "citizen_id": "CIT-000342",
+    "amount_php": 5395.8,
+    "payment_method": "Bank Transfer",
+    "status": "Refunded",
+    "transaction_date": "2026-01-23T00:07:54",
+    "reference_number": "REF6306000258955"
+  },
+  {
+    "payment_id": "PAY-2026-BB2574E7",
+    "permit_id": "PERMIT-2026-7381DB60",
+    "citizen_id": "CIT-000271",
+    "amount_php": 5357.59,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-30T05:27:54",
+    "reference_number": "REF2963863960962"
+  },
+  {
+    "payment_id": "PAY-2026-29D99BB3",
+    "permit_id": "PERMIT-2026-99BFF7DE",
+    "citizen_id": "CIT-000391",
+    "amount_php": 5191.65,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-04T05:42:01",
+    "reference_number": "REF6265826312819"
+  },
+  {
+    "payment_id": "PAY-2026-CD338D4E",
+    "permit_id": "PERMIT-2026-C4F201E7",
+    "citizen_id": "CIT-000296",
+    "amount_php": 1015.12,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-07-04T21:44:41",
+    "reference_number": "REF6482531106092"
+  },
+  {
+    "payment_id": "PAY-2026-95C9666A",
+    "permit_id": "PERMIT-2026-DD85F249",
+    "citizen_id": "CIT-000487",
+    "amount_php": 614.7,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-10T03:06:20",
+    "reference_number": "REF0981960275233"
+  },
+  {
+    "payment_id": "PAY-2026-0E3A2544",
+    "permit_id": "PERMIT-2026-E7808A4E",
+    "citizen_id": "CIT-000043",
+    "amount_php": 6999.26,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-16T11:47:19",
+    "reference_number": "REF4383640412091"
+  },
+  {
+    "payment_id": "PAY-2026-72C59203",
+    "permit_id": "PERMIT-2026-34A5B97C",
+    "citizen_id": "CIT-000033",
+    "amount_php": 5303.27,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-03T04:59:13",
+    "reference_number": "REF1791124421175"
+  },
+  {
+    "payment_id": "PAY-2026-9322AEA3",
+    "permit_id": "PERMIT-2026-1CFA6583",
+    "citizen_id": "CIT-000499",
+    "amount_php": 1333.08,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-15T08:54:41",
+    "reference_number": "REF3617061713665"
+  },
+  {
+    "payment_id": "PAY-2026-22BED2F1",
+    "permit_id": "PERMIT-2026-26159AEA",
+    "citizen_id": "CIT-000480",
+    "amount_php": 6342.9,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-17T12:42:50",
+    "reference_number": "REF7224029901557"
+  },
+  {
+    "payment_id": "PAY-2026-64B349CE",
+    "permit_id": "PERMIT-2026-AB4340A0",
+    "citizen_id": "CIT-000428",
+    "amount_php": 2566.9,
+    "payment_method": "GCash",
+    "status": "Failed",
+    "transaction_date": "2026-04-01T01:09:27",
+    "reference_number": "REF9980284139080"
+  },
+  {
+    "payment_id": "PAY-2026-7F255089",
+    "permit_id": "PERMIT-2026-25559459",
+    "citizen_id": "CIT-000504",
+    "amount_php": 5725.29,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-14T12:08:07",
+    "reference_number": "REF8823513052312"
+  },
+  {
+    "payment_id": "PAY-2026-B13CF8D1",
+    "permit_id": "PERMIT-2026-D4898A37",
+    "citizen_id": "CIT-000323",
+    "amount_php": 3631.09,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-11T06:17:12",
+    "reference_number": "REF4473158477686"
+  },
+  {
+    "payment_id": "PAY-2026-8296A56E",
+    "permit_id": "PERMIT-2026-FDE9C6E3",
+    "citizen_id": "CIT-000138",
+    "amount_php": 1153.06,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-21T04:12:01",
+    "reference_number": "REF3423461994237"
+  },
+  {
+    "payment_id": "PAY-2026-642EC639",
+    "permit_id": "PERMIT-2026-67B92F74",
+    "citizen_id": "CIT-000285",
+    "amount_php": 5536.66,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-22T07:24:47",
+    "reference_number": "REF6769459196639"
+  },
+  {
+    "payment_id": "PAY-2026-78B54ABC",
+    "permit_id": "PERMIT-2026-0D193E22",
+    "citizen_id": "CIT-000380",
+    "amount_php": 8189.35,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2025-09-26T05:01:52",
+    "reference_number": "REF5517208496498"
+  },
+  {
+    "payment_id": "PAY-2026-F9C82526",
+    "permit_id": "PERMIT-2026-5DDD9236",
+    "citizen_id": "CIT-000412",
+    "amount_php": 226.15,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-05-21T02:48:41",
+    "reference_number": "REF5601256253135"
+  },
+  {
+    "payment_id": "PAY-2026-5BFB5266",
+    "permit_id": "PERMIT-2026-C7ED0B4F",
+    "citizen_id": "CIT-000215",
+    "amount_php": 3062.76,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-12-02T16:20:11",
+    "reference_number": "REF5251050537953"
+  },
+  {
+    "payment_id": "PAY-2026-A1834A15",
+    "permit_id": "PERMIT-2026-5D4A0751",
+    "citizen_id": "CIT-000263",
+    "amount_php": 1607.05,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T01:15:59",
+    "reference_number": "REF8164938318491"
+  },
+  {
+    "payment_id": "PAY-2026-D1E65002",
+    "permit_id": "PERMIT-2026-1E1BCE60",
+    "citizen_id": "CIT-000490",
+    "amount_php": 6121.77,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-04T07:01:31",
+    "reference_number": "REF9665533077046"
+  },
+  {
+    "payment_id": "PAY-2026-A27076F2",
+    "permit_id": "PERMIT-2026-67B92F74",
+    "citizen_id": "CIT-000285",
+    "amount_php": 719.55,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-23T06:24:47",
+    "reference_number": "REF1172959639040"
+  },
+  {
+    "payment_id": "PAY-2026-1F0830B9",
+    "permit_id": "PERMIT-2026-DCFBB007",
+    "citizen_id": "CIT-000493",
+    "amount_php": 5652.41,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-10-07T22:41:00",
+    "reference_number": "REF9074260880501"
+  },
+  {
+    "payment_id": "PAY-2026-4D4B2671",
+    "permit_id": "PERMIT-2026-DD7753E3",
+    "citizen_id": "CIT-000456",
+    "amount_php": 4537.37,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-30T19:51:22",
+    "reference_number": "REF7164455618579"
+  },
+  {
+    "payment_id": "PAY-2026-F222C7A5",
+    "permit_id": "PERMIT-2026-C93D5EF7",
+    "citizen_id": "CIT-000207",
+    "amount_php": 5305.92,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-02T11:11:06",
+    "reference_number": "REF0647715910300"
+  },
+  {
+    "payment_id": "PAY-2026-E28CB028",
+    "permit_id": "PERMIT-2026-B1B8A53F",
+    "citizen_id": "CIT-000042",
+    "amount_php": 1479.15,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-12-04T07:41:57",
+    "reference_number": "REF2156321358004"
+  },
+  {
+    "payment_id": "PAY-2026-767B4740",
+    "permit_id": "PERMIT-2026-94806B41",
+    "citizen_id": "CIT-000216",
+    "amount_php": 4128.05,
+    "payment_method": "Maya",
+    "status": "Refunded",
+    "transaction_date": "2026-06-21T18:01:32",
+    "reference_number": "REF0104145964229"
+  },
+  {
+    "payment_id": "PAY-2026-ADD1FC86",
+    "permit_id": "PERMIT-2026-902B7981",
+    "citizen_id": "CIT-000416",
+    "amount_php": 7663.28,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-19T11:58:35",
+    "reference_number": "REF7125296718839"
+  },
+  {
+    "payment_id": "PAY-2026-DDE2787D",
+    "permit_id": "PERMIT-2026-129B2F3E",
+    "citizen_id": "CIT-000047",
+    "amount_php": 7851.84,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-19T09:01:04",
+    "reference_number": "REF7745731441583"
+  },
+  {
+    "payment_id": "PAY-2026-1B65E1E5",
+    "permit_id": "PERMIT-2026-59B2D94D",
+    "citizen_id": "CIT-000403",
+    "amount_php": 7220.8,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-28T13:36:05",
+    "reference_number": "REF3117030376371"
+  },
+  {
+    "payment_id": "PAY-2026-6419F2B3",
+    "permit_id": "PERMIT-2026-2BA54E65",
+    "citizen_id": "CIT-000218",
+    "amount_php": 5421.31,
+    "payment_method": "GCash",
+    "status": "Pending",
+    "transaction_date": "2026-03-05T21:05:40",
+    "reference_number": "REF5398854728123"
+  },
+  {
+    "payment_id": "PAY-2026-14F0FCAD",
+    "permit_id": "PERMIT-2026-F9561CD7",
+    "citizen_id": "CIT-000379",
+    "amount_php": 5984.36,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-23T01:12:27",
+    "reference_number": "REF5679836314624"
+  },
+  {
+    "payment_id": "PAY-2026-CA51BE87",
+    "permit_id": "PERMIT-2026-6F8C4950",
+    "citizen_id": "CIT-000457",
+    "amount_php": 2258.33,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-23T10:31:39",
+    "reference_number": "REF9127113072407"
+  },
+  {
+    "payment_id": "PAY-2026-225B5661",
+    "permit_id": "PERMIT-2026-CD0BFFAE",
+    "citizen_id": "CIT-000258",
+    "amount_php": 6346.99,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-16T18:00:32",
+    "reference_number": "REF8754181563268"
+  },
+  {
+    "payment_id": "PAY-2026-2703DB7E",
+    "permit_id": "PERMIT-2026-42274AC1",
+    "citizen_id": "CIT-000015",
+    "amount_php": 5010.6,
+    "payment_method": "Bank Transfer",
+    "status": "Failed",
+    "transaction_date": "2026-06-23T13:46:40",
+    "reference_number": "REF6850745106634"
+  },
+  {
+    "payment_id": "PAY-2026-08A33F7C",
+    "permit_id": "PERMIT-2026-12D3CCAB",
+    "citizen_id": "CIT-000257",
+    "amount_php": 427.55,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2025-09-24T07:13:01",
+    "reference_number": "REF3629489786103"
+  },
+  {
+    "payment_id": "PAY-2026-2E9C0B89",
+    "permit_id": "PERMIT-2026-C1329669",
+    "citizen_id": "CIT-000126",
+    "amount_php": 4895.26,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-26T21:54:41",
+    "reference_number": "REF1310094318143"
+  },
+  {
+    "payment_id": "PAY-2026-A358063A",
+    "permit_id": "PERMIT-2026-9B4E1B3E",
+    "citizen_id": "CIT-000110",
+    "amount_php": 7100.56,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-02-09T10:44:08",
+    "reference_number": "REF9666134732354"
+  },
+  {
+    "payment_id": "PAY-2026-969648F6",
+    "permit_id": "PERMIT-2026-B1EA986F",
+    "citizen_id": "CIT-000402",
+    "amount_php": 3126.65,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-01-18T09:02:51",
+    "reference_number": "REF9401289743251"
+  },
+  {
+    "payment_id": "PAY-2026-B797A713",
+    "permit_id": "PERMIT-2026-48356ED3",
+    "citizen_id": "CIT-000135",
+    "amount_php": 3719.72,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2026-04-21T05:51:59",
+    "reference_number": "REF2257207650241"
+  },
+  {
+    "payment_id": "PAY-2026-E430E15C",
+    "permit_id": "PERMIT-2026-C3F82137",
+    "citizen_id": "CIT-000366",
+    "amount_php": 6682.93,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-13T01:15:11",
+    "reference_number": "REF2095790737100"
+  },
+  {
+    "payment_id": "PAY-2026-CC6A186B",
+    "permit_id": "PERMIT-2026-0429890E",
+    "citizen_id": "CIT-000221",
+    "amount_php": 579.85,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-20T06:07:46",
+    "reference_number": "REF9438822114577"
+  },
+  {
+    "payment_id": "PAY-2026-5D3E55A2",
+    "permit_id": "PERMIT-2026-BB127283",
+    "citizen_id": "CIT-000486",
+    "amount_php": 7850.98,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-21T09:19:53",
+    "reference_number": "REF5847457054589"
+  },
+  {
+    "payment_id": "PAY-2026-4D5C46F8",
+    "permit_id": "PERMIT-2026-FAEFD00D",
+    "citizen_id": "CIT-000105",
+    "amount_php": 7434.9,
+    "payment_method": "Maya",
+    "status": "Failed",
+    "transaction_date": "2026-04-15T00:47:03",
+    "reference_number": "REF7148026325703"
+  },
+  {
+    "payment_id": "PAY-2026-05A0639A",
+    "permit_id": "PERMIT-2026-45248F51",
+    "citizen_id": "CIT-000424",
+    "amount_php": 4954.22,
+    "payment_method": "Over-the-Counter",
+    "status": "Failed",
+    "transaction_date": "2025-11-13T19:40:30",
+    "reference_number": "REF9653136148782"
+  },
+  {
+    "payment_id": "PAY-2026-C49DADEC",
+    "permit_id": "PERMIT-2026-B1EA986F",
+    "citizen_id": "CIT-000402",
+    "amount_php": 3483.48,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-01-18T06:02:51",
+    "reference_number": "REF4556964430985"
+  },
+  {
+    "payment_id": "PAY-2026-31426011",
+    "permit_id": "PERMIT-2026-4388A703",
+    "citizen_id": "CIT-000308",
+    "amount_php": 4082.67,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-15T15:46:30",
+    "reference_number": "REF9167954107272"
+  },
+  {
+    "payment_id": "PAY-2026-FC73E2B9",
+    "permit_id": "PERMIT-2026-2CCEC509",
+    "citizen_id": "CIT-000229",
+    "amount_php": 3668.74,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-03-28T20:05:27",
+    "reference_number": "REF8498247414070"
+  },
+  {
+    "payment_id": "PAY-2026-DAD487A3",
+    "permit_id": "PERMIT-2026-74693C03",
+    "citizen_id": "CIT-000183",
+    "amount_php": 1855.35,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-03-12T19:58:33",
+    "reference_number": "REF3491074065004"
+  },
+  {
+    "payment_id": "PAY-2026-FFC362D2",
+    "permit_id": "PERMIT-2026-AF89DD21",
+    "citizen_id": "CIT-000505",
+    "amount_php": 4271.19,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-05-05T10:26:21",
+    "reference_number": "REF2548821423691"
+  },
+  {
+    "payment_id": "PAY-2026-4674E126",
+    "permit_id": "PERMIT-2026-68FBFCC5",
+    "citizen_id": "CIT-000421",
+    "amount_php": 8341.82,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-18T01:22:10",
+    "reference_number": "REF4307536661449"
+  },
+  {
+    "payment_id": "PAY-2026-13EE3D29",
+    "permit_id": "PERMIT-2026-9A9EDA48",
+    "citizen_id": "CIT-000453",
+    "amount_php": 4147.74,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-07T10:41:48",
+    "reference_number": "REF4296592342683"
+  },
+  {
+    "payment_id": "PAY-2026-53D29A25",
+    "permit_id": "PERMIT-2026-002E73C3",
+    "citizen_id": "CIT-000516",
+    "amount_php": 447.26,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-27T20:52:35",
+    "reference_number": "REF4414978266128"
+  },
+  {
+    "payment_id": "PAY-2026-0C61E920",
+    "permit_id": "PERMIT-2026-32F549B9",
+    "citizen_id": "CIT-000500",
+    "amount_php": 4137.9,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-08T14:40:32",
+    "reference_number": "REF7585756766708"
+  },
+  {
+    "payment_id": "PAY-2026-992B4ABD",
+    "permit_id": "PERMIT-2026-CADFC7FE",
+    "citizen_id": "CIT-000005",
+    "amount_php": 6609.67,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-18T20:51:20",
+    "reference_number": "REF0612943985298"
+  },
+  {
+    "payment_id": "PAY-2026-9B7670BB",
+    "permit_id": "PERMIT-2026-FF7CD7F0",
+    "citizen_id": "CIT-000460",
+    "amount_php": 5858.02,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-07T01:46:32",
+    "reference_number": "REF9406260787010"
+  },
+  {
+    "payment_id": "PAY-2026-55734047",
+    "permit_id": "PERMIT-2026-F606FB86",
+    "citizen_id": "CIT-000293",
+    "amount_php": 6543.44,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-24T01:19:34",
+    "reference_number": "REF4159149750198"
+  },
+  {
+    "payment_id": "PAY-2026-A0905836",
+    "permit_id": "PERMIT-2026-DB932115",
+    "citizen_id": "CIT-000476",
+    "amount_php": 1300.38,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-18T09:32:39",
+    "reference_number": "REF0382872324407"
+  },
+  {
+    "payment_id": "PAY-2026-37271483",
+    "permit_id": "PERMIT-2026-1261F58B",
+    "citizen_id": "CIT-000248",
+    "amount_php": 1766.94,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-05T09:06:10",
+    "reference_number": "REF9311029181331"
+  },
+  {
+    "payment_id": "PAY-2026-F5FAA0C5",
+    "permit_id": "PERMIT-2026-5EFE5C21",
+    "citizen_id": "CIT-000304",
+    "amount_php": 918.12,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T09:51:14",
+    "reference_number": "REF7087601467238"
+  },
+  {
+    "payment_id": "PAY-2026-AEA40BB4",
+    "permit_id": "PERMIT-2026-AFABCC50",
+    "citizen_id": "CIT-000324",
+    "amount_php": 7441.69,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-14T04:52:10",
+    "reference_number": "REF4979162022328"
+  },
+  {
+    "payment_id": "PAY-2026-2F0AAF71",
+    "permit_id": "PERMIT-2026-36FE2D03",
+    "citizen_id": "CIT-000027",
+    "amount_php": 1208.08,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-09T17:34:55",
+    "reference_number": "REF8377441975466"
+  },
+  {
+    "payment_id": "PAY-2026-DCEB3C59",
+    "permit_id": "PERMIT-2026-8D307F85",
+    "citizen_id": "CIT-000134",
+    "amount_php": 5180.17,
+    "payment_method": "Maya",
+    "status": "Refunded",
+    "transaction_date": "2026-04-28T00:47:19",
+    "reference_number": "REF1766204719609"
+  },
+  {
+    "payment_id": "PAY-2026-B3848C22",
+    "permit_id": "PERMIT-2026-CA9CC5DE",
+    "citizen_id": "CIT-000320",
+    "amount_php": 3471.79,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-03T02:36:15",
+    "reference_number": "REF4097052774025"
+  },
+  {
+    "payment_id": "PAY-2026-005CC876",
+    "permit_id": "PERMIT-2026-36FE2D03",
+    "citizen_id": "CIT-000027",
+    "amount_php": 2239.16,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-02-09T18:34:55",
+    "reference_number": "REF8835868122595"
+  },
+  {
+    "payment_id": "PAY-2026-67448848",
+    "permit_id": "PERMIT-2026-3B8CACAA",
+    "citizen_id": "CIT-000107",
+    "amount_php": 3853.57,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "transaction_date": "2026-06-10T08:19:41",
+    "reference_number": "REF7244617679298"
+  },
+  {
+    "payment_id": "PAY-2026-8285E3CC",
+    "permit_id": "PERMIT-2026-2A050509",
+    "citizen_id": "CIT-000433",
+    "amount_php": 2189.12,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-18T17:45:41",
+    "reference_number": "REF8425995996100"
+  },
+  {
+    "payment_id": "PAY-2026-7B640C33",
+    "permit_id": "PERMIT-2026-C7ED0B4F",
+    "citizen_id": "CIT-000215",
+    "amount_php": 600.88,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-02T09:20:11",
+    "reference_number": "REF2311775331266"
+  },
+  {
+    "payment_id": "PAY-2026-EC13CC51",
+    "permit_id": "PERMIT-2026-7CF8B6E1",
+    "citizen_id": "CIT-000339",
+    "amount_php": 805.02,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-18T00:52:40",
+    "reference_number": "REF1094101759025"
+  },
+  {
+    "payment_id": "PAY-2026-5E5DAFBB",
+    "permit_id": "PERMIT-2026-618D9DC7",
+    "citizen_id": "CIT-000228",
+    "amount_php": 2696.24,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-02-03T01:15:59",
+    "reference_number": "REF1762983347743"
+  },
+  {
+    "payment_id": "PAY-2026-781D5704",
+    "permit_id": "PERMIT-2026-7A9C8C08",
+    "citizen_id": "CIT-000413",
+    "amount_php": 6966.77,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-04-26T18:56:46",
+    "reference_number": "REF3268319013020"
+  },
+  {
+    "payment_id": "PAY-2026-3A21A3CA",
+    "permit_id": "PERMIT-2026-E6FDF2FD",
+    "citizen_id": "CIT-000013",
+    "amount_php": 3826.32,
+    "payment_method": "Debit Card",
+    "status": "Failed",
+    "transaction_date": "2026-06-06T10:52:30",
+    "reference_number": "REF5698152873397"
+  },
+  {
+    "payment_id": "PAY-2026-3EBF71AD",
+    "permit_id": "PERMIT-2026-7669A1A5",
+    "citizen_id": "CIT-000473",
+    "amount_php": 7133.32,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-18T01:57:33",
+    "reference_number": "REF8559821766191"
+  },
+  {
+    "payment_id": "PAY-2026-E4709887",
+    "permit_id": "PERMIT-2026-129B2F3E",
+    "citizen_id": "CIT-000047",
+    "amount_php": 7056.94,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-19T02:01:04",
+    "reference_number": "REF2841173098503"
+  },
+  {
+    "payment_id": "PAY-2026-7E7EB976",
+    "permit_id": "PERMIT-2026-129B2F3E",
+    "citizen_id": "CIT-000047",
+    "amount_php": 307.38,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-19T14:01:04",
+    "reference_number": "REF4465124189389"
+  },
+  {
+    "payment_id": "PAY-2026-04CF4A69",
+    "permit_id": "PERMIT-2026-8C7B9DBD",
+    "citizen_id": "CIT-000419",
+    "amount_php": 1867.85,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-12-18T03:04:25",
+    "reference_number": "REF8469081974005"
+  },
+  {
+    "payment_id": "PAY-2026-20252FCF",
+    "permit_id": "PERMIT-2026-F606FB86",
+    "citizen_id": "CIT-000293",
+    "amount_php": 2697.99,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-11-24T19:19:34",
+    "reference_number": "REF6435023850371"
+  },
+  {
+    "payment_id": "PAY-2026-4A0DBE7F",
+    "permit_id": "PERMIT-2026-843F8217",
+    "citizen_id": "CIT-000144",
+    "amount_php": 6449.89,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-04-07T04:26:28",
+    "reference_number": "REF9905169918724"
+  },
+  {
+    "payment_id": "PAY-2026-A656B779",
+    "permit_id": "PERMIT-2026-8BC669AD",
+    "citizen_id": "CIT-000484",
+    "amount_php": 1958.14,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-28T04:34:12",
+    "reference_number": "REF0107835674300"
+  },
+  {
+    "payment_id": "PAY-2026-CE74F934",
+    "permit_id": "PERMIT-2026-D77BB5F9",
+    "citizen_id": "CIT-000142",
+    "amount_php": 6684.82,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-28T17:52:42",
+    "reference_number": "REF0389608706626"
+  },
+  {
+    "payment_id": "PAY-2026-50BE0AF3",
+    "permit_id": "PERMIT-2026-4D8CBAE0",
+    "citizen_id": "CIT-000310",
+    "amount_php": 3390.72,
+    "payment_method": "Bank Transfer",
+    "status": "Failed",
+    "transaction_date": "2025-09-12T10:22:59",
+    "reference_number": "REF6821719553560"
+  },
+  {
+    "payment_id": "PAY-2026-DB6F51C9",
+    "permit_id": "PERMIT-2026-CD246CE7",
+    "citizen_id": "CIT-000113",
+    "amount_php": 4020.25,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-04-18T18:16:19",
+    "reference_number": "REF3319036890030"
+  },
+  {
+    "payment_id": "PAY-2026-248BDBBA",
+    "permit_id": "PERMIT-2026-DCAE3F3B",
+    "citizen_id": "CIT-000445",
+    "amount_php": 1507.28,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-03T06:09:06",
+    "reference_number": "REF1027240559342"
+  },
+  {
+    "payment_id": "PAY-2026-564AF826",
+    "permit_id": "PERMIT-2026-5EFE5C21",
+    "citizen_id": "CIT-000304",
+    "amount_php": 7729.4,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T03:51:14",
+    "reference_number": "REF9671114837537"
+  },
+  {
+    "payment_id": "PAY-2026-09EAF9AD",
+    "permit_id": "PERMIT-2026-F419B8A4",
+    "citizen_id": "CIT-000357",
+    "amount_php": 8490.03,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-01-23T09:55:46",
+    "reference_number": "REF4584384588105"
+  },
+  {
+    "payment_id": "PAY-2026-EA9E00E3",
+    "permit_id": "PERMIT-2026-08D1AC8D",
+    "citizen_id": "CIT-000326",
+    "amount_php": 5289.82,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-31T09:47:57",
+    "reference_number": "REF6974132834831"
+  },
+  {
+    "payment_id": "PAY-2026-43F96B3C",
+    "permit_id": "PERMIT-2026-837463DD",
+    "citizen_id": "CIT-000353",
+    "amount_php": 6915.67,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-11-06T14:05:50",
+    "reference_number": "REF5203771070449"
+  },
+  {
+    "payment_id": "PAY-2026-F2E1E15A",
+    "permit_id": "PERMIT-2026-97E0E135",
+    "citizen_id": "CIT-000116",
+    "amount_php": 5667.48,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-10T20:03:26",
+    "reference_number": "REF6410496706670"
+  },
+  {
+    "payment_id": "PAY-2026-8938269E",
+    "permit_id": "PERMIT-2026-DD85F249",
+    "citizen_id": "CIT-000487",
+    "amount_php": 294.18,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-11-10T07:06:20",
+    "reference_number": "REF3362680408509"
+  },
+  {
+    "payment_id": "PAY-2026-6FD83CBC",
+    "permit_id": "PERMIT-2026-884CE8A6",
+    "citizen_id": "CIT-000161",
+    "amount_php": 5475.15,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-19T12:51:52",
+    "reference_number": "REF5493059660186"
+  },
+  {
+    "payment_id": "PAY-2026-21D045EF",
+    "permit_id": "PERMIT-2026-5ACFE237",
+    "citizen_id": "CIT-000236",
+    "amount_php": 7989.27,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-01-10T13:58:50",
+    "reference_number": "REF4876998426732"
+  },
+  {
+    "payment_id": "PAY-2026-5482E4ED",
+    "permit_id": "PERMIT-2026-8D307F85",
+    "citizen_id": "CIT-000134",
+    "amount_php": 3827.67,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-27T06:47:19",
+    "reference_number": "REF0441384596094"
+  },
+  {
+    "payment_id": "PAY-2026-46C5425D",
+    "permit_id": "PERMIT-2026-0D53E6A8",
+    "citizen_id": "CIT-000190",
+    "amount_php": 7406.61,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-26T20:08:23",
+    "reference_number": "REF5449014954277"
+  },
+  {
+    "payment_id": "PAY-2026-2805342B",
+    "permit_id": "PERMIT-2026-5F31FE86",
+    "citizen_id": "CIT-000163",
+    "amount_php": 7424.85,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-03-15T03:12:53",
+    "reference_number": "REF0707057836091"
+  },
+  {
+    "payment_id": "PAY-2026-9D732EC1",
+    "permit_id": "PERMIT-2026-59B2D94D",
+    "citizen_id": "CIT-000403",
+    "amount_php": 471.49,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-03-02T04:36:05",
+    "reference_number": "REF4985172444723"
+  },
+  {
+    "payment_id": "PAY-2026-DEFE388B",
+    "permit_id": "PERMIT-2026-45B345C3",
+    "citizen_id": "CIT-000193",
+    "amount_php": 2799.74,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-13T08:24:20",
+    "reference_number": "REF2290310287950"
+  },
+  {
+    "payment_id": "PAY-2026-A57122E4",
+    "permit_id": "PERMIT-2026-29DB225B",
+    "citizen_id": "CIT-000208",
+    "amount_php": 8432.96,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-16T06:29:14",
+    "reference_number": "REF8304405809351"
+  },
+  {
+    "payment_id": "PAY-2026-F7618B86",
+    "permit_id": "PERMIT-2026-91A9168C",
+    "citizen_id": "CIT-000369",
+    "amount_php": 6147.97,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-12T06:32:37",
+    "reference_number": "REF1871813359561"
+  },
+  {
+    "payment_id": "PAY-2026-24073F3C",
+    "permit_id": "PERMIT-2026-4D8CBAE0",
+    "citizen_id": "CIT-000310",
+    "amount_php": 4382.93,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-09-11T03:22:59",
+    "reference_number": "REF6420595565749"
+  },
+  {
+    "payment_id": "PAY-2026-DD88A49B",
+    "permit_id": "PERMIT-2026-902B7981",
+    "citizen_id": "CIT-000416",
+    "amount_php": 2870.34,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-19T18:58:35",
+    "reference_number": "REF0250429019358"
+  },
+  {
+    "payment_id": "PAY-2026-AD5D83AF",
+    "permit_id": "PERMIT-2026-BE158009",
+    "citizen_id": "CIT-000378",
+    "amount_php": 5509.76,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-11T17:29:07",
+    "reference_number": "REF8953690261139"
+  },
+  {
+    "payment_id": "PAY-2026-4AADED61",
+    "permit_id": "PERMIT-2026-E0F896D2",
+    "citizen_id": "CIT-000504",
+    "amount_php": 6731.17,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "transaction_date": "2026-07-03T14:07:40",
+    "reference_number": "REF8986818097887"
+  },
+  {
+    "payment_id": "PAY-2026-5456B7F2",
+    "permit_id": "PERMIT-2026-2BA54E65",
+    "citizen_id": "CIT-000218",
+    "amount_php": 8019.7,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-05T13:05:40",
+    "reference_number": "REF5439435353751"
+  },
+  {
+    "payment_id": "PAY-2026-2FADF912",
+    "permit_id": "PERMIT-2026-808079FA",
+    "citizen_id": "CIT-000310",
+    "amount_php": 522.5,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2025-12-02T07:43:36",
+    "reference_number": "REF3765158815793"
+  },
+  {
+    "payment_id": "PAY-2026-E96A93E9",
+    "permit_id": "PERMIT-2026-843F8217",
+    "citizen_id": "CIT-000144",
+    "amount_php": 5235.47,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-05T20:26:28",
+    "reference_number": "REF7639283692944"
+  },
+  {
+    "payment_id": "PAY-2026-B79428C4",
+    "permit_id": "PERMIT-2026-598331E5",
+    "citizen_id": "CIT-000231",
+    "amount_php": 6102.22,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-18T21:46:55",
+    "reference_number": "REF5511668297327"
+  },
+  {
+    "payment_id": "PAY-2026-2D5E60AE",
+    "permit_id": "PERMIT-2026-2CCEC509",
+    "citizen_id": "CIT-000229",
+    "amount_php": 6214.27,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-29T17:05:27",
+    "reference_number": "REF0216487120602"
+  },
+  {
+    "payment_id": "PAY-2026-0404D24F",
+    "permit_id": "PERMIT-2026-C3F82137",
+    "citizen_id": "CIT-000366",
+    "amount_php": 8154.52,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-12T21:15:11",
+    "reference_number": "REF1288665268341"
+  },
+  {
+    "payment_id": "PAY-2026-3C61ACB7",
+    "permit_id": "PERMIT-2026-B3F63D74",
+    "citizen_id": "CIT-000044",
+    "amount_php": 6270.93,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-21T10:33:58",
+    "reference_number": "REF5599910157676"
+  },
+  {
+    "payment_id": "PAY-2026-4430B19C",
+    "permit_id": "PERMIT-2026-DCFBB007",
+    "citizen_id": "CIT-000493",
+    "amount_php": 4529.14,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-08T02:41:00",
+    "reference_number": "REF4722981209957"
+  },
+  {
+    "payment_id": "PAY-2026-00CE97DC",
+    "permit_id": "PERMIT-2026-B3E9F097",
+    "citizen_id": "CIT-000476",
+    "amount_php": 2597.1,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-11T18:43:41",
+    "reference_number": "REF6572894134750"
+  },
+  {
+    "payment_id": "PAY-2026-6D7A87F3",
+    "permit_id": "PERMIT-2026-D5C6A240",
+    "citizen_id": "CIT-000234",
+    "amount_php": 3956.11,
+    "payment_method": "Bank Transfer",
+    "status": "Failed",
+    "transaction_date": "2025-11-01T14:21:27",
+    "reference_number": "REF9889864565220"
+  },
+  {
+    "payment_id": "PAY-2026-A91FB636",
+    "permit_id": "PERMIT-2026-3C4866BF",
+    "citizen_id": "CIT-000274",
+    "amount_php": 6268.87,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-24T03:43:56",
+    "reference_number": "REF3684995154214"
+  },
+  {
+    "payment_id": "PAY-2026-D7BF2A32",
+    "permit_id": "PERMIT-2026-9EC33E17",
+    "citizen_id": "CIT-000449",
+    "amount_php": 4372.12,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-09T00:30:54",
+    "reference_number": "REF4773244913421"
+  },
+  {
+    "payment_id": "PAY-2026-B507FCB1",
+    "permit_id": "PERMIT-2026-E27CBA66",
+    "citizen_id": "CIT-000199",
+    "amount_php": 6715.64,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-05-13T01:01:15",
+    "reference_number": "REF3882090883070"
+  },
+  {
+    "payment_id": "PAY-2026-4C2D70B7",
+    "permit_id": "PERMIT-2026-F1576E2A",
+    "citizen_id": "CIT-000102",
+    "amount_php": 2195.28,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-10T08:25:11",
+    "reference_number": "REF5349678274117"
+  },
+  {
+    "payment_id": "PAY-2026-937FDB73",
+    "permit_id": "PERMIT-2026-9FB12D9E",
+    "citizen_id": "CIT-000044",
+    "amount_php": 2323.33,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-14T10:26:56",
+    "reference_number": "REF6741241513152"
+  },
+  {
+    "payment_id": "PAY-2026-21F872FD",
+    "permit_id": "PERMIT-2026-EB7EA367",
+    "citizen_id": "CIT-000074",
+    "amount_php": 3561.0,
+    "payment_method": "Over-the-Counter",
+    "status": "Refunded",
+    "transaction_date": "2025-12-21T00:51:11",
+    "reference_number": "REF8547815061853"
+  },
+  {
+    "payment_id": "PAY-2026-42786896",
+    "permit_id": "PERMIT-2026-6055C3F5",
+    "citizen_id": "CIT-000193",
+    "amount_php": 7510.03,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2026-06-26T06:29:51",
+    "reference_number": "REF8003296334727"
+  },
+  {
+    "payment_id": "PAY-2026-A946987C",
+    "permit_id": "PERMIT-2026-71B6948E",
+    "citizen_id": "CIT-000049",
+    "amount_php": 1542.54,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-12T22:49:57",
+    "reference_number": "REF2742318306178"
+  },
+  {
+    "payment_id": "PAY-2026-FE1B7B17",
+    "permit_id": "PERMIT-2026-DC23A1B4",
+    "citizen_id": "CIT-000452",
+    "amount_php": 993.31,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T12:58:52",
+    "reference_number": "REF9320649693578"
+  },
+  {
+    "payment_id": "PAY-2026-FF429C86",
+    "permit_id": "PERMIT-2026-27CB4249",
+    "citizen_id": "CIT-000227",
+    "amount_php": 1543.91,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-06-13T20:20:03",
+    "reference_number": "REF2434776958741"
+  },
+  {
+    "payment_id": "PAY-2026-B664C6F8",
+    "permit_id": "PERMIT-2026-EF824D8E",
+    "citizen_id": "CIT-000124",
+    "amount_php": 3108.97,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-29T16:41:46",
+    "reference_number": "REF3146753612751"
+  },
+  {
+    "payment_id": "PAY-2026-6E4D1BDF",
+    "permit_id": "PERMIT-2026-410AB1F7",
+    "citizen_id": "CIT-000498",
+    "amount_php": 2599.82,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-03-24T01:00:39",
+    "reference_number": "REF5627796304483"
+  },
+  {
+    "payment_id": "PAY-2026-AC8542B4",
+    "permit_id": "PERMIT-2026-BF75031D",
+    "citizen_id": "CIT-000502",
+    "amount_php": 5233.12,
+    "payment_method": "GCash",
+    "status": "Refunded",
+    "transaction_date": "2026-03-01T22:58:53",
+    "reference_number": "REF6085456676640"
+  },
+  {
+    "payment_id": "PAY-2026-A21DBB4C",
+    "permit_id": "PERMIT-2026-AFABCC50",
+    "citizen_id": "CIT-000324",
+    "amount_php": 6318.55,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "transaction_date": "2026-02-14T08:52:10",
+    "reference_number": "REF4735047639283"
+  },
+  {
+    "payment_id": "PAY-2026-EA3E54E2",
+    "permit_id": "PERMIT-2026-D7E4802D",
+    "citizen_id": "CIT-000342",
+    "amount_php": 3905.44,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-30T21:52:46",
+    "reference_number": "REF1995298006155"
+  },
+  {
+    "payment_id": "PAY-2026-E435B1A2",
+    "permit_id": "PERMIT-2026-28E8D91F",
+    "citizen_id": "CIT-000166",
+    "amount_php": 1273.96,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-15T01:09:00",
+    "reference_number": "REF8108358328634"
+  },
+  {
+    "payment_id": "PAY-2026-6E14A16D",
+    "permit_id": "PERMIT-2026-A36AB7F3",
+    "citizen_id": "CIT-000186",
+    "amount_php": 1421.34,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-04T17:55:21",
+    "reference_number": "REF2556383000818"
+  },
+  {
+    "payment_id": "PAY-2026-CDD7C8D9",
+    "permit_id": "PERMIT-2026-FBA1A2D2",
+    "citizen_id": "CIT-000240",
+    "amount_php": 5572.53,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-24T06:32:09",
+    "reference_number": "REF6702440330416"
+  },
+  {
+    "payment_id": "PAY-2026-6CA5360B",
+    "permit_id": "PERMIT-2026-07A85C20",
+    "citizen_id": "CIT-000100",
+    "amount_php": 6183.15,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "transaction_date": "2026-03-01T15:52:23",
+    "reference_number": "REF6241118600892"
+  },
+  {
+    "payment_id": "PAY-2026-36B8E623",
+    "permit_id": "PERMIT-2026-BB9E0490",
+    "citizen_id": "CIT-000480",
+    "amount_php": 2632.86,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-24T22:22:01",
+    "reference_number": "REF1963945680447"
+  },
+  {
+    "payment_id": "PAY-2026-1AD78E12",
+    "permit_id": "PERMIT-2026-C69E807C",
+    "citizen_id": "CIT-000276",
+    "amount_php": 4991.57,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-13T16:15:42",
+    "reference_number": "REF3149764613684"
+  },
+  {
+    "payment_id": "PAY-2026-9FCE28F4",
+    "permit_id": "PERMIT-2026-129B2F3E",
+    "citizen_id": "CIT-000047",
+    "amount_php": 6473.46,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-03-19T03:01:04",
+    "reference_number": "REF7488360765817"
+  },
+  {
+    "payment_id": "PAY-2026-019DA08D",
+    "permit_id": "PERMIT-2026-A5186709",
+    "citizen_id": "CIT-000297",
+    "amount_php": 4484.78,
+    "payment_method": "Over-the-Counter",
+    "status": "Pending",
+    "transaction_date": "2026-05-19T03:01:17",
+    "reference_number": "REF3906375791452"
+  },
+  {
+    "payment_id": "PAY-2026-CD5FF9B8",
+    "permit_id": "PERMIT-2026-8D307F85",
+    "citizen_id": "CIT-000134",
+    "amount_php": 3050.34,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-04-27T08:47:19",
+    "reference_number": "REF1182379312697"
+  },
+  {
+    "payment_id": "PAY-2026-504B0153",
+    "permit_id": "PERMIT-2026-F419B8A4",
+    "citizen_id": "CIT-000357",
+    "amount_php": 3814.95,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-01-24T11:55:46",
+    "reference_number": "REF8930746452059"
+  },
+  {
+    "payment_id": "PAY-2026-AEFA2136",
+    "permit_id": "PERMIT-2026-DDD2D167",
+    "citizen_id": "CIT-000344",
+    "amount_php": 6441.46,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-05T16:24:03",
+    "reference_number": "REF9604387875357"
+  },
+  {
+    "payment_id": "PAY-2026-49900F2B",
+    "permit_id": "PERMIT-2026-D4F5F55F",
+    "citizen_id": "CIT-000207",
+    "amount_php": 1877.14,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-04T06:06:42",
+    "reference_number": "REF7881161620281"
+  },
+  {
+    "payment_id": "PAY-2026-733D1C38",
+    "permit_id": "PERMIT-2026-84F3B860",
+    "citizen_id": "CIT-000298",
+    "amount_php": 7686.22,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-11-01T00:01:15",
+    "reference_number": "REF2371067287286"
+  },
+  {
+    "payment_id": "PAY-2026-78759603",
+    "permit_id": "PERMIT-2026-B3E9F097",
+    "citizen_id": "CIT-000476",
+    "amount_php": 4227.86,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-02-10T06:43:41",
+    "reference_number": "REF6041644859592"
+  },
+  {
+    "payment_id": "PAY-2026-D55C50B1",
+    "permit_id": "PERMIT-2026-49455D7D",
+    "citizen_id": "CIT-000435",
+    "amount_php": 3711.3,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-18T13:30:56",
+    "reference_number": "REF2483958947735"
+  },
+  {
+    "payment_id": "PAY-2026-0B280F53",
+    "permit_id": "PERMIT-2026-71B6948E",
+    "citizen_id": "CIT-000049",
+    "amount_php": 7815.26,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-13T16:49:57",
+    "reference_number": "REF2287056227104"
+  },
+  {
+    "payment_id": "PAY-2026-14ED1621",
+    "permit_id": "PERMIT-2026-BE3547C5",
+    "citizen_id": "CIT-000240",
+    "amount_php": 7572.15,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-26T03:21:29",
+    "reference_number": "REF3318751097921"
+  },
+  {
+    "payment_id": "PAY-2026-98161BE4",
+    "permit_id": "PERMIT-2026-BA830FBA",
+    "citizen_id": "CIT-000390",
+    "amount_php": 6259.14,
+    "payment_method": "GCash",
+    "status": "Failed",
+    "transaction_date": "2026-06-15T19:54:58",
+    "reference_number": "REF5835034469459"
+  },
+  {
+    "payment_id": "PAY-2026-78529C70",
+    "permit_id": "PERMIT-2026-C3F82137",
+    "citizen_id": "CIT-000366",
+    "amount_php": 6774.22,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-14T16:15:11",
+    "reference_number": "REF6488319213424"
+  },
+  {
+    "payment_id": "PAY-2026-29055B07",
+    "permit_id": "PERMIT-2026-53093E74",
+    "citizen_id": "CIT-000180",
+    "amount_php": 2950.07,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2025-11-24T02:30:48",
+    "reference_number": "REF9128965999497"
+  },
+  {
+    "payment_id": "PAY-2026-809A0200",
+    "permit_id": "PERMIT-2026-5D4A0751",
+    "citizen_id": "CIT-000263",
+    "amount_php": 6638.33,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-29T16:15:59",
+    "reference_number": "REF3203319222705"
+  },
+  {
+    "payment_id": "PAY-2026-F43CE9FE",
+    "permit_id": "PERMIT-2026-218AFDF1",
+    "citizen_id": "CIT-000494",
+    "amount_php": 988.66,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-14T18:57:17",
+    "reference_number": "REF1028767548138"
+  },
+  {
+    "payment_id": "PAY-2026-CAE82E78",
+    "permit_id": "PERMIT-2026-09B5C69C",
+    "citizen_id": "CIT-000446",
+    "amount_php": 7175.95,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-03-04T03:01:15",
+    "reference_number": "REF6667548581932"
+  },
+  {
+    "payment_id": "PAY-2026-5386FED7",
+    "permit_id": "PERMIT-2026-68FBFCC5",
+    "citizen_id": "CIT-000421",
+    "amount_php": 5387.83,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-18T19:22:10",
+    "reference_number": "REF4268774186520"
+  },
+  {
+    "payment_id": "PAY-2026-73BF4711",
+    "permit_id": "PERMIT-2026-BF4ABCD1",
+    "citizen_id": "CIT-000498",
+    "amount_php": 5772.45,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-19T20:55:44",
+    "reference_number": "REF5756398365203"
+  },
+  {
+    "payment_id": "PAY-2026-74A6B71B",
+    "permit_id": "PERMIT-2026-847DAB16",
+    "citizen_id": "CIT-000345",
+    "amount_php": 6275.23,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-30T21:07:30",
+    "reference_number": "REF7583094515480"
+  },
+  {
+    "payment_id": "PAY-2026-6E095DBF",
+    "permit_id": "PERMIT-2026-EA645B25",
+    "citizen_id": "CIT-000482",
+    "amount_php": 7307.26,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-19T07:49:36",
+    "reference_number": "REF9404760440907"
+  },
+  {
+    "payment_id": "PAY-2026-E8EF49C8",
+    "permit_id": "PERMIT-2026-D77BB5F9",
+    "citizen_id": "CIT-000142",
+    "amount_php": 4247.27,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-27T18:52:42",
+    "reference_number": "REF9772781050922"
+  },
+  {
+    "payment_id": "PAY-2026-7F476FC3",
+    "permit_id": "PERMIT-2026-E3229316",
+    "citizen_id": "CIT-000001",
+    "amount_php": 3641.63,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-29T12:37:58",
+    "reference_number": "REF2161070518439"
+  },
+  {
+    "payment_id": "PAY-2026-34B3CFC0",
+    "permit_id": "PERMIT-2026-E6FDF2FD",
+    "citizen_id": "CIT-000013",
+    "amount_php": 3061.68,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-06T06:52:30",
+    "reference_number": "REF0552958066013"
+  },
+  {
+    "payment_id": "PAY-2026-218DFC86",
+    "permit_id": "PERMIT-2026-CF542ABF",
+    "citizen_id": "CIT-000302",
+    "amount_php": 7169.78,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-03T10:51:56",
+    "reference_number": "REF8241270493862"
+  },
+  {
+    "payment_id": "PAY-2026-6AE8E165",
+    "permit_id": "PERMIT-2026-423B108C",
+    "citizen_id": "CIT-000517",
+    "amount_php": 3424.95,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-09-22T10:02:56",
+    "reference_number": "REF0448515791971"
+  },
+  {
+    "payment_id": "PAY-2026-67B30F46",
+    "permit_id": "PERMIT-2026-D4E398CA",
+    "citizen_id": "CIT-000220",
+    "amount_php": 1978.07,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-29T06:30:18",
+    "reference_number": "REF1121259020357"
+  },
+  {
+    "payment_id": "PAY-2026-1D4462E0",
+    "permit_id": "PERMIT-2026-048BDD01",
+    "citizen_id": "CIT-000469",
+    "amount_php": 2215.76,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-05T15:29:41",
+    "reference_number": "REF1343240642429"
+  },
+  {
+    "payment_id": "PAY-2026-1916AA12",
+    "permit_id": "PERMIT-2026-11917F42",
+    "citizen_id": "CIT-000455",
+    "amount_php": 5666.12,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-23T08:31:08",
+    "reference_number": "REF5633432447417"
+  },
+  {
+    "payment_id": "PAY-2026-BFD76BEA",
+    "permit_id": "PERMIT-2026-C42A23D1",
+    "citizen_id": "CIT-000403",
+    "amount_php": 7165.01,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-05-22T19:12:18",
+    "reference_number": "REF5955872096289"
+  },
+  {
+    "payment_id": "PAY-2026-7536DCD1",
+    "permit_id": "PERMIT-2026-E6FDF2FD",
+    "citizen_id": "CIT-000013",
+    "amount_php": 2579.27,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-04T15:52:30",
+    "reference_number": "REF3654358841834"
+  },
+  {
+    "payment_id": "PAY-2026-4F7456B6",
+    "permit_id": "PERMIT-2026-D7E4802D",
+    "citizen_id": "CIT-000342",
+    "amount_php": 4844.85,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-29T08:52:46",
+    "reference_number": "REF3740182727955"
+  },
+  {
+    "payment_id": "PAY-2026-5FA8FEAD",
+    "permit_id": "PERMIT-2026-09B5C69C",
+    "citizen_id": "CIT-000446",
+    "amount_php": 3418.01,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-04T17:01:15",
+    "reference_number": "REF9690515026755"
+  },
+  {
+    "payment_id": "PAY-2026-E35C60FD",
+    "permit_id": "PERMIT-2026-189584D2",
+    "citizen_id": "CIT-000474",
+    "amount_php": 2390.45,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-06-11T09:08:20",
+    "reference_number": "REF1254278207979"
+  },
+  {
+    "payment_id": "PAY-2026-06AFA3E0",
+    "permit_id": "PERMIT-2026-AFABCC50",
+    "citizen_id": "CIT-000324",
+    "amount_php": 3887.76,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-14T23:52:10",
+    "reference_number": "REF9667345957640"
+  },
+  {
+    "payment_id": "PAY-2026-5BCD89B8",
+    "permit_id": "PERMIT-2026-FAE4B220",
+    "citizen_id": "CIT-000105",
+    "amount_php": 1871.78,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2025-11-29T01:35:52",
+    "reference_number": "REF3816649690282"
+  },
+  {
+    "payment_id": "PAY-2026-37A6D833",
+    "permit_id": "PERMIT-2026-516AA3F9",
+    "citizen_id": "CIT-000173",
+    "amount_php": 5201.43,
+    "payment_method": "GCash",
+    "status": "Failed",
+    "transaction_date": "2026-06-27T00:04:24",
+    "reference_number": "REF4983922501425"
+  },
+  {
+    "payment_id": "PAY-2026-398083BC",
+    "permit_id": "PERMIT-2026-7669A1A5",
+    "citizen_id": "CIT-000473",
+    "amount_php": 903.61,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-17T18:57:33",
+    "reference_number": "REF7627023244123"
+  },
+  {
+    "payment_id": "PAY-2026-AC615AAF",
+    "permit_id": "PERMIT-2026-91A9168C",
+    "citizen_id": "CIT-000369",
+    "amount_php": 679.93,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-03-12T07:32:37",
+    "reference_number": "REF3613285072517"
+  },
+  {
+    "payment_id": "PAY-2026-7069A2E7",
+    "permit_id": "PERMIT-2026-D5C6A240",
+    "citizen_id": "CIT-000234",
+    "amount_php": 1806.97,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-02T10:21:27",
+    "reference_number": "REF8637673162526"
+  },
+  {
+    "payment_id": "PAY-2026-212EAB08",
+    "permit_id": "PERMIT-2026-BCDEEED5",
+    "citizen_id": "CIT-000337",
+    "amount_php": 2064.94,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2025-09-16T11:07:09",
+    "reference_number": "REF5469681579039"
+  },
+  {
+    "payment_id": "PAY-2026-49EC380A",
+    "permit_id": "PERMIT-2026-9AEB4F7B",
+    "citizen_id": "CIT-000109",
+    "amount_php": 1950.39,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-01-13T03:45:11",
+    "reference_number": "REF2355580996132"
+  },
+  {
+    "payment_id": "PAY-2026-EEA92B11",
+    "permit_id": "PERMIT-2026-829FDECE",
+    "citizen_id": "CIT-000211",
+    "amount_php": 7209.77,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-04-05T08:23:23",
+    "reference_number": "REF7303461562624"
+  },
+  {
+    "payment_id": "PAY-2026-87F18697",
+    "permit_id": "PERMIT-2026-2713DE4C",
+    "citizen_id": "CIT-000362",
+    "amount_php": 503.08,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-02T21:14:23",
+    "reference_number": "REF4670462268171"
+  },
+  {
+    "payment_id": "PAY-2026-C125ABC2",
+    "permit_id": "PERMIT-2026-E27CBA66",
+    "citizen_id": "CIT-000199",
+    "amount_php": 6599.64,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-05-13T13:01:15",
+    "reference_number": "REF5160252986707"
+  },
+  {
+    "payment_id": "PAY-2026-CF6D60EC",
+    "permit_id": "PERMIT-2026-8ED21074",
+    "citizen_id": "CIT-000278",
+    "amount_php": 5621.55,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-30T00:56:51",
+    "reference_number": "REF6604641978575"
+  },
+  {
+    "payment_id": "PAY-2026-BBC798B2",
+    "permit_id": "PERMIT-2026-EE0A9D1F",
+    "citizen_id": "CIT-000146",
+    "amount_php": 789.0,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-02T20:13:17",
+    "reference_number": "REF8512686120594"
+  },
+  {
+    "payment_id": "PAY-2026-59010EBE",
+    "permit_id": "PERMIT-2026-BE158009",
+    "citizen_id": "CIT-000378",
+    "amount_php": 273.09,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-09-11T14:29:07",
+    "reference_number": "REF3897607401775"
+  },
+  {
+    "payment_id": "PAY-2026-19A21C2F",
+    "permit_id": "PERMIT-2026-5C31365A",
+    "citizen_id": "CIT-000295",
+    "amount_php": 6294.54,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T12:35:07",
+    "reference_number": "REF0954654084245"
+  },
+  {
+    "payment_id": "PAY-2026-7700C5EC",
+    "permit_id": "PERMIT-2026-57D30B1E",
+    "citizen_id": "CIT-000361",
+    "amount_php": 3700.03,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-02-19T16:57:17",
+    "reference_number": "REF6075409150863"
+  },
+  {
+    "payment_id": "PAY-2026-9F20ECAF",
+    "permit_id": "PERMIT-2026-F419B8A4",
+    "citizen_id": "CIT-000357",
+    "amount_php": 1842.27,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "transaction_date": "2026-01-24T09:55:46",
+    "reference_number": "REF2181227645793"
+  },
+  {
+    "payment_id": "PAY-2026-B36D3153",
+    "permit_id": "PERMIT-2026-97C00464",
+    "citizen_id": "CIT-000308",
+    "amount_php": 2581.84,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-04-28T13:40:05",
+    "reference_number": "REF8970155029168"
+  },
+  {
+    "payment_id": "PAY-2026-8AD6F409",
+    "permit_id": "PERMIT-2026-0F94FADE",
+    "citizen_id": "CIT-000232",
+    "amount_php": 2475.96,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "transaction_date": "2026-06-04T16:13:09",
+    "reference_number": "REF1546602416139"
+  },
+  {
+    "payment_id": "PAY-2026-374B0863",
+    "permit_id": "PERMIT-2026-D7E0E389",
+    "citizen_id": "CIT-000310",
+    "amount_php": 3343.11,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-06-03T05:38:01",
+    "reference_number": "REF4498830597364"
+  },
+  {
+    "payment_id": "PAY-2026-687FFF8A",
+    "permit_id": "PERMIT-2026-7A9C8C08",
+    "citizen_id": "CIT-000413",
+    "amount_php": 6116.73,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-04-26T06:56:46",
+    "reference_number": "REF2480962440630"
+  },
+  {
+    "payment_id": "PAY-2026-C79E8096",
+    "permit_id": "PERMIT-2026-BE842980",
+    "citizen_id": "CIT-000340",
+    "amount_php": 6589.57,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-14T20:39:08",
+    "reference_number": "REF6244795133053"
+  },
+  {
+    "payment_id": "PAY-2026-6D3036E9",
+    "permit_id": "PERMIT-2026-4D8CBAE0",
+    "citizen_id": "CIT-000310",
+    "amount_php": 2743.59,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-12T16:22:59",
+    "reference_number": "REF1949796958678"
+  },
+  {
+    "payment_id": "PAY-2026-DFA144A7",
+    "permit_id": "PERMIT-2026-70B6A266",
+    "citizen_id": "CIT-000226",
+    "amount_php": 4833.39,
+    "payment_method": "Maya",
+    "status": "Pending",
+    "transaction_date": "2025-12-19T19:18:39",
+    "reference_number": "REF0555572773826"
+  },
+  {
+    "payment_id": "PAY-2026-A2B2D530",
+    "permit_id": "PERMIT-2026-423B108C",
+    "citizen_id": "CIT-000517",
+    "amount_php": 2237.24,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-09-22T07:02:56",
+    "reference_number": "REF4609178513854"
+  },
+  {
+    "payment_id": "PAY-2026-7108C423",
+    "permit_id": "PERMIT-2026-CD912050",
+    "citizen_id": "CIT-000384",
+    "amount_php": 6187.32,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-19T15:50:16",
+    "reference_number": "REF4577029929596"
+  },
+  {
+    "payment_id": "PAY-2026-ECB49742",
+    "permit_id": "PERMIT-2026-74693C03",
+    "citizen_id": "CIT-000183",
+    "amount_php": 2254.4,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-13T18:58:33",
+    "reference_number": "REF6048736826911"
+  },
+  {
+    "payment_id": "PAY-2026-D02014F0",
+    "permit_id": "PERMIT-2026-3CC0DDB6",
+    "citizen_id": "CIT-000424",
+    "amount_php": 2834.05,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-03-31T06:12:51",
+    "reference_number": "REF6331942268653"
+  },
+  {
+    "payment_id": "PAY-2026-DD1EA68A",
+    "permit_id": "PERMIT-2026-06B6A4FE",
+    "citizen_id": "CIT-000182",
+    "amount_php": 5914.82,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2026-06-01T05:59:56",
+    "reference_number": "REF6945515888636"
+  },
+  {
+    "payment_id": "PAY-2026-9390922A",
+    "permit_id": "PERMIT-2026-94806B41",
+    "citizen_id": "CIT-000216",
+    "amount_php": 8161.62,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-06-20T19:01:32",
+    "reference_number": "REF7747226408572"
+  },
+  {
+    "payment_id": "PAY-2026-F1BEE8BD",
+    "permit_id": "PERMIT-2026-BC5CB3E5",
+    "citizen_id": "CIT-000066",
+    "amount_php": 4782.64,
+    "payment_method": "Bank Transfer",
+    "status": "Refunded",
+    "transaction_date": "2026-01-20T15:14:39",
+    "reference_number": "REF1696663093299"
+  },
+  {
+    "payment_id": "PAY-2026-3A7A3523",
+    "permit_id": "PERMIT-2026-FADA6345",
+    "citizen_id": "CIT-000140",
+    "amount_php": 3704.61,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-01-20T05:23:49",
+    "reference_number": "REF8199605932971"
+  },
+  {
+    "payment_id": "PAY-2026-162494C7",
+    "permit_id": "PERMIT-2026-829FDECE",
+    "citizen_id": "CIT-000211",
+    "amount_php": 4491.49,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2026-04-05T16:23:23",
+    "reference_number": "REF5096883275327"
+  },
+  {
+    "payment_id": "PAY-2026-59BCDBF3",
+    "permit_id": "PERMIT-2026-49DFE9CB",
+    "citizen_id": "CIT-000010",
+    "amount_php": 476.17,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-03-21T19:37:58",
+    "reference_number": "REF3524103977397"
+  },
+  {
+    "payment_id": "PAY-2026-8DF30B79",
+    "permit_id": "PERMIT-2026-92DF4870",
+    "citizen_id": "CIT-000515",
+    "amount_php": 1317.88,
+    "payment_method": "Over-the-Counter",
+    "status": "Completed",
+    "transaction_date": "2025-12-30T02:30:36",
+    "reference_number": "REF3278195237100"
+  },
+  {
+    "payment_id": "PAY-2026-1E04B99A",
+    "permit_id": "PERMIT-2026-F045C09E",
+    "citizen_id": "CIT-000340",
+    "amount_php": 1131.82,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2026-01-27T07:02:12",
+    "reference_number": "REF6876164819807"
+  },
+  {
+    "payment_id": "PAY-2026-5D5A8FC0",
+    "permit_id": "PERMIT-2026-E1D4052B",
+    "citizen_id": "CIT-000115",
+    "amount_php": 2841.92,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-10-09T23:42:09",
+    "reference_number": "REF7046056876112"
+  },
+  {
+    "payment_id": "PAY-2026-2F9F32D2",
+    "permit_id": "PERMIT-2026-05143C78",
+    "citizen_id": "CIT-000452",
+    "amount_php": 2573.14,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "transaction_date": "2026-05-27T10:29:12",
+    "reference_number": "REF4912565237341"
+  },
+  {
+    "payment_id": "PAY-2026-1C4FE77B",
+    "permit_id": "PERMIT-2026-42D6288F",
+    "citizen_id": "CIT-000064",
+    "amount_php": 5197.72,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "transaction_date": "2026-02-21T19:23:18",
+    "reference_number": "REF5177345475749"
+  },
+  {
+    "payment_id": "PAY-2026-720A0BEA",
+    "permit_id": "PERMIT-2026-049197C3",
+    "citizen_id": "CIT-000185",
+    "amount_php": 6163.09,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-02-19T02:27:48",
+    "reference_number": "REF4902284035954"
+  },
+  {
+    "payment_id": "PAY-2026-E393A77A",
+    "permit_id": "PERMIT-2026-97A6E828",
+    "citizen_id": "CIT-000040",
+    "amount_php": 2802.7,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-10-26T18:22:18",
+    "reference_number": "REF4294774222946"
+  },
+  {
+    "payment_id": "PAY-2026-B3D33F58",
+    "permit_id": "PERMIT-2026-48356ED3",
+    "citizen_id": "CIT-000135",
+    "amount_php": 2753.87,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2026-04-20T01:51:59",
+    "reference_number": "REF4303942904588"
+  },
+  {
+    "payment_id": "PAY-2026-EA374343",
+    "permit_id": "PERMIT-2026-3BE125BE",
+    "citizen_id": "CIT-000062",
+    "amount_php": 3979.26,
+    "payment_method": "GCash",
+    "status": "Completed",
+    "transaction_date": "2025-10-03T01:18:06",
+    "reference_number": "REF6792529858567"
+  },
+  {
+    "payment_id": "PAY-2026-498F53B3",
+    "permit_id": "PERMIT-2026-B941CFC7",
+    "citizen_id": "CIT-000210",
+    "amount_php": 1456.38,
+    "payment_method": "Credit Card",
+    "status": "Completed",
+    "transaction_date": "2025-12-10T18:43:38",
+    "reference_number": "REF2872760153433"
+  },
+  {
+    "payment_id": "PAY-2026-B75D2D22",
+    "permit_id": "PERMIT-2026-D9635099",
+    "citizen_id": "CIT-000181",
+    "amount_php": 5400.66,
+    "payment_method": "Maya",
+    "status": "Completed",
+    "transaction_date": "2025-11-09T17:14:56",
+    "reference_number": "REF2491357790833"
+  }
+]
