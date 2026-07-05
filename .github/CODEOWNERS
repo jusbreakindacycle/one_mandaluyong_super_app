@@ -1,0 +1,19 @@
+# CODEOWNERS — placeholder mapping, pending Phase 0 confirmation by the
+# City Administrator's Department and Technical Architecture Review Board.
+# See Section 11 (IT Governance Structure) and Section 21 (Repository Structure).
+
+# Cross-cutting shared contracts require Architecture Review Board sign-off
+/libs/shared-contracts/    @ictd-architecture-review
+
+# Platform modules — ICTD-owned
+/platform/                 @ictd-platform-team
+
+# AI services — kept as a distinct, auditable boundary
+/ai-services/               @ictd-ai-governance
+
+# Infrastructure and CI/CD
+/infra/                     @ictd-platform-team
+/.ci/                        @ictd-platform-team
+
+# Governance documentation
+/docs/governance/           @city-administrators-department

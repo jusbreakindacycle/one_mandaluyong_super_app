@@ -1,0 +1,55 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      apps: ${{ steps.filter.outputs.apps }}
+      services: ${{ steps.filter.outputs.services }}
+      platform: ${{ steps.filter.outputs.platform }}
+      ai_services: ${{ steps.filter.outputs.ai_services }}
+      libs: ${{ steps.filter.outputs.libs }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            apps:
+              - 'apps/**'
+            services:
+              - 'services/**'
+            platform:
+              - 'platform/**'
+            ai_services:
+              - 'ai-services/**'
+            libs:
+              - 'libs/**'
+
+  # Placeholder job — each module gets its own build/test/scan job once
+  # actual code lands, per Section 22 (Development Workflow) and Section 21
+  # (Repository Structure). Domain boundaries in the repo map to independent
+  # CI jobs so a change to one module does not require rebuilding unrelated
+  # modules.
+  lint-and-validate:
+    runs-on: ubuntu-latest
+    needs: detect-changes
+    steps:
+      - uses: actions/checkout@v4
+      - name: Placeholder — module-specific build/test/scan steps go here
+        run: echo "No buildable code yet — Phase 0 scaffold only."
+
+  # Security scanning gate — required before merge per Section 18
+  # (Security Architecture) and Section 22 (Development Workflow).
+  security-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Placeholder — SAST / dependency / secret scanning
+        run: echo "Wire up SAST, dependency scanning, and secret scanning here before Phase 1."
