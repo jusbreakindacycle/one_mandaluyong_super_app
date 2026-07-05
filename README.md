@@ -2901,7 +2901,7 @@ One Mandaluyong Super App is designed to preserve existing investments while rem
 
 ## Potential National Government Integrations
 
-> **Note:** Identity verification and business registration federation are not open questions here — they are already decided in Key Features → National Government Integration (identity via PhilSys/eGovDX-style credential exchange; business permits via DICT's `eNGU`/eBPLS and the ARTA Central Business Portal, ahead of the November 1, 2026 deadline). This list covers integrations that are genuinely still open, not yet decided at the architecture level.
+> **Note:** Identity verification and business registration federation are not open architectural questions here — they are already **proposed** in Key Features → National Government Integration (identity via PhilSys/eGovDX-style credential exchange; business permits via DICT's `eNGU`/eBPLS and the ARTA Central Business Portal, ahead of the November 1, 2026 deadline), pending formal confirmation by the IT Steering Committee once constituted. This list covers integrations that are genuinely still open at the architecture level — distinct from the federation direction above, which is settled in approach but not yet formally approved.
 
 Subject to appropriate agreements, approvals, and compliance review, future integration may include:
 
