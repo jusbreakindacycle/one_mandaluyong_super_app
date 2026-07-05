@@ -1,4 +1,27 @@
-# CODEOWNERS — placeholder mapping, pending Phase 0 confirmation by the
+# CODEOWNERS — temporary mapping while this project has a single contributor.
+# Replace with real GitHub Teams once a GitHub Organization and department
+# teams are established during Phase 0 governance setup, per Section 11
+# (IT Governance Structure) and Section 21 (Repository Structure).
+
+# Cross-cutting shared contracts require Architecture Review Board sign-off
+/libs/shared-contracts/    @jusbreakindacycle
+
+# Platform modules — ICTD-owned
+/platform/                 @jusbreakindacycle
+
+# AI services — kept as a distinct, auditable boundary
+/ai-services/               @jusbreakindacycle
+
+# Infrastructure and CI/CD
+/infra/                     @jusbreakindacycle
+/.ci/                        @jusbreakindacycle
+
+# Governance documentation
+/docs/governance/           @jusbreakindacycle
+
+---
+
+<!---# CODEOWNERS — placeholder mapping, pending Phase 0 confirmation by the
 # City Administrator's Department and Technical Architecture Review Board.
 # See Section 11 (IT Governance Structure) and Section 21 (Repository Structure).
 
@@ -16,4 +39,4 @@
 /.ci/                        @ictd-platform-team
 
 # Governance documentation
-/docs/governance/           @city-administrators-department
+/docs/governance/           @city-administrators-department -->

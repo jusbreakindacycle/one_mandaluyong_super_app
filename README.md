@@ -1,6 +1,6 @@
 # One Mandaluyong Super App
 
-**Version:** 1.4.0  
+**Version:** 1.5.0  
 **Status:** Engineering Blueprint
 
 Table of Contents
@@ -247,8 +247,10 @@ Government agencies whose digital platforms or services may be integrated where 
 
 Section 10 identifies who is *involved* in One Mandaluyong Super App. This section defines who *decides* — the governance bodies responsible for approving architecture, budget, and direction, so that the architecture-review and approval steps already assumed throughout the Development Workflow, Branching Strategy, and Risk Management sections have an actual body behind them.
 
-> ⚠️ **Proposed Structure, Pending Confirmation**
-> The governance structure below reflects common practice for LGU digital transformation initiatives, informed by the offices already confirmed to exist in Mandaluyong's own published department structure. It has not been formally adopted by the City Government. It should be reviewed and confirmed — or adjusted — by the **City Administrator's Department** as part of Phase 0 governance setup, using the same proposed-until-confirmed approach already applied to the Risk Register's ownership assignments.
+> ⚠️ **Partly Proposed, Partly Now a Legal Requirement**
+> The governance bodies below reflect common practice for LGU digital transformation initiatives, informed by the offices already confirmed to exist in Mandaluyong's own published department structure — these remain proposals pending confirmation by the **City Administrator's Department**, using the same proposed-until-confirmed approach already applied to the Risk Register's ownership assignments.
+>
+> However, the **Chief Information Officer position below is no longer merely a proposal.** Republic Act No. 12143 (the E-Governance Act of 2025) requires all covered government agencies, including LGUs, to designate a Chief Information Officer to lead digital transformation and ensure alignment with national ICT standards, and requires agency ICT strategies to align with DICT's E-Government Master Plan (EGMP). This section should be read as identifying a legal obligation the City must fulfill, not just a best-practice recommendation.
 
 ---
 
@@ -258,6 +260,16 @@ Section 10 identifies who is *involved* in One Mandaluyong Super App. This secti
 - Architecture Review Is a Standing Function, Not an Ad Hoc Favor
 - Escalation Path Defined Before It Is Needed
 - Governance Scales With the Roadmap's Phases, Not Fixed at Project Start
+- National Alignment Is a Baseline, Not an Afterthought — this platform's ICT strategy is designed to align with DICT's E-Government Master Plan (EGMP), consistent with the City's obligations under RA 12143
+
+---
+
+## Chief Information Officer
+
+- **Legal basis:** RA 12143 (E-Governance Act of 2025) requires the City Government to designate a CIO responsible for leading digital transformation, managing ICT systems, and ensuring compliance with national ICT standards.
+- **Proposed relationship to this platform:** The CIO is proposed as the executive sponsor and chair of the IT Steering Committee below, giving this platform's governance structure a single accountable official rather than a committee without a named head.
+- **Proposed responsibilities specific to this platform:** Ensures the platform's architecture and Roadmap remain aligned with DICT's E-Government Master Plan as it is published and updated; represents the platform in any DICT or MITHI-related reporting; formally owns the decision to pursue an Information Systems Strategic Plan (ISSP) submission, if the City chooses to pursue one.
+- *Caveat: whether an existing official is designated CIO, or a new position is created, is a City Government appointment decision — not an engineering decision. This section identifies the requirement and a proposed relationship to platform governance, not a specific appointee.*
 
 ---
 
@@ -265,8 +277,8 @@ Section 10 identifies who is *involved* in One Mandaluyong Super App. This secti
 
 ### IT Steering Committee
 
-- **Composition:** City Administrator's Department (chair), City Information and Communications Technology Department (ICTD), City Legal Department, City Budget Department, and rotating Department Heads from departments active in the current Roadmap phase.
-- **Responsibilities:** Approves phase-gate transitions defined in the Project Roadmap, approves budget requests tied to the (forthcoming) Budget Framework, resolves cross-department disputes that a single department cannot settle on its own.
+- **Composition:** Chaired by the City's designated Chief Information Officer, with the City Administrator's Department, City Information and Communications Technology Department (ICTD), City Legal Department, City Budget Department, and rotating Department Heads from departments active in the current Roadmap phase.
+- **Responsibilities:** Approves phase-gate transitions defined in the Project Roadmap, approves budget requests tied to the (forthcoming) Budget Framework, resolves cross-department disputes that a single department cannot settle on its own, and confirms the platform's continued alignment with the national E-Government Master Plan.
 - **Cadence:** Meets at minimum at every Roadmap phase gate, and on-demand for urgent escalations.
 
 ### Technical Architecture Review Board
@@ -293,8 +305,9 @@ A module or service change follows this path when it cannot be resolved at the w
 - Architecture and budget decisions traceable to a specific approving body, not an individual's informal authority
 - Faster resolution of cross-department disagreements through a defined escalation path
 - A governance structure that scales as departments are onboarded across Roadmap phases, rather than being renegotiated each time
+- A named Chief Information Officer, satisfying the City's obligation under RA 12143, with a clear working relationship to this platform's governance rather than a title held in name only
 
-This structure should be formally confirmed, and adjusted as necessary, by the City Administrator's Department before Phase 0 governance activities begin.
+This structure should be formally confirmed, and adjusted as necessary, by the City Administrator's Department before Phase 0 governance activities begin. Designation of the CIO position itself is a statutory obligation under RA 12143, independent of this platform, and should not be delayed pending this platform's own governance setup.
 
 ---
 
