@@ -12,6 +12,9 @@ design.** Emails use only `example.com` / `example.org` / `example.net`
 `192.0.2.0/24`, `198.51.100.0/24`, and `203.0.113.0/24` (reserved for
 documentation use under RFC 5737). This guarantees no generated record can
 ever correspond to a real person's inbox or a real, live internet address.
+**Email usernames are also derived from each record's own Filipino name**
+(e.g. `juan.gonzales@example.net`), not from an independent default-locale
+name generator, so citizen records stay internally consistent.
 
 This dataset exists to support development, testing, and demonstration of
 the platform's data structures — it is not a substitute for the actual

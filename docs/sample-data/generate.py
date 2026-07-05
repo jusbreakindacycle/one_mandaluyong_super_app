@@ -56,8 +56,16 @@ def filipino_business_name():
 # providers (gmail.com, yahoo.com, etc.) combined with random usernames.
 SAFE_EMAIL_DOMAINS = ["example.com", "example.org", "example.net"]
 
-def safe_email():
-    username = fake.user_name()
+def safe_email(full_name):
+    # Derive the username from the same Filipino name used for the record,
+    # instead of a fresh fake.user_name() call (which uses Faker's default
+    # locale and produces American-pattern usernames like "fjohnson" or
+    # "lisa02" stapled onto Filipino citizen names).
+    first_last = full_name.replace(".", "").split()
+    first = first_last[0].lower()
+    last = first_last[-1].lower()
+    suffix = random.choice(["", str(random.randint(1, 99))])
+    username = f"{first}.{last}{suffix}"
     return f"{username}@{random.choice(SAFE_EMAIL_DOMAINS)}"
 
 # Reserved documentation IP ranges under RFC 5737 — guaranteed to never
@@ -130,7 +138,7 @@ for i in range(1, 521):
         "civil_status": random.choice(["Single", "Married", "Widowed", "Separated"]),
         "barangay": random.choice(BARANGAYS),
         "mobile_number": fake.numerify("09#########"),
-        "email": safe_email(),
+        "email": safe_email(name),
         "registered_date": random_date(400, 30).isoformat(timespec="seconds"),
         "account_status": random.choices(["Active", "Inactive", "Pending Verification"], weights=[85, 10, 5])[0],
     })
@@ -196,8 +204,8 @@ datasets = {
     "audit_logs": audit_logs,
 }
 
-out_dir = "/home/claude/dummy-data-fixed"
 import os
+out_dir = os.path.dirname(os.path.abspath(__file__))
 os.makedirs(out_dir, exist_ok=True)
 
 for name, rows in datasets.items():

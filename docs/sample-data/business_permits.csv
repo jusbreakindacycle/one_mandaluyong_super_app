@@ -1,541 +1,541 @@
 permit_id,citizen_id,applicant_name,permit_type,business_name,business_type,barangay,date_filed,status,date_released,processing_days,ra_11032_compliant
-PERMIT-2026-99BFF7DE,CIT-000391,Renato D. Bermudez,New Business Permit,,Real Estate Services,Burol,2025-11-03T19:42:01,Pending Review,,6,False
-PERMIT-2026-AF77265A,CIT-000257,Liza S. Torres,Sanitary Permit,,Grocery Store,Highway Hills,2025-11-04T05:58:07,Pending Review,,2,True
-PERMIT-2026-35DC0EF3,CIT-000464,Lourdes A. Gonzales,Building Permit,Masaya General Merchandise,Real Estate Services,Harapin Ang Bukas,2025-10-18T04:20:24,Denied,,10,True
-PERMIT-2026-370238B8,CIT-000049,Jocelyn L. Cruz,Locational Clearance,Aguilar Enterprises,Photocopy/Printing Services,Buayang Bato,2026-02-03T13:45:54,Released,2026-02-08T13:45:54,7,True
-PERMIT-2026-A611ABB8,CIT-000454,Alvin D. Domingo,Occupancy Permit,Uy Food House,Photocopy/Printing Services,Poblacion,2025-12-04T23:25:17,Expired,,7,True
-PERMIT-2026-06B6A4FE,CIT-000182,Ferdinand V. Sy,Barangay Clearance,Robles Corp.,Sari-Sari Store,Old Zaniga,2026-05-31T11:59:56,Pending Review,,14,True
-PERMIT-2026-7381DB60,CIT-000271,Kevin E. Torres,Sanitary Permit,,Pharmacy,Barangka Itaas,2025-10-28T21:27:54,Under Evaluation,,5,True
-PERMIT-2026-72AD4674,CIT-000331,Erlinda O. Pascual,Sanitary Permit,Bayanihan Foods,Grocery Store,Plainview,2026-04-28T04:29:06,Pending Review,,8,False
-PERMIT-2026-12D283BA,CIT-000070,Marites R. Lim,Locational Clearance,Manalo Services,Beauty Salon/Spa,Malamig,2026-03-23T13:24:23,Under Evaluation,,7,True
-PERMIT-2026-F045C09E,CIT-000340,Ana R. Torres,Building Permit,Mabuhay Trading,Tailoring Shop,Pag-asa,2026-01-26T12:02:12,Approved,2026-02-01T12:02:12,15,True
-PERMIT-2026-43BED5D7,CIT-000250,Ramon T. Navarro,Occupancy Permit,Malinis General Merchandise,Photocopy/Printing Services,New Zaniga,2025-09-23T20:50:24,Expired,,10,True
-PERMIT-2026-D623CD1D,CIT-000384,Kristine B. Chua,Fire Safety Inspection Certificate,Pascual Services,Grocery Store,Plainview,2026-03-27T02:51:54,Denied,,3,False
-PERMIT-2026-C237CAD5,CIT-000172,Angel S. Alonzo,New Business Permit,Castillo Food House,Tailoring Shop,Pleasant Hills,2026-04-05T07:26:45,Denied,,14,True
-PERMIT-2026-829FDECE,CIT-000211,Divina U. Manalo,Locational Clearance,Ocampo Enterprises,Pharmacy,Daang Bakal,2026-04-05T05:23:23,Expired,,11,True
-PERMIT-2026-629E8471,CIT-000076,Michelle C. Ocampo,Sanitary Permit,Sy Services,Bakery,Burol,2025-09-29T10:58:20,Under Evaluation,,13,True
-PERMIT-2026-3112A82A,CIT-000415,Cristina A. Reyes,New Business Permit,Torres Store,Photocopy/Printing Services,Addition Hills,2026-02-23T13:14:35,Approved,2026-03-05T13:14:35,3,True
-PERMIT-2026-8576B8CF,CIT-000047,Kristine S. Aquino,Occupancy Permit,Malinis General Merchandise,Restaurant/Eatery,Vergara,2026-06-07T13:51:04,Pending Review,,10,True
-PERMIT-2026-CC9EA27F,CIT-000449,Emmanuel S. Mendoza,New Business Permit,Uy Trading,Photocopy/Printing Services,Vergara,2026-02-03T12:11:21,Released,2026-02-10T12:11:21,18,True
-PERMIT-2026-13066CE8,CIT-000148,Angelo D. Aquino,Occupancy Permit,Santos Enterprises,Sari-Sari Store,Vergara,2026-01-02T03:14:42,Expired,,1,True
-PERMIT-2026-64746A06,CIT-000404,Antonio F. Flores,Business Permit Renewal,Rivera Corp.,Food Cart/Kiosk,Buayang Bato,2026-04-04T23:46:37,Denied,,17,True
-PERMIT-2026-EB5598EA,CIT-000189,Kevin G. Sarmiento,Sanitary Permit,,Retail Trading,Mauway,2025-12-03T03:03:00,Denied,,19,True
-PERMIT-2026-7669A1A5,CIT-000473,Katherine D. Garcia,Business Permit Renewal,,Restaurant/Eatery,Burol,2026-05-16T17:57:33,Denied,,9,True
-PERMIT-2026-1CFA6583,CIT-000499,Mark B. Del Rosario,Barangay Clearance,Salazar Services,Laundry Shop,Barangka Ibaba,2026-01-14T20:54:41,Approved,2026-01-16T20:54:41,7,True
-PERMIT-2026-A6BCFA6D,CIT-000462,Alvin D. Domingo,Sanitary Permit,Tahanan Services,Retail Trading,Daang Bakal,2026-01-13T21:33:52,Denied,,1,True
-PERMIT-2026-27CB4249,CIT-000227,Antonio M. Fernandez,Locational Clearance,,Auto Repair Shop,Mauway,2026-06-11T23:20:03,Expired,,5,True
-PERMIT-2026-BE842980,CIT-000340,Ana R. Torres,Fire Safety Inspection Certificate,Bayanihan Enterprises,Tailoring Shop,Pag-asa,2026-03-13T18:39:08,Released,2026-03-23T18:39:08,3,True
-PERMIT-2026-843F8217,CIT-000144,Ana C. Dela Cruz,Sanitary Permit,Ocampo Enterprises,IT/Software Services,Mabini-J. Rizal,2026-04-05T13:26:28,Under Evaluation,,17,True
-PERMIT-2026-3D7656C6,CIT-000415,Cristina A. Reyes,Building Permit,Bagong Enterprises,Auto Repair Shop,Addition Hills,2026-07-04T02:37:23,Denied,,13,True
-PERMIT-2026-84F3B860,CIT-000298,Ma. Theresa L. Mendoza,Business Permit Renewal,Robles Store,Beauty Salon/Spa,Buayang Bato,2025-10-30T09:01:15,Released,2025-11-13T09:01:15,20,True
-PERMIT-2026-79B6CD3D,CIT-000144,Ana C. Dela Cruz,Barangay Clearance,Sy Store,Photocopy/Printing Services,Mabini-J. Rizal,2026-02-28T16:13:59,Under Evaluation,,16,False
-PERMIT-2026-B1B8A53F,CIT-000042,Josephine R. Marquez,Building Permit,,Auto Repair Shop,Daang Bakal,2025-12-02T08:41:57,Released,2025-12-06T08:41:57,2,True
-PERMIT-2026-B300DBCE,CIT-000370,Lourdes L. Del Rosario,Fire Safety Inspection Certificate,Bayanihan General Merchandise,Tailoring Shop,Burol,2026-02-06T02:26:49,Released,2026-02-20T02:26:49,9,True
-PERMIT-2026-48018D6B,CIT-000270,Karen L. Fernandez,Barangay Clearance,Bayanihan General Merchandise,Internet Cafe,Daang Bakal,2026-04-21T02:23:35,Denied,,13,False
-PERMIT-2026-2CCEC509,CIT-000229,Julius A. Del Rosario,Occupancy Permit,Bagong General Merchandise,Sari-Sari Store,Wack-Wack Greenhills,2026-03-27T22:05:27,Released,2026-04-05T22:05:27,5,True
-PERMIT-2026-C7293223,CIT-000236,Nathaniel F. Bautista,Sanitary Permit,,Retail Trading,Hulo,2025-10-08T07:40:17,Denied,,6,True
-PERMIT-2026-F2E4559E,CIT-000122,Antonio M. Lazaro,Locational Clearance,Bagong Services,Beauty Salon/Spa,Old Zaniga,2026-05-23T03:08:44,Under Evaluation,,19,True
-PERMIT-2026-68FBFCC5,CIT-000421,Paolo A. Ramos,New Business Permit,,Laundry Shop,Addition Hills,2025-09-17T02:22:10,Under Evaluation,,6,True
-PERMIT-2026-45C2B6BD,CIT-000041,Angelica T. Mendoza,New Business Permit,,Food Cart/Kiosk,Daang Bakal,2026-04-18T15:05:37,Under Evaluation,,6,True
-PERMIT-2026-13D8B5E8,CIT-000416,Divina L. Rivera,New Business Permit,Pascual Trading,Pharmacy,Barangka Itaas,2026-04-29T03:34:27,Denied,,20,False
-PERMIT-2026-218AFDF1,CIT-000494,Noel D. Marquez,Locational Clearance,Lim General Merchandise,Tailoring Shop,Hagdang Bato Itaas,2025-11-13T14:57:17,Under Evaluation,,17,True
-PERMIT-2026-E839833A,CIT-000351,Charmaine B. Panganiban,Business Permit Renewal,,Bakery,Malamig,2026-03-03T11:48:19,Denied,,5,True
-PERMIT-2026-317F9BE5,CIT-000208,Julius N. Lim,Locational Clearance,Chua Trading,Pharmacy,Bagong Silang,2026-03-30T09:10:48,Denied,,20,True
-PERMIT-2026-002E73C3,CIT-000516,Mark C. Tolentino,Business Permit Renewal,Del Rosario Food House,Tailoring Shop,Mauway,2026-06-27T13:52:35,Pending Review,,14,True
-PERMIT-2026-0D193E22,CIT-000380,Emmanuel M. Bautista,Locational Clearance,,Real Estate Services,Pag-asa,2025-09-25T06:01:52,Expired,,16,True
-PERMIT-2026-0A5ACCC2,CIT-000391,Renato D. Bermudez,Business Permit Renewal,Masaya Trading,Internet Cafe,Burol,2026-01-22T12:13:12,Denied,,20,True
-PERMIT-2026-8C7B9DBD,CIT-000419,Danilo P. Villanueva,New Business Permit,Santos General Merchandise,Sari-Sari Store,Barangka Itaas,2025-12-17T12:04:25,Under Evaluation,,13,True
-PERMIT-2026-AFABCC50,CIT-000324,Jasmin F. Ocampo,Business Permit Renewal,,Tailoring Shop,Daang Bakal,2026-02-14T03:52:10,Approved,2026-02-24T03:52:10,9,True
-PERMIT-2026-96AC95D0,CIT-000434,Paolo L. Chua,Sanitary Permit,Manalo Corp.,Grocery Store,Hulo,2026-04-15T16:15:55,Approved,2026-04-28T16:15:55,18,True
-PERMIT-2026-15A13F2E,CIT-000380,Emmanuel M. Bautista,Fire Safety Inspection Certificate,,Internet Cafe,Pag-asa,2026-04-13T12:17:21,Denied,,19,True
-PERMIT-2026-B2770E0E,CIT-000408,Danilo M. Lim,Business Permit Renewal,Custodio Enterprises,Beauty Salon/Spa,Addition Hills,2026-06-21T03:08:47,Under Evaluation,,17,True
-PERMIT-2026-C98E0679,CIT-000347,Kevin A. Del Rosario,New Business Permit,,Tailoring Shop,Burol,2026-04-10T04:53:58,Denied,,1,True
-PERMIT-2026-AAA41B5F,CIT-000149,John R. Santos,Locational Clearance,,Internet Cafe,New Zaniga,2026-03-10T13:25:39,Denied,,8,True
-PERMIT-2026-EE9C3A60,CIT-000039,Emmanuel O. Rivera,Locational Clearance,Mabuhay Enterprises,Tailoring Shop,Harapin Ang Bukas,2026-06-16T17:56:14,Released,2026-06-24T17:56:14,15,True
-PERMIT-2026-F606FB86,CIT-000293,Emmanuel D. Custodio,Building Permit,Masaya Trading,Retail Trading,Namayan,2025-11-23T00:19:34,Pending Review,,3,False
-PERMIT-2026-8C90AC10,CIT-000410,Emmanuel A. Sy,Locational Clearance,Villanueva Store,Photocopy/Printing Services,Malamig,2026-01-23T12:32:44,Expired,,3,False
-PERMIT-2026-797B57B3,CIT-000292,Charmaine S. Tan,Occupancy Permit,Gonzales General Merchandise,Beauty Salon/Spa,Highway Hills,2026-06-17T09:15:37,Denied,,15,False
-PERMIT-2026-CADFC7FE,CIT-000005,Angelica T. Garcia,Locational Clearance,Tan General Merchandise,Internet Cafe,Harapin Ang Bukas,2025-12-18T18:51:20,Under Evaluation,,11,False
-PERMIT-2026-711B77ED,CIT-000264,Reynaldo P. Manalo,Sanitary Permit,Masaya Foods,Real Estate Services,Poblacion,2026-04-05T06:46:48,Denied,,15,True
-PERMIT-2026-3EB87ED1,CIT-000029,Ronnel G. Ramos,Sanitary Permit,,Tailoring Shop,Burol,2026-03-14T13:26:41,Pending Review,,8,True
-PERMIT-2026-5ACFE237,CIT-000236,Nathaniel F. Bautista,Occupancy Permit,Masaya Foods,Restaurant/Eatery,Hulo,2026-01-08T23:58:50,Released,2026-01-15T23:58:50,11,True
-PERMIT-2026-74693C03,CIT-000183,Ferdinand N. Mendoza,Occupancy Permit,,Laundry Shop,Mauway,2026-03-12T10:58:33,Approved,2026-03-17T10:58:33,6,False
-PERMIT-2026-198E80CC,CIT-000195,Marites D. Villanueva,Building Permit,,Beauty Salon/Spa,Mabini-J. Rizal,2026-03-21T04:10:05,Expired,,9,True
-PERMIT-2026-29DB225B,CIT-000208,Julius N. Lim,Occupancy Permit,,Restaurant/Eatery,Bagong Silang,2025-12-14T08:29:14,Denied,,4,False
-PERMIT-2026-AF89DD21,CIT-000505,Ana D. Robles,New Business Permit,Bagong General Merchandise,IT/Software Services,Highway Hills,2026-05-04T18:26:21,Pending Review,,9,True
-PERMIT-2026-A3D0F8D1,CIT-000287,John P. Robles,Barangay Clearance,,Real Estate Services,Wack-Wack Greenhills,2026-02-09T21:39:46,Under Evaluation,,14,True
-PERMIT-2026-2FA8232D,CIT-000034,Jose G. Robles,Locational Clearance,Bayanihan General Merchandise,Pharmacy,Barangka Drive,2026-03-22T12:33:56,Approved,2026-03-28T12:33:56,1,True
-PERMIT-2026-B1A6127C,CIT-000216,Cristina R. Custodio,Business Permit Renewal,Marquez General Merchandise,Internet Cafe,Bagong Silang,2026-02-02T17:40:57,Denied,,8,True
-PERMIT-2026-9CB00C57,CIT-000352,Christian G. Cruz,Fire Safety Inspection Certificate,Tahanan Services,Internet Cafe,Namayan,2026-01-28T11:49:03,Under Evaluation,,15,True
-PERMIT-2026-48356ED3,CIT-000135,Antonio A. Pascual,Building Permit,Gonzales General Merchandise,Bakery,Barangka Itaas,2026-04-20T00:51:59,Expired,,13,True
-PERMIT-2026-0EA907C1,CIT-000154,Regina S. Chua,Barangay Clearance,Bagong Foods,Internet Cafe,Mabini-J. Rizal,2026-03-11T01:42:56,Pending Review,,18,True
-PERMIT-2026-07E6ED3A,CIT-000049,Jocelyn L. Cruz,Barangay Clearance,,IT/Software Services,Buayang Bato,2026-02-10T02:31:55,Pending Review,,9,True
-PERMIT-2026-DC0A8B67,CIT-000099,Carlo R. Salazar,Occupancy Permit,,Auto Repair Shop,Barangka Itaas,2026-03-02T02:06:28,Expired,,18,True
-PERMIT-2026-A0ECC674,CIT-000264,Reynaldo P. Manalo,Locational Clearance,,IT/Software Services,Poblacion,2026-01-20T00:46:37,Pending Review,,20,True
-PERMIT-2026-ECC173E6,CIT-000179,Jocelyn A. Aguilar,Occupancy Permit,Bayanihan Services,Laundry Shop,Barangka Drive,2025-12-27T21:54:10,Approved,2026-01-01T21:54:10,15,True
-PERMIT-2026-C09E8F0C,CIT-000149,John R. Santos,Occupancy Permit,Bayanihan Trading,Retail Trading,New Zaniga,2025-11-12T11:04:27,Expired,,11,True
-PERMIT-2026-02237924,CIT-000325,Ramon S. Marquez,Sanitary Permit,Bagong Foods,Photocopy/Printing Services,Old Zaniga,2026-05-19T23:40:49,Approved,2026-05-29T23:40:49,17,False
-PERMIT-2026-45248F51,CIT-000424,Erlinda A. Panganiban,New Business Permit,,Beauty Salon/Spa,Pleasant Hills,2025-11-12T08:40:30,Under Evaluation,,9,False
-PERMIT-2026-CEE75962,CIT-000082,Jennylyn A. Espiritu,Locational Clearance,,Restaurant/Eatery,Barangka Itaas,2025-11-29T03:49:32,Under Evaluation,,16,True
-PERMIT-2026-36FE2D03,CIT-000027,Mark R. Alonzo,Business Permit Renewal,,Laundry Shop,Hulo,2026-02-09T13:34:55,Denied,,5,True
-PERMIT-2026-6DB8DED8,CIT-000400,Grace S. Lim,Building Permit,Custodio Trading,Grocery Store,Hulo,2026-01-06T12:42:02,Under Evaluation,,6,True
-PERMIT-2026-C3F82137,CIT-000366,Josephine F. Del Rosario,Fire Safety Inspection Certificate,Bagong Enterprises,Photocopy/Printing Services,Daang Bakal,2026-01-12T16:15:11,Released,2026-01-21T16:15:11,6,True
-PERMIT-2026-6CCEFF5A,CIT-000468,Josephine S. Aquino,Locational Clearance,Tahanan Services,Grocery Store,Bagong Silang,2026-05-11T10:56:47,Expired,,8,True
-PERMIT-2026-9A9EDA48,CIT-000453,Maria F. Navarro,Locational Clearance,,Internet Cafe,Daang Bakal,2026-01-05T22:41:48,Approved,2026-01-06T22:41:48,1,True
-PERMIT-2026-FADA6345,CIT-000140,Eduardo T. Reyes,Fire Safety Inspection Certificate,Malinis Trading,Real Estate Services,Old Zaniga,2026-01-19T22:23:49,Approved,2026-01-26T22:23:49,10,True
-PERMIT-2026-E4D6D8B4,CIT-000008,Alvin M. Domingo,Building Permit,Pag-Asa Enterprises,Retail Trading,Daang Bakal,2026-04-09T06:51:54,Approved,2026-04-21T06:51:54,13,True
-PERMIT-2026-70B6A266,CIT-000226,Maria T. Dela Cruz,Locational Clearance,Malinis General Merchandise,Real Estate Services,Mabini-J. Rizal,2025-12-19T12:18:39,Pending Review,,9,True
-PERMIT-2026-5EA417A0,CIT-000071,Jocelyn U. Bermudez,Sanitary Permit,,Pharmacy,Malamig,2025-11-18T05:18:55,Under Evaluation,,20,True
-PERMIT-2026-DE281AA0,CIT-000504,Jocelyn F. Panganiban,New Business Permit,,Grocery Store,San Jose,2025-11-20T07:28:54,Approved,2025-11-21T07:28:54,6,False
-PERMIT-2026-5ED3A826,CIT-000289,Bryan T. Alonzo,Fire Safety Inspection Certificate,Domingo Trading,Sari-Sari Store,Bagong Silang,2025-12-21T22:14:15,Under Evaluation,,16,True
-PERMIT-2026-DD234562,CIT-000431,Cherry R. Tolentino,Occupancy Permit,Bayanihan Enterprises,Sari-Sari Store,Barangka Ibaba,2026-01-07T09:15:44,Released,2026-01-12T09:15:44,13,True
-PERMIT-2026-EA645B25,CIT-000482,Nathaniel F. Rivera,Sanitary Permit,Santos Food House,Photocopy/Printing Services,Barangka Ibaba,2025-11-17T21:49:36,Under Evaluation,,8,True
-PERMIT-2026-1BC6B335,CIT-000454,Alvin D. Domingo,New Business Permit,,Photocopy/Printing Services,Poblacion,2025-12-13T08:52:32,Expired,,4,True
-PERMIT-2026-53DBC930,CIT-000214,Erlinda A. Garcia,Sanitary Permit,Flores Store,Food Cart/Kiosk,Hulo,2026-03-11T00:12:38,Released,2026-03-20T00:12:38,17,True
-PERMIT-2026-BA894700,CIT-000493,Emmanuel S. Torres,Building Permit,Bautista Enterprises,Beauty Salon/Spa,Barangka Ilaya,2026-05-14T08:35:42,Approved,2026-05-25T08:35:42,14,True
-PERMIT-2026-77DCFBDE,CIT-000172,Angel S. Alonzo,Business Permit Renewal,Salazar Enterprises,Laundry Shop,Pleasant Hills,2025-12-24T14:35:46,Denied,,16,True
-PERMIT-2026-AFAEC00E,CIT-000159,Ronnel A. Rivera,Building Permit,,Restaurant/Eatery,Hagdang Bato Itaas,2026-01-30T14:50:37,Pending Review,,20,True
-PERMIT-2026-3BE125BE,CIT-000062,Cherry S. Manalo,Barangay Clearance,Mendoza Corp.,Beauty Salon/Spa,Pag-asa,2025-10-01T14:18:06,Approved,2025-10-07T14:18:06,18,True
-PERMIT-2026-78E4D074,CIT-000356,Julius C. Salazar,Building Permit,,Bakery,Pleasant Hills,2026-02-25T18:18:49,Expired,,12,True
-PERMIT-2026-12D3CCAB,CIT-000257,Liza S. Torres,Fire Safety Inspection Certificate,Masaya General Merchandise,Retail Trading,Highway Hills,2025-09-23T17:13:01,Released,2025-10-02T17:13:01,12,True
-PERMIT-2026-BB9E0490,CIT-000480,Regina C. Santos,Barangay Clearance,,Retail Trading,Poblacion,2025-12-24T07:22:01,Denied,,15,True
-PERMIT-2026-49629EE6,CIT-000270,Karen L. Fernandez,Fire Safety Inspection Certificate,,Tailoring Shop,Daang Bakal,2026-04-06T17:17:26,Approved,2026-04-15T17:17:26,13,True
-PERMIT-2026-B8A2788A,CIT-000020,Marites S. Fernandez,Building Permit,Masaya General Merchandise,Tailoring Shop,Burol,2026-05-07T01:30:08,Approved,2026-05-15T01:30:08,18,True
-PERMIT-2026-BAD2E1BA,CIT-000290,Erlinda A. Sarmiento,Occupancy Permit,,Grocery Store,Hulo,2026-01-11T16:00:27,Released,2026-01-22T16:00:27,3,True
-PERMIT-2026-23D7F4B8,CIT-000133,Fe C. Domingo,Building Permit,,Beauty Salon/Spa,Burol,2025-11-16T18:11:29,Pending Review,,4,True
-PERMIT-2026-A6D481A3,CIT-000398,Cherry A. Bautista,Sanitary Permit,,Beauty Salon/Spa,Barangka Drive,2026-05-21T21:25:40,Released,2026-05-31T21:25:40,3,True
-PERMIT-2026-99C523E6,CIT-000214,Erlinda A. Garcia,Business Permit Renewal,Pag-Asa Foods,Real Estate Services,Hulo,2026-05-21T01:11:03,Released,2026-06-02T01:11:03,2,True
-PERMIT-2026-F0BCEDD5,CIT-000273,Jasmin C. Espiritu,Business Permit Renewal,Ocampo General Merchandise,Restaurant/Eatery,Hulo,2026-04-01T19:59:19,Pending Review,,4,True
-PERMIT-2026-24AB0E58,CIT-000395,Corazon E. Salazar,Building Permit,Bayanihan General Merchandise,Auto Repair Shop,New Zaniga,2025-11-20T23:03:22,Under Evaluation,,15,True
-PERMIT-2026-E3E1B3FC,CIT-000438,Josephine R. Mendoza,Barangay Clearance,Ligaya General Merchandise,Laundry Shop,Barangka Itaas,2025-10-18T19:27:42,Under Evaluation,,15,False
-PERMIT-2026-D4898A37,CIT-000323,Danilo F. Sarmiento,Occupancy Permit,Masaya General Merchandise,Grocery Store,Barangka Itaas,2026-04-10T00:17:12,Approved,2026-04-14T00:17:12,13,True
-PERMIT-2026-A9D47175,CIT-000261,Lourdes M. Lazaro,Fire Safety Inspection Certificate,Santos Services,Laundry Shop,Addition Hills,2026-01-26T04:40:48,Released,2026-01-27T04:40:48,17,True
-PERMIT-2026-4D8CBAE0,CIT-000310,Nathaniel G. Flores,Building Permit,,Auto Repair Shop,Hulo,2025-09-10T22:22:59,Approved,2025-09-11T22:22:59,9,False
-PERMIT-2026-41F0585D,CIT-000159,Ronnel A. Rivera,Fire Safety Inspection Certificate,Tahanan General Merchandise,Beauty Salon/Spa,Hagdang Bato Itaas,2025-10-14T23:58:37,Pending Review,,8,True
-PERMIT-2026-4388A703,CIT-000308,Ramon E. Manalo,Locational Clearance,Castillo Store,Auto Repair Shop,Pleasant Hills,2025-10-14T01:46:30,Denied,,16,True
-PERMIT-2026-833458E9,CIT-000098,Liza B. Sy,Sanitary Permit,,Real Estate Services,San Jose,2026-04-27T13:06:50,Expired,,19,True
-PERMIT-2026-7B46616B,CIT-000058,Erlinda C. Lim,Locational Clearance,Torres Store,Tailoring Shop,Mabini-J. Rizal,2026-01-16T05:53:40,Approved,2026-01-30T05:53:40,20,False
-PERMIT-2026-6D1E0526,CIT-000392,Perla S. Ocampo,New Business Permit,Sy Services,Grocery Store,Barangka Ibaba,2025-09-29T09:39:58,Approved,2025-10-11T09:39:58,8,True
-PERMIT-2026-59B2D94D,CIT-000403,Angelica R. Uy,Business Permit Renewal,,Internet Cafe,Mabini-J. Rizal,2026-02-28T10:36:05,Denied,,13,True
-PERMIT-2026-C574F161,CIT-000345,Marianne S. Panganiban,New Business Permit,Marquez Corp.,Grocery Store,Old Zaniga,2025-10-10T10:32:00,Released,2025-10-17T10:32:00,5,True
-PERMIT-2026-6F911291,CIT-000493,Emmanuel S. Torres,Fire Safety Inspection Certificate,Sy General Merchandise,Laundry Shop,Barangka Ilaya,2026-04-13T14:10:31,Under Evaluation,,17,True
-PERMIT-2026-EB7EA367,CIT-000074,Cristina M. Bautista,Occupancy Permit,Sy Enterprises,Tailoring Shop,Hagdang Bato Libis,2025-12-20T18:51:11,Released,2025-12-27T18:51:11,14,True
-PERMIT-2026-386A6748,CIT-000196,Cristina C. Villanueva,New Business Permit,Bagong General Merchandise,Retail Trading,Daang Bakal,2026-01-10T22:39:19,Approved,2026-01-18T22:39:19,2,False
-PERMIT-2026-BE3547C5,CIT-000240,Josephine P. Flores,Occupancy Permit,,Photocopy/Printing Services,Malamig,2025-11-24T22:21:29,Expired,,3,True
-PERMIT-2026-C5DA6D8B,CIT-000056,Lourdes T. Pascual,Barangay Clearance,Pascual Services,Photocopy/Printing Services,Buayang Bato,2025-12-11T18:31:53,Denied,,4,True
-PERMIT-2026-E495DB61,CIT-000483,Antonio F. Cruz,Building Permit,Castillo General Merchandise,Grocery Store,Mabini-J. Rizal,2025-09-17T05:11:06,Approved,2025-09-30T05:11:06,9,True
-PERMIT-2026-B95F40BF,CIT-000145,Precious B. Rivera,New Business Permit,Sarmiento Services,Retail Trading,Daang Bakal,2026-06-05T07:41:23,Expired,,2,True
-PERMIT-2026-8ED21074,CIT-000278,Renato F. Espiritu,New Business Permit,,Tailoring Shop,Highway Hills,2025-09-28T23:56:51,Released,2025-10-03T23:56:51,12,True
-PERMIT-2026-515C6F9C,CIT-000020,Marites S. Fernandez,Locational Clearance,,Bakery,Burol,2025-12-30T23:24:48,Expired,,17,False
-PERMIT-2026-F1576E2A,CIT-000102,Emmanuel A. Gonzales,Business Permit Renewal,,Grocery Store,Bagong Silang,2026-01-08T21:25:11,Released,2026-01-16T21:25:11,18,False
-PERMIT-2026-1EDA4439,CIT-000023,Nathaniel M. Fernandez,Sanitary Permit,Manalo Enterprises,Auto Repair Shop,Mabini-J. Rizal,2025-09-23T19:40:35,Under Evaluation,,12,True
-PERMIT-2026-06EFB35A,CIT-000310,Nathaniel G. Flores,Sanitary Permit,Mabuhay General Merchandise,Internet Cafe,Hulo,2025-12-09T02:44:42,Denied,,8,True
-PERMIT-2026-C42A23D1,CIT-000403,Angelica R. Uy,Business Permit Renewal,Sarmiento Corp.,Beauty Salon/Spa,Mabini-J. Rizal,2026-05-21T12:12:18,Under Evaluation,,19,True
-PERMIT-2026-CA9CC5DE,CIT-000320,John R. Garcia,Fire Safety Inspection Certificate,Castillo General Merchandise,Grocery Store,Mabini-J. Rizal,2026-05-01T11:36:15,Approved,2026-05-12T11:36:15,7,True
-PERMIT-2026-D3922B7C,CIT-000317,Charmaine L. Ramos,Barangay Clearance,Aquino Services,Restaurant/Eatery,Barangka Drive,2026-06-02T18:44:29,Expired,,18,True
-PERMIT-2026-D1E45C61,CIT-000122,Antonio M. Lazaro,Barangay Clearance,Pag-Asa Foods,Pharmacy,Old Zaniga,2025-11-18T21:25:18,Approved,2025-11-30T21:25:18,9,True
-PERMIT-2026-BDA55922,CIT-000193,Vincent C. Custodio,Barangay Clearance,,Laundry Shop,Harapin Ang Bukas,2025-10-19T20:20:20,Under Evaluation,,20,True
-PERMIT-2026-136EDF85,CIT-000237,Paolo R. Aguilar,Building Permit,Rivera Store,Real Estate Services,Barangka Ilaya,2026-04-27T23:38:30,Under Evaluation,,16,True
-PERMIT-2026-7E35AC1D,CIT-000481,Fe V. Sarmiento,Occupancy Permit,,Bakery,Plainview,2026-06-11T21:39:23,Expired,,16,True
-PERMIT-2026-92D6B7E3,CIT-000168,Ana M. Domingo,New Business Permit,Pag-Asa Enterprises,Photocopy/Printing Services,Addition Hills,2025-11-22T10:28:09,Under Evaluation,,7,True
-PERMIT-2026-991DF217,CIT-000068,John D. Aquino,Fire Safety Inspection Certificate,Espiritu Corp.,Bakery,Pleasant Hills,2025-11-16T03:38:44,Released,2025-11-29T03:38:44,2,True
-PERMIT-2026-BA830FBA,CIT-000390,Rafael L. Cruz,Locational Clearance,Sy General Merchandise,Restaurant/Eatery,Highway Hills,2026-06-15T01:54:58,Approved,2026-06-23T01:54:58,15,True
-PERMIT-2026-9FB12D9E,CIT-000044,Precious T. Santos,Locational Clearance,Mabuhay Enterprises,Internet Cafe,Pleasant Hills,2025-12-12T19:26:56,Denied,,15,True
-PERMIT-2026-4AE7E6F7,CIT-000312,Ana G. Ocampo,Barangay Clearance,Bautista Corp.,IT/Software Services,Barangka Itaas,2025-12-28T10:04:27,Released,2026-01-08T10:04:27,15,True
-PERMIT-2026-B9CDC946,CIT-000513,Josephine V. Espiritu,Barangay Clearance,Mabuhay Enterprises,Pharmacy,Barangka Ibaba,2025-10-22T07:59:34,Under Evaluation,,19,False
-PERMIT-2026-D4F5F55F,CIT-000207,Rowena R. Reyes,Sanitary Permit,Flores Enterprises,Restaurant/Eatery,Harapin Ang Bukas,2026-03-03T23:06:42,Pending Review,,15,True
-PERMIT-2026-0DF4484C,CIT-000088,Erlinda G. Reyes,Locational Clearance,Robles Corp.,Grocery Store,Burol,2026-03-30T19:29:18,Expired,,13,True
-PERMIT-2026-359008E8,CIT-000175,Corazon D. Navarro,Barangay Clearance,,Retail Trading,San Jose,2026-01-16T13:23:01,Denied,,6,True
-PERMIT-2026-31C12753,CIT-000053,Charmaine R. Chua,Sanitary Permit,Ligaya Trading,Food Cart/Kiosk,Highway Hills,2026-02-18T07:56:31,Approved,2026-02-21T07:56:31,7,True
-PERMIT-2026-D3B08D94,CIT-000260,Rafael S. Bautista,Fire Safety Inspection Certificate,Uy General Merchandise,Food Cart/Kiosk,Pag-asa,2025-09-13T02:56:30,Released,2025-09-21T02:56:30,8,True
-PERMIT-2026-DCC5F4F0,CIT-000488,Angelica M. Tan,Fire Safety Inspection Certificate,,Laundry Shop,Pleasant Hills,2026-03-03T14:18:23,Released,2026-03-04T14:18:23,8,False
-PERMIT-2026-69AADAC2,CIT-000285,Jose R. Bermudez,Building Permit,,Retail Trading,Buayang Bato,2026-05-07T01:47:43,Expired,,2,True
-PERMIT-2026-E6D5A9D0,CIT-000038,Juan S. Espiritu,Sanitary Permit,Garcia Enterprises,Bakery,Barangka Drive,2025-11-03T20:08:41,Pending Review,,6,True
-PERMIT-2026-BDC34ACA,CIT-000292,Charmaine S. Tan,Barangay Clearance,Mabuhay Trading,Real Estate Services,Highway Hills,2026-05-03T16:55:35,Expired,,10,True
-PERMIT-2026-FC64B4E4,CIT-000389,Fe S. Mendoza,Business Permit Renewal,,Retail Trading,Burol,2025-10-04T15:51:22,Released,2025-10-06T15:51:22,9,True
-PERMIT-2026-3CC0DDB6,CIT-000424,Erlinda A. Panganiban,Building Permit,Mendoza Corp.,Photocopy/Printing Services,Pleasant Hills,2026-03-31T03:12:51,Under Evaluation,,20,False
-PERMIT-2026-5C31365A,CIT-000295,Eduardo N. Castillo,Occupancy Permit,,Laundry Shop,Addition Hills,2026-02-21T05:35:07,Denied,,20,True
-PERMIT-2026-EB49B787,CIT-000133,Fe C. Domingo,Fire Safety Inspection Certificate,Ligaya General Merchandise,Beauty Salon/Spa,Burol,2026-05-04T22:45:17,Denied,,10,False
-PERMIT-2026-2F8BAEE5,CIT-000002,Danilo C. Alonzo,Fire Safety Inspection Certificate,Torres Food House,Laundry Shop,Barangka Drive,2025-10-24T06:55:39,Pending Review,,14,True
-PERMIT-2026-74470B49,CIT-000342,Marlon R. Manalo,Building Permit,,Beauty Salon/Spa,Pag-asa,2026-01-22T04:07:54,Denied,,10,True
-PERMIT-2026-84D39796,CIT-000070,Marites R. Lim,Occupancy Permit,Tahanan Services,Photocopy/Printing Services,Malamig,2026-01-05T21:48:19,Approved,2026-01-15T21:48:19,20,False
-PERMIT-2026-53093E74,CIT-000180,Angel R. Bautista,Occupancy Permit,Mabuhay Enterprises,Pharmacy,Hagdang Bato Itaas,2025-11-22T17:30:48,Approved,2025-11-25T17:30:48,15,False
-PERMIT-2026-9BF2D33D,CIT-000344,Danilo U. Mendoza,New Business Permit,Mabuhay Enterprises,Laundry Shop,Harapin Ang Bukas,2026-03-06T23:41:26,Released,2026-03-17T23:41:26,11,True
-PERMIT-2026-1A92A883,CIT-000363,Katherine O. Rivera,Sanitary Permit,Ligaya General Merchandise,Laundry Shop,Buayang Bato,2025-10-04T02:18:26,Under Evaluation,,13,True
-PERMIT-2026-FB14AA63,CIT-000120,Regina P. Aquino,Occupancy Permit,Bayanihan Services,Food Cart/Kiosk,Barangka Ilaya,2026-06-27T06:01:10,Approved,2026-07-01T06:01:10,12,True
-PERMIT-2026-808079FA,CIT-000310,Nathaniel G. Flores,Sanitary Permit,,Auto Repair Shop,Hulo,2025-12-01T07:43:36,Denied,,2,True
-PERMIT-2026-A5C860A5,CIT-000095,Angelo T. Lazaro,New Business Permit,Robles Trading,Auto Repair Shop,Highway Hills,2026-02-27T17:25:53,Denied,,16,True
-PERMIT-2026-5E46740A,CIT-000318,Antonio A. Gonzales,Business Permit Renewal,Sarmiento Trading,Photocopy/Printing Services,Pleasant Hills,2026-01-13T12:10:05,Under Evaluation,,2,True
-PERMIT-2026-B3A54B1A,CIT-000119,Michelle C. Bermudez,New Business Permit,Chua Services,Pharmacy,Poblacion,2025-09-09T23:27:50,Approved,2025-09-24T23:27:50,2,True
-PERMIT-2026-A317E7F6,CIT-000320,John R. Garcia,Sanitary Permit,Masaya Enterprises,Internet Cafe,Mabini-J. Rizal,2025-09-17T02:41:18,Denied,,9,True
-PERMIT-2026-05143C78,CIT-000452,Ricardo S. Navarro,Sanitary Permit,,Internet Cafe,Poblacion,2026-05-27T00:29:12,Pending Review,,4,True
-PERMIT-2026-FAE4B220,CIT-000105,Antonio S. Domingo,Occupancy Permit,Gonzales Store,Real Estate Services,San Jose,2025-11-27T14:35:52,Denied,,10,True
-PERMIT-2026-53D2C175,CIT-000176,Manuel V. Robles,Occupancy Permit,Bautista Enterprises,Pharmacy,Harapin Ang Bukas,2025-10-06T01:11:20,Approved,2025-10-21T01:11:20,2,True
-PERMIT-2026-5A590FDD,CIT-000056,Lourdes T. Pascual,Locational Clearance,,Laundry Shop,Buayang Bato,2025-10-11T19:50:59,Released,2025-10-26T19:50:59,19,True
-PERMIT-2026-9C9762E2,CIT-000457,Christian M. Robles,Sanitary Permit,Villanueva Food House,Real Estate Services,San Jose,2026-05-05T17:37:57,Approved,2026-05-13T17:37:57,19,True
-PERMIT-2026-26159AEA,CIT-000480,Regina C. Santos,Sanitary Permit,Masaya Enterprises,Retail Trading,Poblacion,2025-10-16T03:42:50,Released,2025-10-30T03:42:50,20,True
-PERMIT-2026-CAA8613A,CIT-000373,Bryan B. Aquino,Occupancy Permit,Bagong Trading,Restaurant/Eatery,Buayang Bato,2026-02-07T15:34:44,Under Evaluation,,16,True
-PERMIT-2026-EB2EBCC2,CIT-000491,Julius S. Marquez,Sanitary Permit,Chua General Merchandise,Restaurant/Eatery,Harapin Ang Bukas,2026-03-06T12:14:28,Under Evaluation,,13,True
-PERMIT-2026-22DD8813,CIT-000110,Kevin E. Uy,Business Permit Renewal,Pag-Asa General Merchandise,Bakery,Bagong Silang,2026-01-12T22:28:59,Denied,,8,True
-PERMIT-2026-5F31FE86,CIT-000163,Grace R. Aquino,Business Permit Renewal,Pag-Asa General Merchandise,Real Estate Services,Poblacion,2026-03-14T17:12:53,Released,2026-03-20T17:12:53,18,True
-PERMIT-2026-C844434D,CIT-000178,Carlo E. Panganiban,Business Permit Renewal,Bayanihan General Merchandise,Laundry Shop,Plainview,2026-05-23T17:09:03,Expired,,15,True
-PERMIT-2026-07A85C20,CIT-000100,Liza D. Cruz,Sanitary Permit,Ocampo Store,IT/Software Services,Pleasant Hills,2026-02-28T06:52:23,Under Evaluation,,20,True
-PERMIT-2026-3EF6615D,CIT-000389,Fe S. Mendoza,New Business Permit,,IT/Software Services,Burol,2026-01-13T12:49:23,Released,2026-01-16T12:49:23,19,False
-PERMIT-2026-E3229316,CIT-000001,Juan S. Gonzales,Barangay Clearance,Bagong Enterprises,Beauty Salon/Spa,Barangka Ilaya,2026-06-29T09:37:58,Under Evaluation,,11,True
-PERMIT-2026-46CC8B2A,CIT-000312,Ana G. Ocampo,Occupancy Permit,Lim General Merchandise,Grocery Store,Barangka Itaas,2026-02-24T05:06:24,Expired,,13,True
-PERMIT-2026-CF542ABF,CIT-000302,Vincent P. Uy,New Business Permit,,Grocery Store,Namayan,2025-10-02T14:51:56,Approved,2025-10-16T14:51:56,12,True
-PERMIT-2026-2158DD8B,CIT-000289,Bryan T. Alonzo,Locational Clearance,Pag-Asa Services,Bakery,Bagong Silang,2025-09-20T11:49:12,Under Evaluation,,14,True
-PERMIT-2026-DC8E598C,CIT-000178,Carlo E. Panganiban,Building Permit,Ligaya Foods,IT/Software Services,Plainview,2026-03-11T19:16:46,Under Evaluation,,5,True
-PERMIT-2026-C7B9AFF0,CIT-000074,Cristina M. Bautista,Barangay Clearance,Ligaya Trading,Retail Trading,Hagdang Bato Libis,2026-05-18T04:34:58,Pending Review,,14,True
-PERMIT-2026-41EF8E33,CIT-000436,Marianne F. Pascual,Fire Safety Inspection Certificate,Pag-Asa Foods,Beauty Salon/Spa,Barangka Ibaba,2026-05-08T10:15:14,Under Evaluation,,6,True
-PERMIT-2026-FC6D51E4,CIT-000008,Alvin M. Domingo,Building Permit,Tahanan Trading,Sari-Sari Store,Daang Bakal,2026-04-20T19:56:04,Released,2026-04-30T19:56:04,16,True
-PERMIT-2026-CAE6FFAA,CIT-000116,Alvin G. Ocampo,Business Permit Renewal,,Photocopy/Printing Services,Hagdang Bato Libis,2026-04-21T17:39:15,Released,2026-04-30T17:39:15,9,True
-PERMIT-2026-5B6591CB,CIT-000081,Marianne O. Dela Cruz,Business Permit Renewal,,Tailoring Shop,Addition Hills,2026-03-30T15:11:45,Denied,,3,True
-PERMIT-2026-3A28AFED,CIT-000320,John R. Garcia,Occupancy Permit,Bagong General Merchandise,Food Cart/Kiosk,Mabini-J. Rizal,2026-05-04T11:05:45,Pending Review,,16,True
-PERMIT-2026-FC6F233D,CIT-000340,Ana R. Torres,Sanitary Permit,,Sari-Sari Store,Pag-asa,2026-02-18T21:18:42,Approved,2026-03-02T21:18:42,20,True
-PERMIT-2026-AEFAB2FB,CIT-000267,Vincent M. Espiritu,Fire Safety Inspection Certificate,Sy Store,Internet Cafe,Addition Hills,2025-10-02T05:36:44,Expired,,20,True
-PERMIT-2026-333C09B7,CIT-000497,Kristine G. Gonzales,Business Permit Renewal,Ligaya General Merchandise,Internet Cafe,Wack-Wack Greenhills,2025-10-10T10:12:27,Under Evaluation,,9,True
-PERMIT-2026-42274AC1,CIT-000015,Alvin A. Torres,Barangay Clearance,Tahanan Enterprises,Internet Cafe,Vergara,2026-06-23T07:46:40,Pending Review,,8,True
-PERMIT-2026-6E034384,CIT-000034,Jose G. Robles,Barangay Clearance,Pag-Asa Services,Beauty Salon/Spa,Barangka Drive,2026-01-19T12:43:55,Pending Review,,15,True
-PERMIT-2026-BB3AEE44,CIT-000172,Angel S. Alonzo,Occupancy Permit,,Internet Cafe,Pleasant Hills,2025-11-29T06:29:04,Denied,,4,True
-PERMIT-2026-B3E9F097,CIT-000476,Alvin D. Aquino,Sanitary Permit,Uy Corp.,Tailoring Shop,Hagdang Bato Libis,2026-02-10T05:43:41,Released,2026-02-22T05:43:41,13,True
-PERMIT-2026-EC5A8350,CIT-000149,John R. Santos,New Business Permit,,Real Estate Services,New Zaniga,2026-04-02T09:14:10,Released,2026-04-10T09:14:10,13,True
-PERMIT-2026-5A4E98C3,CIT-000043,Ana N. Santos,Occupancy Permit,Tahanan Foods,Internet Cafe,Pag-asa,2025-10-16T04:39:30,Denied,,4,True
-PERMIT-2026-0261556A,CIT-000401,Jocelyn M. Aguilar,Building Permit,Lim General Merchandise,Auto Repair Shop,Hagdang Bato Libis,2026-03-06T11:00:02,Expired,,6,True
-PERMIT-2026-7C8C2D89,CIT-000011,Kevin B. Aguilar,Business Permit Renewal,,Restaurant/Eatery,Wack-Wack Greenhills,2026-05-27T16:07:30,Pending Review,,17,True
-PERMIT-2026-6F8C4950,CIT-000457,Christian M. Robles,Sanitary Permit,,Sari-Sari Store,San Jose,2026-01-22T21:31:39,Under Evaluation,,1,True
-PERMIT-2026-1AF9BE4D,CIT-000059,Erlinda G. Flores,Building Permit,Torres Enterprises,IT/Software Services,Mauway,2026-04-27T02:55:48,Expired,,20,True
-PERMIT-2026-1B073C38,CIT-000190,Miguel P. Navarro,Barangay Clearance,,Pharmacy,Burol,2025-10-21T10:18:29,Expired,,3,True
-PERMIT-2026-E54D4E70,CIT-000284,Perla S. Domingo,Occupancy Permit,,Real Estate Services,Harapin Ang Bukas,2026-07-04T04:06:14,Released,2026-07-06T04:06:14,9,True
-PERMIT-2026-A04F6E79,CIT-000392,Perla S. Ocampo,New Business Permit,,IT/Software Services,Barangka Ibaba,2026-02-06T07:04:57,Approved,2026-02-11T07:04:57,6,True
-PERMIT-2026-B02C3D4F,CIT-000504,Jocelyn F. Panganiban,Locational Clearance,,Pharmacy,San Jose,2025-11-25T07:31:44,Denied,,4,True
-PERMIT-2026-0B4D0126,CIT-000442,Antonio U. Rivera,Business Permit Renewal,Marquez Enterprises,Restaurant/Eatery,San Jose,2025-12-02T04:40:00,Denied,,3,True
-PERMIT-2026-96A0BB91,CIT-000257,Liza S. Torres,Fire Safety Inspection Certificate,,Tailoring Shop,Highway Hills,2026-02-28T13:04:45,Pending Review,,1,False
-PERMIT-2026-C32FA841,CIT-000400,Grace S. Lim,Occupancy Permit,Sy General Merchandise,Photocopy/Printing Services,Hulo,2025-12-20T20:31:30,Under Evaluation,,16,True
-PERMIT-2026-F04F457C,CIT-000414,Erlinda L. Rivera,Building Permit,,Photocopy/Printing Services,Harapin Ang Bukas,2026-06-18T00:26:28,Pending Review,,16,True
-PERMIT-2026-7CCC661F,CIT-000368,Ronnel M. Garcia,Sanitary Permit,Tahanan Trading,IT/Software Services,Buayang Bato,2026-01-15T21:02:26,Expired,,15,True
-PERMIT-2026-A5186709,CIT-000297,Regina U. Espiritu,Barangay Clearance,Tolentino Services,Photocopy/Printing Services,Hagdang Bato Itaas,2026-05-17T23:01:17,Under Evaluation,,13,False
-PERMIT-2026-419CFE9D,CIT-000368,Ronnel M. Garcia,Fire Safety Inspection Certificate,Del Rosario Trading,Sari-Sari Store,Buayang Bato,2026-03-16T07:41:56,Pending Review,,19,True
-PERMIT-2026-48CAF9B0,CIT-000399,Lourdes E. Dela Cruz,Sanitary Permit,Custodio Enterprises,Auto Repair Shop,New Zaniga,2025-10-02T20:17:27,Denied,,2,True
-PERMIT-2026-CAA74EBC,CIT-000044,Precious T. Santos,Building Permit,Ligaya General Merchandise,Beauty Salon/Spa,Pleasant Hills,2026-02-12T20:45:51,Pending Review,,3,True
-PERMIT-2026-07EBB3C8,CIT-000145,Precious B. Rivera,New Business Permit,Cruz Store,Tailoring Shop,Daang Bakal,2026-03-17T05:59:10,Expired,,5,True
-PERMIT-2026-CC4FBB83,CIT-000052,Danilo C. Marquez,Fire Safety Inspection Certificate,Lim Food House,IT/Software Services,Old Zaniga,2026-01-05T17:44:55,Pending Review,,4,True
-PERMIT-2026-884EA270,CIT-000226,Maria T. Dela Cruz,Locational Clearance,Bayanihan General Merchandise,Grocery Store,Mabini-J. Rizal,2025-10-02T21:23:09,Under Evaluation,,5,True
-PERMIT-2026-CDDAD660,CIT-000219,Jennylyn S. Tolentino,Barangay Clearance,Ligaya Services,Retail Trading,Old Zaniga,2026-07-02T04:16:38,Pending Review,,12,True
-PERMIT-2026-AB455EEB,CIT-000450,Marites M. Bermudez,New Business Permit,,Real Estate Services,Pag-asa,2025-12-12T00:05:22,Denied,,20,True
-PERMIT-2026-EE613926,CIT-000162,Carlo F. Gonzales,Business Permit Renewal,,Retail Trading,Harapin Ang Bukas,2025-09-14T10:50:32,Released,2025-09-29T10:50:32,3,True
-PERMIT-2026-5914E57D,CIT-000291,Michelle F. Domingo,Fire Safety Inspection Certificate,Castillo Store,Internet Cafe,Vergara,2026-02-17T00:37:46,Expired,,17,True
-PERMIT-2026-B727B04C,CIT-000245,John M. Mendoza,New Business Permit,Panganiban Store,IT/Software Services,Vergara,2025-11-15T04:04:16,Denied,,10,True
-PERMIT-2026-B48991F9,CIT-000005,Angelica T. Garcia,Building Permit,,Grocery Store,Harapin Ang Bukas,2026-04-12T23:23:41,Under Evaluation,,4,True
-PERMIT-2026-B32E58E5,CIT-000520,Angel B. Sy,Building Permit,,Beauty Salon/Spa,Hulo,2025-12-02T12:57:32,Released,2025-12-04T12:57:32,5,True
-PERMIT-2026-BB127283,CIT-000486,Mark C. Dela Cruz,Barangay Clearance,Cruz Store,Auto Repair Shop,Pag-asa,2026-03-20T14:19:53,Under Evaluation,,10,True
-PERMIT-2026-CD0BFFAE,CIT-000258,Ana G. Pascual,Fire Safety Inspection Certificate,,Photocopy/Printing Services,Mabini-J. Rizal,2026-01-16T05:00:32,Denied,,2,False
-PERMIT-2026-D9635099,CIT-000181,Perla O. Pascual,Fire Safety Inspection Certificate,Ocampo Store,Pharmacy,Old Zaniga,2025-11-08T18:14:56,Pending Review,,19,True
-PERMIT-2026-F45740F6,CIT-000430,Vincent B. Santos,Occupancy Permit,,Restaurant/Eatery,Mabini-J. Rizal,2025-11-24T13:39:16,Expired,,11,True
-PERMIT-2026-D377BFBA,CIT-000243,Fe D. Manalo,Building Permit,Domingo Corp.,Laundry Shop,Highway Hills,2026-06-21T21:27:56,Released,2026-06-29T21:27:56,2,False
-PERMIT-2026-D5785511,CIT-000149,John R. Santos,Fire Safety Inspection Certificate,,Auto Repair Shop,New Zaniga,2025-12-01T07:57:45,Denied,,5,True
-PERMIT-2026-E27CBA66,CIT-000199,Vilma B. Reyes,Sanitary Permit,,Retail Trading,Highway Hills,2026-05-11T20:01:15,Approved,2026-05-12T20:01:15,19,True
-PERMIT-2026-C51A0A70,CIT-000140,Eduardo T. Reyes,Fire Safety Inspection Certificate,Navarro Services,Laundry Shop,Old Zaniga,2025-10-21T12:46:14,Released,2025-10-24T12:46:14,20,False
-PERMIT-2026-90BC3A73,CIT-000236,Nathaniel F. Bautista,Fire Safety Inspection Certificate,Bagong Foods,Sari-Sari Store,Hulo,2025-10-11T23:09:23,Released,2025-10-23T23:09:23,14,True
-PERMIT-2026-5E09E7D2,CIT-000253,Ronnel B. Castillo,Locational Clearance,Lim General Merchandise,Food Cart/Kiosk,Poblacion,2025-12-13T15:06:49,Approved,2025-12-14T15:06:49,14,False
-PERMIT-2026-79E0F7EA,CIT-000042,Josephine R. Marquez,New Business Permit,Bayanihan Services,Pharmacy,Daang Bakal,2026-03-10T03:57:27,Expired,,8,True
-PERMIT-2026-E6FDF2FD,CIT-000013,Jasmin D. Marquez,Locational Clearance,Malinis Enterprises,Tailoring Shop,Poblacion,2026-06-04T13:52:30,Expired,,3,True
-PERMIT-2026-A9901B1C,CIT-000313,Julius O. Manalo,Fire Safety Inspection Certificate,Lim Corp.,Pharmacy,Barangka Itaas,2025-11-10T05:16:08,Expired,,5,True
-PERMIT-2026-902B7981,CIT-000416,Divina L. Rivera,Fire Safety Inspection Certificate,Santos Corp.,Food Cart/Kiosk,Barangka Itaas,2025-11-19T04:58:35,Approved,2025-12-01T04:58:35,11,True
-PERMIT-2026-5EFE5C21,CIT-000304,Juan R. Castillo,Building Permit,Mabuhay General Merchandise,Food Cart/Kiosk,Harapin Ang Bukas,2026-02-20T18:51:14,Approved,2026-03-03T18:51:14,12,False
-PERMIT-2026-E82B91A5,CIT-000114,Angelica P. Aquino,Fire Safety Inspection Certificate,Ligaya General Merchandise,Photocopy/Printing Services,Mauway,2026-02-04T02:33:23,Approved,2026-02-06T02:33:23,18,True
-PERMIT-2026-E9B9A813,CIT-000210,Ana V. Pascual,Building Permit,Lazaro Food House,Photocopy/Printing Services,Vergara,2025-11-01T03:11:34,Approved,2025-11-14T03:11:34,8,True
-PERMIT-2026-3C4866BF,CIT-000274,Julius C. Salazar,Locational Clearance,,Restaurant/Eatery,Mauway,2026-03-22T22:43:56,Expired,,12,True
-PERMIT-2026-410AB1F7,CIT-000498,Ma. Theresa T. Gonzales,Business Permit Renewal,Bagong General Merchandise,Auto Repair Shop,Vergara,2026-03-22T03:00:39,Denied,,3,True
-PERMIT-2026-B811B256,CIT-000469,Vincent P. Reyes,Locational Clearance,Pascual Enterprises,Retail Trading,Daang Bakal,2025-10-12T06:56:01,Pending Review,,9,True
-PERMIT-2026-E4EE5D40,CIT-000152,Ma. Theresa B. Reyes,Building Permit,Pag-Asa General Merchandise,Food Cart/Kiosk,Highway Hills,2026-03-20T03:16:34,Under Evaluation,,5,True
-PERMIT-2026-E9A1D57C,CIT-000431,Cherry R. Tolentino,New Business Permit,,Restaurant/Eatery,Barangka Ibaba,2026-02-27T18:13:57,Expired,,1,True
-PERMIT-2026-9AD98AF3,CIT-000238,Michelle T. Espiritu,Occupancy Permit,Bagong General Merchandise,Tailoring Shop,Mabini-J. Rizal,2026-03-29T04:22:16,Expired,,17,True
-PERMIT-2026-447677A4,CIT-000456,Corazon S. Panganiban,Barangay Clearance,Fernandez Food House,Internet Cafe,Wack-Wack Greenhills,2026-03-05T06:05:33,Approved,2026-03-09T06:05:33,16,True
-PERMIT-2026-C4F201E7,CIT-000296,Vincent S. Lazaro,Barangay Clearance,Espiritu General Merchandise,Food Cart/Kiosk,Highway Hills,2026-07-04T07:44:41,Pending Review,,6,True
-PERMIT-2026-E5828B87,CIT-000293,Emmanuel D. Custodio,Barangay Clearance,,Restaurant/Eatery,Namayan,2025-11-18T04:08:04,Under Evaluation,,2,False
-PERMIT-2026-25B928EA,CIT-000130,Katherine M. Alonzo,Occupancy Permit,,Grocery Store,Hagdang Bato Itaas,2026-02-26T14:32:13,Approved,2026-03-10T14:32:13,2,True
-PERMIT-2026-837463DD,CIT-000353,Precious T. Robles,Fire Safety Inspection Certificate,Bayanihan Trading,Bakery,Daang Bakal,2025-11-04T20:05:50,Approved,2025-11-19T20:05:50,16,True
-PERMIT-2026-F62AA73A,CIT-000470,Danilo V. Sy,New Business Permit,Malinis Services,Food Cart/Kiosk,Poblacion,2026-01-10T17:48:16,Under Evaluation,,10,False
-PERMIT-2026-EFD235DE,CIT-000151,Divina M. Lim,Fire Safety Inspection Certificate,Mabuhay Enterprises,Tailoring Shop,Mauway,2026-04-15T21:29:48,Expired,,18,True
-PERMIT-2026-B425C87E,CIT-000026,Josephine D. Uy,Building Permit,Mabuhay General Merchandise,Tailoring Shop,Burol,2026-02-11T08:37:09,Denied,,7,True
-PERMIT-2026-8DDFAE20,CIT-000228,John O. Aguilar,Building Permit,,Grocery Store,Mabini-J. Rizal,2026-07-03T07:00:07,Approved,2026-07-17T07:00:07,15,True
-PERMIT-2026-EED4123D,CIT-000090,Rowena M. Fernandez,Building Permit,Chua Store,Auto Repair Shop,Barangka Ibaba,2026-03-26T03:21:45,Released,2026-04-02T03:21:45,5,True
-PERMIT-2026-2F769BDC,CIT-000438,Josephine R. Mendoza,Occupancy Permit,,Auto Repair Shop,Barangka Itaas,2026-01-29T22:21:29,Released,2026-02-04T22:21:29,10,False
-PERMIT-2026-506C65AF,CIT-000090,Rowena M. Fernandez,Fire Safety Inspection Certificate,Malinis Enterprises,Real Estate Services,Barangka Ibaba,2025-12-01T03:34:54,Expired,,14,True
-PERMIT-2026-BB829AC8,CIT-000425,Michelle R. Lim,Business Permit Renewal,,Internet Cafe,Hagdang Bato Itaas,2025-11-01T14:01:20,Denied,,16,False
-PERMIT-2026-DDD2D167,CIT-000344,Danilo U. Mendoza,Locational Clearance,,Bakery,Harapin Ang Bukas,2025-10-04T01:24:03,Denied,,9,True
-PERMIT-2026-189584D2,CIT-000474,Jennylyn L. Marquez,Barangay Clearance,,IT/Software Services,Mabini-J. Rizal,2026-06-11T05:08:20,Denied,,13,True
-PERMIT-2026-E243FA87,CIT-000503,Marianne A. Tolentino,Sanitary Permit,Espiritu Enterprises,Real Estate Services,Addition Hills,2025-09-24T18:47:47,Approved,2025-09-25T18:47:47,5,True
-PERMIT-2026-8BC669AD,CIT-000484,Charmaine N. Del Rosario,Sanitary Permit,Panganiban Enterprises,Restaurant/Eatery,Harapin Ang Bukas,2025-10-26T14:34:12,Expired,,9,True
-PERMIT-2026-3729D344,CIT-000069,Charmaine U. Navarro,Occupancy Permit,Malinis Services,Photocopy/Printing Services,Hulo,2026-04-28T23:13:44,Expired,,4,True
-PERMIT-2026-6D9606DC,CIT-000018,Divina R. Ramos,New Business Permit,,Pharmacy,Pag-asa,2025-12-18T04:13:08,Under Evaluation,,5,True
-PERMIT-2026-FF0D9AE0,CIT-000055,Kristine T. Aguilar,Locational Clearance,Rivera Services,Internet Cafe,Mauway,2025-12-23T06:37:44,Approved,2026-01-01T06:37:44,3,True
-PERMIT-2026-FE8D5508,CIT-000188,Jasmin G. Chua,Barangay Clearance,Malinis Foods,Restaurant/Eatery,Namayan,2026-07-02T08:34:43,Pending Review,,18,True
-PERMIT-2026-4825A368,CIT-000148,Angelo D. Aquino,Sanitary Permit,Tahanan Enterprises,Restaurant/Eatery,Vergara,2025-09-13T09:22:19,Under Evaluation,,7,True
-PERMIT-2026-9CFF967A,CIT-000227,Antonio M. Fernandez,Business Permit Renewal,Ocampo Food House,Retail Trading,Mauway,2025-11-20T13:19:44,Denied,,1,True
-PERMIT-2026-8B227C9D,CIT-000320,John R. Garcia,Barangay Clearance,Ligaya Foods,Sari-Sari Store,Mabini-J. Rizal,2026-06-03T18:12:59,Approved,2026-06-15T18:12:59,4,True
-PERMIT-2026-EE0A9D1F,CIT-000146,Grace C. Castillo,Sanitary Permit,,Retail Trading,Bagong Silang,2026-06-02T14:13:17,Under Evaluation,,3,True
-PERMIT-2026-E1D4052B,CIT-000115,Cherry E. Salazar,Fire Safety Inspection Certificate,Cruz Enterprises,Sari-Sari Store,Highway Hills,2025-10-08T13:42:09,Pending Review,,17,True
-PERMIT-2026-1353B056,CIT-000481,Fe V. Sarmiento,New Business Permit,,Tailoring Shop,Plainview,2025-10-24T13:35:33,Approved,2025-10-25T13:35:33,4,True
-PERMIT-2026-B0479671,CIT-000211,Divina U. Manalo,Barangay Clearance,Reyes Trading,IT/Software Services,Daang Bakal,2026-04-24T14:00:52,Under Evaluation,,9,False
-PERMIT-2026-F419B8A4,CIT-000357,Marlon C. Castillo,Building Permit,Ocampo Food House,Laundry Shop,New Zaniga,2026-01-23T03:55:46,Under Evaluation,,1,True
-PERMIT-2026-BCA36565,CIT-000197,Precious S. Mendoza,New Business Permit,Mendoza General Merchandise,IT/Software Services,Hagdang Bato Itaas,2025-12-26T20:15:10,Under Evaluation,,16,True
-PERMIT-2026-0D53E6A8,CIT-000190,Miguel P. Navarro,Business Permit Renewal,,Auto Repair Shop,Burol,2026-02-26T03:08:23,Expired,,13,True
-PERMIT-2026-1F853E6B,CIT-000234,Katherine S. Castillo,Occupancy Permit,,Restaurant/Eatery,Old Zaniga,2026-02-13T16:03:33,Pending Review,,17,True
-PERMIT-2026-AF923B5D,CIT-000370,Lourdes L. Del Rosario,New Business Permit,,Pharmacy,Burol,2026-06-09T01:43:31,Approved,2026-06-11T01:43:31,13,True
-PERMIT-2026-155E3178,CIT-000320,John R. Garcia,Building Permit,Masaya Trading,Food Cart/Kiosk,Mabini-J. Rizal,2026-06-02T04:53:42,Released,2026-06-16T04:53:42,16,False
-PERMIT-2026-8248D312,CIT-000377,Eduardo T. Tolentino,Fire Safety Inspection Certificate,Bayanihan Trading,Retail Trading,Malamig,2025-11-17T00:19:44,Pending Review,,13,True
-PERMIT-2026-73EF2D05,CIT-000105,Antonio S. Domingo,Business Permit Renewal,Masaya General Merchandise,IT/Software Services,San Jose,2026-06-23T07:48:20,Under Evaluation,,13,True
-PERMIT-2026-49455D7D,CIT-000435,Cristina M. Bautista,Sanitary Permit,Pag-Asa Foods,Pharmacy,Buayang Bato,2026-06-17T00:30:56,Released,2026-06-28T00:30:56,20,False
-PERMIT-2026-46CECD7D,CIT-000497,Kristine G. Gonzales,Barangay Clearance,Mendoza Services,Pharmacy,Wack-Wack Greenhills,2026-03-25T23:53:09,Approved,2026-04-02T23:53:09,8,True
-PERMIT-2026-FDE9C6E3,CIT-000138,Jocelyn D. Tan,New Business Permit,Panganiban Trading,Bakery,Vergara,2025-09-19T22:12:01,Pending Review,,20,True
-PERMIT-2026-526933DE,CIT-000157,Kevin O. Lazaro,Business Permit Renewal,Bagong Enterprises,Internet Cafe,Wack-Wack Greenhills,2026-01-03T23:00:57,Denied,,16,True
-PERMIT-2026-9BC77A82,CIT-000268,Carlo A. Manalo,New Business Permit,Bayanihan Services,Pharmacy,Barangka Drive,2026-04-07T01:02:48,Approved,2026-04-13T01:02:48,13,True
-PERMIT-2026-721618BF,CIT-000037,Angelo D. Manalo,Sanitary Permit,Pag-Asa Enterprises,Internet Cafe,Mabini-J. Rizal,2025-09-21T03:25:57,Under Evaluation,,13,True
-PERMIT-2026-CD246CE7,CIT-000113,Christian S. Tan,Fire Safety Inspection Certificate,Bagong General Merchandise,IT/Software Services,Barangka Drive,2026-04-17T07:16:19,Expired,,6,True
-PERMIT-2026-A957537E,CIT-000401,Jocelyn M. Aguilar,Locational Clearance,Tahanan Trading,Sari-Sari Store,Hagdang Bato Libis,2025-12-19T16:08:20,Released,2025-12-29T16:08:20,2,True
-PERMIT-2026-E88D6165,CIT-000376,Josephine C. Sarmiento,New Business Permit,Bayanihan Services,Auto Repair Shop,Poblacion,2026-01-21T20:55:28,Expired,,12,True
-PERMIT-2026-55F0AE05,CIT-000058,Erlinda C. Lim,Building Permit,,Internet Cafe,Mabini-J. Rizal,2026-05-23T04:21:38,Under Evaluation,,19,True
-PERMIT-2026-74422B08,CIT-000068,John D. Aquino,Occupancy Permit,,Grocery Store,Pleasant Hills,2026-01-04T19:08:50,Pending Review,,11,True
-PERMIT-2026-2A050509,CIT-000433,Antonio F. Navarro,Locational Clearance,,Photocopy/Printing Services,Barangka Itaas,2026-04-16T23:45:41,Denied,,16,True
-PERMIT-2026-E1C35429,CIT-000325,Ramon S. Marquez,Locational Clearance,Bayanihan Enterprises,Auto Repair Shop,Old Zaniga,2026-02-02T01:55:36,Denied,,16,True
-PERMIT-2026-E1B560B4,CIT-000348,Manuel B. Tolentino,Sanitary Permit,Alonzo Corp.,Tailoring Shop,New Zaniga,2025-11-12T02:14:07,Denied,,3,True
-PERMIT-2026-D4E398CA,CIT-000220,Jennylyn O. Custodio,New Business Permit,,Laundry Shop,Mauway,2025-12-28T23:30:18,Approved,2026-01-04T23:30:18,8,True
-PERMIT-2026-634BB59F,CIT-000095,Angelo T. Lazaro,Business Permit Renewal,Gonzales General Merchandise,Real Estate Services,Highway Hills,2026-06-14T02:40:11,Denied,,17,True
-PERMIT-2026-C3E9A4A8,CIT-000215,Karen G. Mendoza,Sanitary Permit,Tahanan Enterprises,Bakery,Plainview,2026-01-21T06:22:53,Pending Review,,13,True
-PERMIT-2026-C0694FC4,CIT-000465,Marianne M. Sarmiento,Barangay Clearance,Sarmiento General Merchandise,Pharmacy,Addition Hills,2026-05-27T04:33:08,Denied,,7,True
-PERMIT-2026-CFC4E1AB,CIT-000479,Eduardo D. Garcia,Locational Clearance,Bautista Services,Pharmacy,Pag-asa,2025-12-21T10:30:04,Expired,,5,True
-PERMIT-2026-14E50969,CIT-000308,Ramon E. Manalo,Occupancy Permit,Ocampo Food House,Bakery,Pleasant Hills,2026-02-24T11:16:29,Released,2026-03-01T11:16:29,10,True
-PERMIT-2026-A43C6964,CIT-000263,Bryan D. Sy,Building Permit,Torres Trading,Sari-Sari Store,Barangka Itaas,2026-06-02T03:06:32,Denied,,8,True
-PERMIT-2026-D02A5F5F,CIT-000318,Antonio A. Gonzales,Locational Clearance,Cruz Trading,Internet Cafe,Pleasant Hills,2026-03-07T15:26:21,Released,2026-03-10T15:26:21,1,True
-PERMIT-2026-67B92F74,CIT-000285,Jose R. Bermudez,Barangay Clearance,Mabuhay Trading,IT/Software Services,Buayang Bato,2026-05-22T04:24:47,Denied,,3,True
-PERMIT-2026-2DEB6633,CIT-000306,Precious R. Pascual,Occupancy Permit,Ligaya Enterprises,Restaurant/Eatery,Vergara,2025-10-03T01:46:53,Released,2025-10-13T01:46:53,17,False
-PERMIT-2026-07AC59FA,CIT-000258,Ana G. Pascual,Building Permit,Pag-Asa Enterprises,Food Cart/Kiosk,Mabini-J. Rizal,2026-03-20T04:25:00,Pending Review,,14,True
-PERMIT-2026-ECBA5FF0,CIT-000110,Kevin E. Uy,Sanitary Permit,Marquez Corp.,Grocery Store,Bagong Silang,2025-11-15T09:42:47,Under Evaluation,,12,True
-PERMIT-2026-97E0E135,CIT-000116,Alvin G. Ocampo,Locational Clearance,Ligaya Foods,Pharmacy,Hagdang Bato Libis,2026-01-09T07:03:26,Denied,,12,True
-PERMIT-2026-F4963CFF,CIT-000022,Angelo C. Sarmiento,New Business Permit,Bautista Services,Grocery Store,Buayang Bato,2026-05-17T00:41:55,Denied,,13,True
-PERMIT-2026-C5446151,CIT-000372,Bryan O. Aquino,Building Permit,Tolentino Corp.,Food Cart/Kiosk,Old Zaniga,2026-06-01T12:08:04,Pending Review,,9,True
-PERMIT-2026-AA2788C0,CIT-000242,Kristine P. Lazaro,Barangay Clearance,Mabuhay Foods,IT/Software Services,Barangka Ibaba,2026-01-01T21:20:22,Under Evaluation,,3,True
-PERMIT-2026-5BB899AF,CIT-000504,Jocelyn F. Panganiban,Locational Clearance,Bayanihan Enterprises,Photocopy/Printing Services,San Jose,2026-03-10T08:02:46,Expired,,9,True
-PERMIT-2026-57D30B1E,CIT-000361,Regina O. Custodio,Occupancy Permit,Reyes Store,Tailoring Shop,Highway Hills,2026-02-18T19:57:17,Denied,,6,True
-PERMIT-2026-68C208FF,CIT-000140,Eduardo T. Reyes,Building Permit,Aguilar Enterprises,Retail Trading,Old Zaniga,2025-09-09T13:49:32,Released,2025-09-13T13:49:32,17,True
-PERMIT-2026-8D307F85,CIT-000134,Bryan C. Mendoza,Locational Clearance,Bagong Enterprises,Internet Cafe,Vergara,2026-04-27T01:47:19,Expired,,6,True
-PERMIT-2026-8B9B25F9,CIT-000336,Ferdinand M. Dela Cruz,Business Permit Renewal,Pag-Asa General Merchandise,Beauty Salon/Spa,San Jose,2025-12-26T19:41:55,Under Evaluation,,1,False
-PERMIT-2026-76916247,CIT-000235,Katherine L. Fernandez,Building Permit,,IT/Software Services,Vergara,2025-10-12T22:28:44,Released,2025-10-15T22:28:44,2,True
-PERMIT-2026-74BE7756,CIT-000440,Bryan T. Uy,Barangay Clearance,,Auto Repair Shop,Harapin Ang Bukas,2026-04-29T13:13:23,Approved,2026-05-02T13:13:23,19,True
-PERMIT-2026-09B5C69C,CIT-000446,Reynaldo M. Chua,Fire Safety Inspection Certificate,,Photocopy/Printing Services,Poblacion,2026-03-03T14:01:15,Expired,,7,True
-PERMIT-2026-97B35421,CIT-000273,Jasmin C. Espiritu,Fire Safety Inspection Certificate,Alonzo General Merchandise,Beauty Salon/Spa,Hulo,2025-12-29T05:09:26,Expired,,10,True
-PERMIT-2026-DE896983,CIT-000194,Kristine C. Pascual,Locational Clearance,Malinis Enterprises,Laundry Shop,Namayan,2026-02-17T20:17:04,Under Evaluation,,15,False
-PERMIT-2026-F9561CD7,CIT-000379,Julius O. Lazaro,Fire Safety Inspection Certificate,,Pharmacy,New Zaniga,2026-04-22T18:12:27,Expired,,5,True
-PERMIT-2026-BDE4A441,CIT-000408,Danilo M. Lim,Locational Clearance,Bayanihan Trading,Grocery Store,Addition Hills,2026-06-02T03:05:09,Under Evaluation,,2,True
-PERMIT-2026-50C5F7AD,CIT-000241,Divina S. Espiritu,New Business Permit,,Grocery Store,New Zaniga,2026-03-10T06:33:55,Approved,2026-03-20T06:33:55,13,True
-PERMIT-2026-52807D4C,CIT-000405,Ramon R. Manalo,Barangay Clearance,Tan General Merchandise,Retail Trading,Plainview,2026-05-27T01:46:21,Approved,2026-06-01T01:46:21,6,True
-PERMIT-2026-4184F77C,CIT-000348,Manuel B. Tolentino,Business Permit Renewal,Ligaya Foods,Restaurant/Eatery,New Zaniga,2026-03-09T04:01:27,Under Evaluation,,11,True
-PERMIT-2026-1A699A5B,CIT-000131,Rafael S. Tolentino,Occupancy Permit,Malinis General Merchandise,Auto Repair Shop,New Zaniga,2026-03-21T06:08:14,Approved,2026-03-28T06:08:14,6,True
-PERMIT-2026-E0F896D2,CIT-000504,Jocelyn F. Panganiban,Fire Safety Inspection Certificate,,Retail Trading,San Jose,2026-07-01T23:07:40,Under Evaluation,,2,True
-PERMIT-2026-D56D3DC0,CIT-000037,Angelo D. Manalo,Barangay Clearance,Alonzo Corp.,Sari-Sari Store,Mabini-J. Rizal,2026-03-10T00:10:54,Approved,2026-03-18T00:10:54,12,False
-PERMIT-2026-C003CEC1,CIT-000497,Kristine G. Gonzales,Business Permit Renewal,Aquino Services,Restaurant/Eatery,Wack-Wack Greenhills,2026-03-05T03:47:12,Released,2026-03-09T03:47:12,10,True
-PERMIT-2026-516AA3F9,CIT-000173,Maria F. Aguilar,Sanitary Permit,Lim General Merchandise,Sari-Sari Store,Wack-Wack Greenhills,2026-06-26T15:04:24,Denied,,17,True
-PERMIT-2026-049197C3,CIT-000185,Fe C. Navarro,Building Permit,Mabuhay Foods,Tailoring Shop,Vergara,2026-02-17T02:27:48,Pending Review,,4,True
-PERMIT-2026-9AEB4F7B,CIT-000109,Ferdinand A. Garcia,New Business Permit,,IT/Software Services,Hagdang Bato Libis,2026-01-12T00:45:11,Under Evaluation,,16,True
-PERMIT-2026-75AC7682,CIT-000276,Carlo S. Aguilar,New Business Permit,Tahanan General Merchandise,Retail Trading,Barangka Ibaba,2026-04-27T03:32:32,Expired,,7,True
-PERMIT-2026-4E093FD7,CIT-000290,Erlinda A. Sarmiento,Business Permit Renewal,Bayanihan Services,Internet Cafe,Hulo,2026-01-11T21:19:40,Pending Review,,6,True
-PERMIT-2026-304D6E3F,CIT-000409,Erlinda G. Del Rosario,Building Permit,,Real Estate Services,Barangka Ibaba,2025-10-13T00:27:09,Pending Review,,13,True
-PERMIT-2026-ECDC2AB5,CIT-000158,Erlinda T. Del Rosario,Fire Safety Inspection Certificate,Fernandez Services,Tailoring Shop,New Zaniga,2025-10-25T05:14:57,Approved,2025-10-27T05:14:57,12,True
-PERMIT-2026-BF75031D,CIT-000502,Kevin S. Navarro,Fire Safety Inspection Certificate,,Laundry Shop,Hulo,2026-02-28T08:58:53,Released,2026-03-07T08:58:53,3,True
-PERMIT-2026-0B66A6F1,CIT-000378,Ramon D. Aguilar,Locational Clearance,Garcia General Merchandise,Auto Repair Shop,Wack-Wack Greenhills,2026-05-04T18:49:10,Under Evaluation,,15,True
-PERMIT-2026-615E9B64,CIT-000159,Ronnel A. Rivera,Business Permit Renewal,,Bakery,Hagdang Bato Itaas,2026-03-19T17:53:42,Denied,,3,False
-PERMIT-2026-1E1BCE60,CIT-000490,Manuel P. Torres,Barangay Clearance,Fernandez General Merchandise,Bakery,Vergara,2026-01-03T01:01:31,Under Evaluation,,10,True
-PERMIT-2026-F00D740A,CIT-000079,Emmanuel S. Fernandez,Business Permit Renewal,Bermudez Corp.,Tailoring Shop,Highway Hills,2025-09-25T21:28:19,Denied,,19,True
-PERMIT-2026-FB814338,CIT-000364,Karen N. Pascual,Business Permit Renewal,Reyes Store,Tailoring Shop,New Zaniga,2025-12-16T08:37:35,Denied,,15,True
-PERMIT-2026-6BD9A230,CIT-000187,Paolo L. Garcia,Business Permit Renewal,Bagong Services,Laundry Shop,Harapin Ang Bukas,2026-02-07T23:47:06,Pending Review,,9,True
-PERMIT-2026-2AD06D84,CIT-000192,Arnel A. Tolentino,Business Permit Renewal,Bayanihan Services,Grocery Store,Barangka Itaas,2025-11-29T08:27:25,Under Evaluation,,1,True
-PERMIT-2026-1BBB3883,CIT-000120,Regina P. Aquino,Fire Safety Inspection Certificate,Malinis General Merchandise,IT/Software Services,Barangka Ilaya,2025-09-13T13:09:54,Under Evaluation,,20,True
-PERMIT-2026-834433F4,CIT-000405,Ramon R. Manalo,Barangay Clearance,,Beauty Salon/Spa,Plainview,2026-01-03T22:07:18,Pending Review,,4,True
-PERMIT-2026-0CA81FA1,CIT-000193,Vincent C. Custodio,Fire Safety Inspection Certificate,Masaya Trading,Internet Cafe,Harapin Ang Bukas,2025-09-18T19:05:38,Under Evaluation,,15,True
-PERMIT-2026-23D91DB4,CIT-000433,Antonio F. Navarro,Barangay Clearance,Bagong Trading,IT/Software Services,Barangka Itaas,2025-09-16T20:30:17,Pending Review,,15,True
-PERMIT-2026-C93D5EF7,CIT-000207,Rowena R. Reyes,Locational Clearance,,Sari-Sari Store,Harapin Ang Bukas,2025-12-31T21:11:06,Denied,,4,True
-PERMIT-2026-92E03F28,CIT-000443,Perla B. Sarmiento,Sanitary Permit,,Bakery,New Zaniga,2026-02-16T19:37:50,Released,2026-02-24T19:37:50,17,True
-PERMIT-2026-32F549B9,CIT-000500,Cristina R. Tolentino,New Business Permit,Bayanihan Foods,Food Cart/Kiosk,Plainview,2025-12-07T10:40:32,Expired,,14,False
-PERMIT-2026-1379B4DE,CIT-000120,Regina P. Aquino,Occupancy Permit,Alonzo Trading,Internet Cafe,Barangka Ilaya,2026-03-19T12:55:23,Denied,,7,True
-PERMIT-2026-9EC33E17,CIT-000449,Emmanuel S. Mendoza,Building Permit,Ligaya Foods,Photocopy/Printing Services,Vergara,2025-12-07T12:30:54,Denied,,13,False
-PERMIT-2026-91A9168C,CIT-000369,Manuel S. Custodio,Building Permit,,Photocopy/Printing Services,Pleasant Hills,2026-03-10T19:32:37,Under Evaluation,,3,True
-PERMIT-2026-8AF0A73D,CIT-000133,Fe C. Domingo,Barangay Clearance,Bagong Foods,Beauty Salon/Spa,Burol,2025-11-14T16:20:50,Under Evaluation,,7,True
-PERMIT-2026-DB2D9A06,CIT-000019,John F. Dela Cruz,Occupancy Permit,Ramos Food House,Restaurant/Eatery,Old Zaniga,2026-01-25T17:17:31,Approved,2026-01-31T17:17:31,14,True
-PERMIT-2026-79C540CC,CIT-000233,Perla C. Sy,Building Permit,Mabuhay General Merchandise,Internet Cafe,Barangka Drive,2025-10-25T06:03:04,Denied,,5,True
-PERMIT-2026-3B8CACAA,CIT-000107,Grace R. Lazaro,Fire Safety Inspection Certificate,Torres Food House,Laundry Shop,Hagdang Bato Libis,2026-06-09T17:19:41,Pending Review,,20,True
-PERMIT-2026-FAEFD00D,CIT-000105,Antonio S. Domingo,Business Permit Renewal,,Restaurant/Eatery,San Jose,2026-04-14T19:47:03,Pending Review,,7,False
-PERMIT-2026-884CE8A6,CIT-000161,Angel A. Domingo,Fire Safety Inspection Certificate,Panganiban Trading,Tailoring Shop,Old Zaniga,2026-06-18T05:51:52,Approved,2026-06-24T05:51:52,11,True
-PERMIT-2026-C1329669,CIT-000126,Erlinda P. Bautista,Locational Clearance,Santos Food House,Real Estate Services,Harapin Ang Bukas,2025-11-25T18:54:41,Released,2025-12-03T18:54:41,11,True
-PERMIT-2026-738D14FC,CIT-000176,Manuel V. Robles,Occupancy Permit,Masaya Enterprises,Real Estate Services,Harapin Ang Bukas,2025-10-11T11:35:39,Approved,2025-10-24T11:35:39,17,True
-PERMIT-2026-D5C6A240,CIT-000234,Katherine S. Castillo,Locational Clearance,Mabuhay Services,Retail Trading,Old Zaniga,2025-10-31T23:21:27,Released,2025-11-13T23:21:27,1,True
-PERMIT-2026-2320841B,CIT-000072,Ricardo M. Navarro,Occupancy Permit,Mabuhay Services,Real Estate Services,Wack-Wack Greenhills,2025-10-11T07:20:50,Approved,2025-10-12T07:20:50,5,False
-PERMIT-2026-99C657FD,CIT-000060,Reynaldo F. Salazar,Sanitary Permit,Tahanan Foods,Sari-Sari Store,Vergara,2026-05-11T16:09:58,Expired,,9,False
-PERMIT-2026-0D9A4B67,CIT-000151,Divina M. Lim,Fire Safety Inspection Certificate,Tahanan Services,Real Estate Services,Mauway,2026-06-07T08:22:49,Released,2026-06-11T08:22:49,10,True
-PERMIT-2026-F924A275,CIT-000343,Ferdinand A. Lim,Barangay Clearance,Masaya Trading,Grocery Store,Addition Hills,2026-02-06T20:09:37,Expired,,18,True
-PERMIT-2026-0E9E157C,CIT-000349,Renato P. Flores,Barangay Clearance,,Food Cart/Kiosk,Barangka Ilaya,2026-06-29T09:20:25,Expired,,18,True
-PERMIT-2026-1261F58B,CIT-000248,Vilma F. Aguilar,Locational Clearance,Torres Food House,Auto Repair Shop,Old Zaniga,2026-01-04T10:06:10,Expired,,9,True
-PERMIT-2026-2171BC80,CIT-000363,Katherine O. Rivera,Business Permit Renewal,Sy Corp.,Auto Repair Shop,Buayang Bato,2025-10-26T11:10:41,Pending Review,,8,True
-PERMIT-2026-FBA1A2D2,CIT-000240,Josephine P. Flores,Sanitary Permit,Sy Store,Bakery,Malamig,2026-01-22T10:32:09,Approved,2026-01-31T10:32:09,8,True
-PERMIT-2026-F585A639,CIT-000198,Marites A. Robles,Business Permit Renewal,,Bakery,Barangka Drive,2026-01-26T16:24:52,Released,2026-02-09T16:24:52,14,True
-PERMIT-2026-42D6288F,CIT-000064,Emmanuel E. Torres,Fire Safety Inspection Certificate,,Restaurant/Eatery,Vergara,2026-02-20T09:23:18,Under Evaluation,,12,True
-PERMIT-2026-7A9C8C08,CIT-000413,Jasmin V. Bermudez,Locational Clearance,Pag-Asa Services,Photocopy/Printing Services,Pag-asa,2026-04-24T19:56:46,Denied,,16,True
-PERMIT-2026-521113F0,CIT-000427,Vilma S. Domingo,Barangay Clearance,Espiritu Store,Grocery Store,Malamig,2025-11-10T14:57:42,Under Evaluation,,17,True
-PERMIT-2026-2BA54E65,CIT-000218,Juan C. Aquino,New Business Permit,Bayanihan General Merchandise,IT/Software Services,Bagong Silang,2026-03-04T06:05:40,Released,2026-03-11T06:05:40,4,True
-PERMIT-2026-06E10CAE,CIT-000297,Regina U. Espiritu,Barangay Clearance,,Internet Cafe,Hagdang Bato Itaas,2025-09-24T00:36:50,Denied,,12,True
-PERMIT-2026-BF4ABCD1,CIT-000498,Ma. Theresa T. Gonzales,Barangay Clearance,Bermudez Services,Food Cart/Kiosk,Vergara,2025-09-19T05:55:44,Under Evaluation,,10,True
-PERMIT-2026-955E43C3,CIT-000501,Angelica C. Bermudez,Occupancy Permit,,Sari-Sari Store,Barangka Drive,2025-09-09T04:35:52,Pending Review,,14,True
-PERMIT-2026-24D40546,CIT-000318,Antonio A. Gonzales,Occupancy Permit,Lazaro Food House,Retail Trading,Pleasant Hills,2026-04-16T02:27:34,Released,2026-04-25T02:27:34,15,True
-PERMIT-2026-FF7CD7F0,CIT-000460,Cherry C. Chua,Occupancy Permit,,Laundry Shop,Malamig,2025-11-05T05:46:32,Expired,,20,True
-PERMIT-2026-CA0E3733,CIT-000239,Regina S. Bermudez,New Business Permit,Bayanihan Enterprises,Photocopy/Printing Services,Wack-Wack Greenhills,2026-02-08T22:31:32,Approved,2026-02-09T22:31:32,19,True
-PERMIT-2026-5826F020,CIT-000317,Charmaine L. Ramos,Business Permit Renewal,Garcia General Merchandise,Grocery Store,Barangka Drive,2026-04-14T06:28:10,Expired,,19,True
-PERMIT-2026-81AEDAE1,CIT-000194,Kristine C. Pascual,New Business Permit,,Food Cart/Kiosk,Namayan,2026-06-26T20:52:12,Released,2026-07-05T20:52:12,6,False
-PERMIT-2026-B4197CEC,CIT-000282,Bryan T. Rivera,Fire Safety Inspection Certificate,,Grocery Store,Namayan,2025-11-27T07:23:55,Under Evaluation,,20,True
-PERMIT-2026-129B2F3E,CIT-000047,Kristine S. Aquino,Occupancy Permit,Bermudez Food House,Grocery Store,Vergara,2026-03-18T06:01:04,Pending Review,,11,True
-PERMIT-2026-E33EF9A8,CIT-000094,Angelica S. Santos,Barangay Clearance,,Retail Trading,Malamig,2025-10-22T21:43:21,Pending Review,,9,True
-PERMIT-2026-45BD0D81,CIT-000158,Erlinda T. Del Rosario,Barangay Clearance,,Auto Repair Shop,New Zaniga,2026-01-05T12:41:11,Released,2026-01-08T12:41:11,1,True
-PERMIT-2026-627A4070,CIT-000306,Precious R. Pascual,Occupancy Permit,,Food Cart/Kiosk,Vergara,2026-02-06T19:39:31,Pending Review,,11,True
-PERMIT-2026-EF824D8E,CIT-000124,Arnel S. Ocampo,Building Permit,Lim Corp.,Grocery Store,Burol,2025-09-28T12:41:46,Under Evaluation,,17,True
-PERMIT-2026-B0DB8251,CIT-000118,Precious T. Uy,Occupancy Permit,Bermudez Corp.,Sari-Sari Store,Hagdang Bato Libis,2025-12-21T23:05:56,Pending Review,,14,True
-PERMIT-2026-61F02388,CIT-000020,Marites S. Fernandez,Business Permit Renewal,,Grocery Store,Burol,2025-12-21T21:54:28,Denied,,5,True
-PERMIT-2026-2AFCB513,CIT-000417,Precious D. Bautista,Building Permit,Ligaya Enterprises,Grocery Store,Harapin Ang Bukas,2026-02-28T14:00:47,Pending Review,,14,False
-PERMIT-2026-DBBADA84,CIT-000463,Eduardo R. Del Rosario,Fire Safety Inspection Certificate,Pascual Enterprises,Sari-Sari Store,Burol,2025-09-24T14:41:15,Pending Review,,16,True
-PERMIT-2026-014B7CD2,CIT-000257,Liza S. Torres,Occupancy Permit,Mabuhay Enterprises,Photocopy/Printing Services,Highway Hills,2026-05-30T11:11:45,Released,2026-06-08T11:11:45,19,True
-PERMIT-2026-60F22D9F,CIT-000092,Angelica P. Villanueva,Business Permit Renewal,Pag-Asa Enterprises,Laundry Shop,Harapin Ang Bukas,2026-02-08T21:39:57,Expired,,17,False
-PERMIT-2026-08D1AC8D,CIT-000326,Christian M. Santos,Sanitary Permit,Masaya Foods,Auto Repair Shop,Wack-Wack Greenhills,2026-05-31T06:47:57,Approved,2026-06-04T06:47:57,15,False
-PERMIT-2026-BCDEEED5,CIT-000337,Ramon L. Reyes,Barangay Clearance,Mabuhay Trading,Tailoring Shop,Hagdang Bato Itaas,2025-09-14T13:07:09,Expired,,6,True
-PERMIT-2026-3C96EB8E,CIT-000501,Angelica C. Bermudez,Business Permit Renewal,Ocampo Food House,IT/Software Services,Barangka Drive,2026-07-01T11:50:54,Released,2026-07-12T11:50:54,15,True
-PERMIT-2026-2713DE4C,CIT-000362,Ma. Theresa A. Panganiban,Occupancy Permit,Santos Corp.,Auto Repair Shop,San Jose,2026-02-01T13:14:23,Denied,,7,True
-PERMIT-2026-5D529AEA,CIT-000227,Antonio M. Fernandez,Sanitary Permit,Rivera Enterprises,IT/Software Services,Mauway,2026-06-23T23:45:55,Pending Review,,20,True
-PERMIT-2026-AE0728C2,CIT-000227,Antonio M. Fernandez,Occupancy Permit,,Pharmacy,Mauway,2025-12-08T08:35:58,Released,2025-12-23T08:35:58,20,True
-PERMIT-2026-AEFB7970,CIT-000201,John P. Cruz,Business Permit Renewal,Ligaya General Merchandise,Beauty Salon/Spa,Pleasant Hills,2026-05-14T07:48:46,Released,2026-05-25T07:48:46,19,True
-PERMIT-2026-E5A21A1D,CIT-000180,Angel R. Bautista,Barangay Clearance,Masaya General Merchandise,Photocopy/Printing Services,Hagdang Bato Itaas,2025-10-03T18:21:44,Denied,,9,True
-PERMIT-2026-63E8A85C,CIT-000024,Antonio R. Navarro,Sanitary Permit,Espiritu Corp.,Tailoring Shop,New Zaniga,2026-06-04T12:15:11,Expired,,2,True
-PERMIT-2026-1338765D,CIT-000331,Erlinda O. Pascual,Sanitary Permit,,Grocery Store,Plainview,2026-02-23T08:47:54,Released,2026-03-03T08:47:54,16,True
-PERMIT-2026-CD5FD115,CIT-000045,Angel A. Tan,New Business Permit,,Bakery,Barangka Ilaya,2026-06-15T11:25:02,Under Evaluation,,18,True
-PERMIT-2026-B5F3D1C5,CIT-000006,Vincent U. Espiritu,Occupancy Permit,,Laundry Shop,Highway Hills,2026-02-07T13:32:48,Under Evaluation,,1,False
-PERMIT-2026-0F94FADE,CIT-000232,Danilo A. Lim,Business Permit Renewal,Villanueva Services,Internet Cafe,Plainview,2026-06-03T04:13:09,Released,2026-06-05T04:13:09,4,True
-PERMIT-2026-2722F5CC,CIT-000443,Perla B. Sarmiento,Occupancy Permit,Salazar Corp.,Beauty Salon/Spa,New Zaniga,2025-09-17T17:04:21,Denied,,11,True
-PERMIT-2026-D7E4802D,CIT-000342,Marlon R. Manalo,Business Permit Renewal,Custodio Store,Pharmacy,Pag-asa,2026-03-29T04:52:46,Under Evaluation,,19,True
-PERMIT-2026-88E89FBC,CIT-000063,Julius D. Alonzo,Occupancy Permit,Ocampo Enterprises,Food Cart/Kiosk,Vergara,2025-09-21T07:56:34,Released,2025-10-04T07:56:34,15,True
-PERMIT-2026-A2EB699D,CIT-000443,Perla B. Sarmiento,New Business Permit,Pag-Asa Trading,Laundry Shop,New Zaniga,2025-10-03T22:22:00,Pending Review,,14,True
-PERMIT-2026-29EA6B55,CIT-000011,Kevin B. Aguilar,Fire Safety Inspection Certificate,Mabuhay Services,Grocery Store,Wack-Wack Greenhills,2026-03-03T11:15:22,Released,2026-03-09T11:15:22,19,True
-PERMIT-2026-FE9DE4F8,CIT-000106,Julius L. Ramos,Business Permit Renewal,Villanueva Store,Grocery Store,Daang Bakal,2025-09-13T03:41:42,Denied,,9,True
-PERMIT-2026-3DE0242F,CIT-000493,Emmanuel S. Torres,Fire Safety Inspection Certificate,,Retail Trading,Barangka Ilaya,2026-06-16T19:08:00,Denied,,2,True
-PERMIT-2026-C5F1A37A,CIT-000320,John R. Garcia,Occupancy Permit,Uy Trading,Pharmacy,Mabini-J. Rizal,2026-04-23T09:17:59,Released,2026-04-28T09:17:59,20,True
-PERMIT-2026-BE158009,CIT-000378,Ramon D. Aguilar,Barangay Clearance,,Grocery Store,Wack-Wack Greenhills,2025-09-11T12:29:07,Denied,,18,True
-PERMIT-2026-00C04303,CIT-000433,Antonio F. Navarro,Building Permit,Villanueva Services,Beauty Salon/Spa,Barangka Itaas,2026-01-19T21:45:20,Under Evaluation,,16,True
-PERMIT-2026-FA09DB66,CIT-000479,Eduardo D. Garcia,Occupancy Permit,Malinis Services,Auto Repair Shop,Pag-asa,2026-04-29T07:20:49,Expired,,6,True
-PERMIT-2026-B3F63D74,CIT-000044,Precious T. Santos,New Business Permit,Masaya Enterprises,Pharmacy,Pleasant Hills,2026-03-19T23:33:58,Under Evaluation,,11,True
-PERMIT-2026-2D93E424,CIT-000385,Juan S. Del Rosario,Barangay Clearance,Mabuhay Trading,Auto Repair Shop,Malamig,2025-11-27T02:50:39,Released,2025-11-28T02:50:39,18,True
-PERMIT-2026-E107DA85,CIT-000298,Ma. Theresa L. Mendoza,Occupancy Permit,,Sari-Sari Store,Buayang Bato,2026-02-26T10:03:30,Under Evaluation,,7,True
-PERMIT-2026-F8CD6EAF,CIT-000179,Jocelyn A. Aguilar,Barangay Clearance,Tan Trading,Beauty Salon/Spa,Barangka Drive,2025-12-02T09:52:22,Approved,2025-12-03T09:52:22,6,True
-PERMIT-2026-43D5E692,CIT-000104,Ma. Theresa C. Garcia,Barangay Clearance,Masaya Foods,Pharmacy,Hulo,2025-09-16T12:49:59,Expired,,8,True
-PERMIT-2026-93482DC8,CIT-000382,Marlon U. Aquino,Locational Clearance,Ocampo Trading,Food Cart/Kiosk,Highway Hills,2026-05-23T01:16:22,Under Evaluation,,5,True
-PERMIT-2026-210640CD,CIT-000197,Precious S. Mendoza,Occupancy Permit,Alonzo Enterprises,Real Estate Services,Hagdang Bato Itaas,2026-04-03T04:55:36,Released,2026-04-13T04:55:36,19,True
-PERMIT-2026-1D015479,CIT-000302,Vincent P. Uy,Building Permit,,Real Estate Services,Namayan,2025-11-05T01:54:04,Approved,2025-11-10T01:54:04,5,True
-PERMIT-2026-3981F687,CIT-000501,Angelica C. Bermudez,Business Permit Renewal,Ocampo General Merchandise,Bakery,Barangka Drive,2025-11-28T15:23:33,Expired,,17,True
-PERMIT-2026-DB932115,CIT-000476,Alvin D. Aquino,Occupancy Permit,Bagong Foods,Laundry Shop,Hagdang Bato Libis,2025-11-16T21:32:39,Approved,2025-11-23T21:32:39,19,True
-PERMIT-2026-F8FE7647,CIT-000213,Marites N. Tolentino,Fire Safety Inspection Certificate,Manalo Services,Bakery,Malamig,2025-12-02T15:17:25,Under Evaluation,,13,True
-PERMIT-2026-0B6011B1,CIT-000384,Kristine B. Chua,Business Permit Renewal,,Restaurant/Eatery,Plainview,2025-12-16T05:32:30,Denied,,10,True
-PERMIT-2026-F9079865,CIT-000361,Regina O. Custodio,New Business Permit,Bagong Services,Bakery,Highway Hills,2025-12-06T18:34:03,Denied,,14,True
-PERMIT-2026-6BA22C0F,CIT-000510,Lourdes C. Dela Cruz,Locational Clearance,,Pharmacy,Barangka Ibaba,2026-01-09T12:00:06,Approved,2026-01-13T12:00:06,9,True
-PERMIT-2026-4EDA1C77,CIT-000368,Ronnel M. Garcia,Business Permit Renewal,Domingo Enterprises,Restaurant/Eatery,Buayang Bato,2025-10-10T09:21:12,Approved,2025-10-16T09:21:12,2,True
-PERMIT-2026-FF5D90C4,CIT-000342,Marlon R. Manalo,Occupancy Permit,,Photocopy/Printing Services,Pag-asa,2025-11-23T18:02:01,Expired,,9,True
-PERMIT-2026-D77BB5F9,CIT-000142,Angelica S. Mendoza,Sanitary Permit,,Internet Cafe,Highway Hills,2026-06-27T13:52:42,Expired,,10,True
-PERMIT-2026-F4917AEA,CIT-000414,Erlinda L. Rivera,New Business Permit,Robles Food House,Bakery,Harapin Ang Bukas,2026-02-12T23:06:01,Denied,,8,True
-PERMIT-2026-3270596A,CIT-000215,Karen G. Mendoza,Fire Safety Inspection Certificate,Bayanihan Foods,IT/Software Services,Plainview,2026-03-11T15:14:32,Under Evaluation,,7,True
-PERMIT-2026-16DBA3F8,CIT-000428,Ramon F. Aguilar,Fire Safety Inspection Certificate,Ligaya General Merchandise,IT/Software Services,Wack-Wack Greenhills,2025-11-28T18:37:43,Released,2025-12-01T18:37:43,10,False
-PERMIT-2026-49DFE9CB,CIT-000010,Renato F. Salazar,Occupancy Permit,Pag-Asa General Merchandise,Internet Cafe,Highway Hills,2026-03-21T11:37:58,Expired,,11,True
-PERMIT-2026-34A5B97C,CIT-000033,Danilo B. Uy,Occupancy Permit,Pag-Asa Enterprises,Bakery,Bagong Silang,2025-11-01T09:59:13,Under Evaluation,,3,True
-PERMIT-2026-45B345C3,CIT-000193,Vincent C. Custodio,Occupancy Permit,Bayanihan Enterprises,Restaurant/Eatery,Harapin Ang Bukas,2026-03-11T18:24:20,Pending Review,,18,True
-PERMIT-2026-E09CD42E,CIT-000501,Angelica C. Bermudez,Building Permit,,Bakery,Barangka Drive,2025-09-18T19:18:36,Under Evaluation,,10,True
-PERMIT-2026-BE8CA774,CIT-000299,Vincent R. Aquino,Business Permit Renewal,Dela Cruz Trading,Auto Repair Shop,Namayan,2026-05-22T12:47:39,Denied,,14,True
-PERMIT-2026-4BE19FA5,CIT-000114,Angelica P. Aquino,Locational Clearance,Masaya Enterprises,IT/Software Services,Mauway,2025-10-28T12:48:27,Denied,,7,True
-PERMIT-2026-DD85F249,CIT-000487,Arnel M. Bautista,Sanitary Permit,Malinis Enterprises,Sari-Sari Store,Bagong Silang,2025-11-09T01:06:20,Denied,,5,True
-PERMIT-2026-47BFABE4,CIT-000409,Erlinda G. Del Rosario,Occupancy Permit,Bagong General Merchandise,Sari-Sari Store,Barangka Ibaba,2026-05-01T06:45:17,Under Evaluation,,3,True
-PERMIT-2026-DC7F70D5,CIT-000468,Josephine S. Aquino,Sanitary Permit,Masaya Enterprises,Food Cart/Kiosk,Bagong Silang,2026-01-21T01:23:53,Expired,,20,True
-PERMIT-2026-048BDD01,CIT-000469,Vincent P. Reyes,Barangay Clearance,Mabuhay Enterprises,Food Cart/Kiosk,Daang Bakal,2026-02-04T18:29:41,Expired,,6,True
-PERMIT-2026-0E2C919E,CIT-000299,Vincent R. Aquino,Building Permit,Bermudez Services,Restaurant/Eatery,Namayan,2026-05-25T06:51:00,Pending Review,,4,True
-PERMIT-2026-543DDB1D,CIT-000334,Mark R. Salazar,Barangay Clearance,,Grocery Store,Pag-asa,2026-02-14T15:31:46,Released,2026-02-15T15:31:46,15,True
-PERMIT-2026-BF5CBCA0,CIT-000473,Katherine D. Garcia,Locational Clearance,Manalo Enterprises,Internet Cafe,Burol,2026-02-03T09:47:04,Approved,2026-02-05T09:47:04,5,True
-PERMIT-2026-A61FA16B,CIT-000476,Alvin D. Aquino,Business Permit Renewal,,Tailoring Shop,Hagdang Bato Libis,2026-03-15T15:26:26,Released,2026-03-19T15:26:26,15,True
-PERMIT-2026-25716692,CIT-000286,Kristine S. Bautista,New Business Permit,Bayanihan General Merchandise,Photocopy/Printing Services,Highway Hills,2025-11-10T01:12:08,Under Evaluation,,13,True
-PERMIT-2026-D97505D4,CIT-000012,Grace S. Castillo,Barangay Clearance,Ramos Store,Sari-Sari Store,Buayang Bato,2026-05-29T10:49:32,Approved,2026-06-13T10:49:32,18,True
-PERMIT-2026-71B6948E,CIT-000049,Jocelyn L. Cruz,Business Permit Renewal,Mabuhay General Merchandise,Sari-Sari Store,Buayang Bato,2026-05-12T21:49:57,Denied,,2,True
-PERMIT-2026-06B91EC9,CIT-000207,Rowena R. Reyes,Building Permit,,Sari-Sari Store,Harapin Ang Bukas,2025-12-14T08:31:40,Approved,2025-12-21T08:31:40,1,False
-PERMIT-2026-1D1459CD,CIT-000346,Ramon E. Rivera,Business Permit Renewal,,Food Cart/Kiosk,Wack-Wack Greenhills,2025-11-22T00:08:31,Expired,,4,True
-PERMIT-2026-1DCDD4C6,CIT-000172,Angel S. Alonzo,New Business Permit,Tahanan General Merchandise,Tailoring Shop,Pleasant Hills,2026-06-16T13:26:00,Under Evaluation,,7,True
-PERMIT-2026-AFF7A02B,CIT-000405,Ramon R. Manalo,Building Permit,,Auto Repair Shop,Plainview,2026-02-21T13:17:26,Pending Review,,11,True
-PERMIT-2026-5DDD9236,CIT-000412,Bryan P. Pascual,New Business Permit,Espiritu Enterprises,Tailoring Shop,Namayan,2026-05-20T08:48:41,Approved,2026-06-03T08:48:41,9,True
-PERMIT-2026-3FE0CFAF,CIT-000378,Ramon D. Aguilar,Building Permit,Bayanihan General Merchandise,Real Estate Services,Wack-Wack Greenhills,2025-09-25T10:41:52,Pending Review,,19,True
-PERMIT-2026-1AD3CB14,CIT-000098,Liza B. Sy,Locational Clearance,Ligaya Foods,IT/Software Services,San Jose,2026-04-29T08:19:27,Approved,2026-05-10T08:19:27,16,True
-PERMIT-2026-0876A233,CIT-000019,John F. Dela Cruz,Fire Safety Inspection Certificate,Domingo Trading,Sari-Sari Store,Old Zaniga,2026-05-02T17:05:55,Denied,,20,True
-PERMIT-2026-07E5ECBC,CIT-000128,Eduardo A. Lim,Locational Clearance,Garcia Trading,Auto Repair Shop,Mabini-J. Rizal,2026-01-06T07:50:06,Under Evaluation,,16,True
-PERMIT-2026-3BA05E66,CIT-000156,Regina M. Bermudez,New Business Permit,,Photocopy/Printing Services,Hulo,2026-02-01T07:22:54,Under Evaluation,,20,False
-PERMIT-2026-11917F42,CIT-000455,Corazon C. Bermudez,Barangay Clearance,,Tailoring Shop,Buayang Bato,2026-06-22T11:31:08,Approved,2026-07-05T11:31:08,2,True
-PERMIT-2026-8A3A7509,CIT-000425,Michelle R. Lim,New Business Permit,,Photocopy/Printing Services,Hagdang Bato Itaas,2026-05-18T01:23:15,Approved,2026-05-24T01:23:15,11,True
-PERMIT-2026-40E83D5A,CIT-000056,Lourdes T. Pascual,Building Permit,Ligaya Services,Tailoring Shop,Buayang Bato,2026-05-24T15:27:45,Under Evaluation,,1,True
-PERMIT-2026-B1735F28,CIT-000504,Jocelyn F. Panganiban,New Business Permit,Aquino Trading,Restaurant/Eatery,San Jose,2025-10-05T13:27:50,Under Evaluation,,6,True
-PERMIT-2026-B941CFC7,CIT-000210,Ana V. Pascual,Business Permit Renewal,Ligaya Enterprises,Beauty Salon/Spa,Vergara,2025-12-09T03:43:38,Denied,,14,True
-PERMIT-2026-5F62A6C6,CIT-000255,Precious M. Rivera,Fire Safety Inspection Certificate,Bagong Trading,Auto Repair Shop,Buayang Bato,2026-01-04T02:15:38,Approved,2026-01-11T02:15:38,13,True
-PERMIT-2026-DC23A1B4,CIT-000452,Ricardo S. Navarro,Locational Clearance,Lazaro Food House,Bakery,Poblacion,2026-02-19T12:58:52,Denied,,14,True
-PERMIT-2026-97C00464,CIT-000308,Ramon E. Manalo,Barangay Clearance,Pag-Asa Services,Internet Cafe,Pleasant Hills,2026-04-27T12:40:05,Denied,,15,True
-PERMIT-2026-DCFBB007,CIT-000493,Emmanuel S. Torres,Barangay Clearance,Villanueva Trading,Sari-Sari Store,Barangka Ilaya,2025-10-06T07:41:00,Approved,2025-10-07T07:41:00,17,True
-PERMIT-2026-CD912050,CIT-000384,Kristine B. Chua,Locational Clearance,Bagong Foods,Tailoring Shop,Plainview,2026-03-18T05:50:16,Released,2026-03-28T05:50:16,3,True
-PERMIT-2026-97A6E828,CIT-000040,Kristine S. Sarmiento,Barangay Clearance,,Bakery,Plainview,2025-10-26T17:22:18,Released,2025-10-31T17:22:18,12,True
-PERMIT-2026-74B931BC,CIT-000501,Angelica C. Bermudez,Occupancy Permit,Masaya Enterprises,Pharmacy,Barangka Drive,2026-05-12T23:35:50,Expired,,2,False
-PERMIT-2026-BBC8ABFC,CIT-000371,Mark D. Aguilar,New Business Permit,Bagong Enterprises,Internet Cafe,Barangka Ilaya,2026-05-11T10:03:45,Expired,,8,True
-PERMIT-2026-28E8D91F,CIT-000166,Ma. Theresa P. Alonzo,Business Permit Renewal,Bayanihan General Merchandise,Food Cart/Kiosk,Hulo,2025-09-13T04:09:00,Pending Review,,7,True
-PERMIT-2026-4B2AA8F0,CIT-000170,John U. Tolentino,Sanitary Permit,Malinis Services,Real Estate Services,Mauway,2026-02-21T03:53:15,Approved,2026-03-08T03:53:15,3,True
-PERMIT-2026-7B7258B4,CIT-000353,Precious T. Robles,Building Permit,Mabuhay Enterprises,IT/Software Services,Daang Bakal,2025-11-02T19:20:35,Approved,2025-11-10T19:20:35,1,True
-PERMIT-2026-AB4340A0,CIT-000428,Ramon F. Aguilar,Sanitary Permit,Flores Services,Retail Trading,Wack-Wack Greenhills,2026-03-31T06:09:27,Released,2026-04-12T06:09:27,5,True
-PERMIT-2026-7FFDA4D2,CIT-000187,Paolo L. Garcia,Fire Safety Inspection Certificate,Castillo Trading,Sari-Sari Store,Harapin Ang Bukas,2026-03-22T13:51:24,Pending Review,,6,True
-PERMIT-2026-1B56246E,CIT-000197,Precious S. Mendoza,Fire Safety Inspection Certificate,Mendoza Enterprises,Internet Cafe,Hagdang Bato Itaas,2025-12-18T02:29:32,Released,2025-12-20T02:29:32,13,True
-PERMIT-2026-BC5CB3E5,CIT-000066,Ma. Theresa S. Marquez,Building Permit,Mendoza Enterprises,Internet Cafe,San Jose,2026-01-19T06:14:39,Pending Review,,1,True
-PERMIT-2026-E7808A4E,CIT-000043,Ana N. Santos,New Business Permit,Bagong Services,Real Estate Services,Pag-asa,2025-10-15T23:47:19,Under Evaluation,,11,True
-PERMIT-2026-847DAB16,CIT-000345,Marianne S. Panganiban,Occupancy Permit,Pag-Asa Services,Laundry Shop,Old Zaniga,2026-01-30T09:07:30,Expired,,2,False
-PERMIT-2026-7CF8B6E1,CIT-000339,Jennylyn M. Lazaro,Fire Safety Inspection Certificate,Manalo Enterprises,Laundry Shop,Poblacion,2025-10-17T06:52:40,Pending Review,,4,True
-PERMIT-2026-CBEB9EE7,CIT-000287,John P. Robles,Occupancy Permit,Masaya Trading,Tailoring Shop,Wack-Wack Greenhills,2026-06-06T22:46:33,Under Evaluation,,11,True
-PERMIT-2026-3D545666,CIT-000369,Manuel S. Custodio,Occupancy Permit,Pag-Asa General Merchandise,Real Estate Services,Pleasant Hills,2025-09-26T03:37:04,Expired,,3,True
-PERMIT-2026-069EE67F,CIT-000488,Angelica M. Tan,Business Permit Renewal,Pascual Store,Retail Trading,Pleasant Hills,2026-05-22T01:19:17,Expired,,17,True
-PERMIT-2026-423B108C,CIT-000517,Angelo N. Manalo,Fire Safety Inspection Certificate,Ligaya Services,Restaurant/Eatery,Mabini-J. Rizal,2025-09-20T17:02:56,Under Evaluation,,16,True
-PERMIT-2026-25014B1C,CIT-000247,Erlinda S. Lazaro,Barangay Clearance,Garcia Corp.,Photocopy/Printing Services,Barangka Ilaya,2025-12-11T21:23:58,Under Evaluation,,1,True
-PERMIT-2026-1C3641E2,CIT-000335,Fe A. Navarro,Building Permit,Lazaro Store,Retail Trading,Addition Hills,2026-02-04T07:32:28,Approved,2026-02-19T07:32:28,18,True
-PERMIT-2026-25559459,CIT-000504,Jocelyn F. Panganiban,Occupancy Permit,Sy Store,Auto Repair Shop,San Jose,2025-10-13T12:08:07,Expired,,13,False
-PERMIT-2026-171124C5,CIT-000391,Renato D. Bermudez,Locational Clearance,Bayanihan Foods,Restaurant/Eatery,Burol,2026-05-20T08:07:48,Expired,,4,True
-PERMIT-2026-6055C3F5,CIT-000193,Vincent C. Custodio,Occupancy Permit,,Auto Repair Shop,Harapin Ang Bukas,2026-06-24T13:29:51,Pending Review,,13,True
-PERMIT-2026-EF57C2F1,CIT-000002,Danilo C. Alonzo,Building Permit,Tahanan Enterprises,Grocery Store,Barangka Drive,2026-01-07T02:00:47,Pending Review,,20,True
-PERMIT-2026-9B4E1B3E,CIT-000110,Kevin E. Uy,Fire Safety Inspection Certificate,Pascual Corp.,Tailoring Shop,Bagong Silang,2026-02-08T21:44:08,Pending Review,,15,True
-PERMIT-2026-4CA52F20,CIT-000291,Michelle F. Domingo,New Business Permit,Fernandez Services,IT/Software Services,Vergara,2025-11-04T00:46:14,Expired,,19,True
-PERMIT-2026-0429890E,CIT-000221,Michelle R. Torres,Locational Clearance,,Real Estate Services,Malamig,2026-03-19T15:07:46,Approved,2026-03-25T15:07:46,5,True
-PERMIT-2026-94806B41,CIT-000216,Cristina R. Custodio,New Business Permit,Pag-Asa Foods,IT/Software Services,Bagong Silang,2026-06-19T22:01:32,Under Evaluation,,6,False
-PERMIT-2026-B1EA986F,CIT-000402,John M. Lim,Fire Safety Inspection Certificate,Bayanihan General Merchandise,Photocopy/Printing Services,Barangka Ibaba,2026-01-17T10:02:51,Released,2026-01-22T10:02:51,10,True
-PERMIT-2026-1B33EE23,CIT-000200,Ramon R. Domingo,Locational Clearance,,Auto Repair Shop,Barangka Ibaba,2026-06-07T15:57:49,Denied,,19,True
-PERMIT-2026-B7E34C7A,CIT-000056,Lourdes T. Pascual,Fire Safety Inspection Certificate,Sy Corp.,Photocopy/Printing Services,Buayang Bato,2026-06-10T22:59:32,Approved,2026-06-18T22:59:32,10,False
-PERMIT-2026-C7ED0B4F,CIT-000215,Karen G. Mendoza,Building Permit,Bayanihan Enterprises,Bakery,Plainview,2025-12-02T02:20:11,Expired,,14,True
-PERMIT-2026-C70B7702,CIT-000173,Maria F. Aguilar,Occupancy Permit,Ramos Enterprises,Grocery Store,Wack-Wack Greenhills,2025-09-30T06:12:17,Pending Review,,11,True
-PERMIT-2026-32D68A2C,CIT-000153,Grace A. Garcia,Locational Clearance,,Restaurant/Eatery,Barangka Drive,2026-05-09T20:57:53,Expired,,8,True
-PERMIT-2026-D7E0E389,CIT-000310,Nathaniel G. Flores,Barangay Clearance,Tolentino Food House,Pharmacy,Hulo,2026-06-02T13:38:01,Denied,,13,True
-PERMIT-2026-DD7753E3,CIT-000456,Corazon S. Panganiban,Business Permit Renewal,,Restaurant/Eatery,Wack-Wack Greenhills,2026-01-29T00:51:22,Pending Review,,16,True
-PERMIT-2026-598331E5,CIT-000231,Bryan G. Tan,Fire Safety Inspection Certificate,,Photocopy/Printing Services,Pag-asa,2025-09-17T07:46:55,Denied,,4,True
-PERMIT-2026-A36AB7F3,CIT-000186,Angelica T. Tan,Locational Clearance,,Retail Trading,Daang Bakal,2026-02-04T11:55:21,Released,2026-02-06T11:55:21,11,True
-PERMIT-2026-E57DD6A9,CIT-000190,Miguel P. Navarro,New Business Permit,Bayanihan General Merchandise,IT/Software Services,Burol,2026-02-12T19:06:41,Expired,,19,True
-PERMIT-2026-C289ACA5,CIT-000128,Eduardo A. Lim,Business Permit Renewal,,Laundry Shop,Mabini-J. Rizal,2026-06-28T00:21:46,Under Evaluation,,6,True
-PERMIT-2026-181D3DA7,CIT-000458,Miguel B. Villanueva,New Business Permit,,Beauty Salon/Spa,Bagong Silang,2026-01-08T10:36:32,Pending Review,,6,True
-PERMIT-2026-5D4A0751,CIT-000263,Bryan D. Sy,Business Permit Renewal,Tahanan General Merchandise,Retail Trading,Barangka Itaas,2026-06-27T20:15:59,Pending Review,,14,False
-PERMIT-2026-B3035DCC,CIT-000001,Juan S. Gonzales,New Business Permit,Bagong Enterprises,Laundry Shop,Barangka Ilaya,2025-12-13T19:49:35,Approved,2025-12-21T19:49:35,11,True
-PERMIT-2026-C5D366FA,CIT-000361,Regina O. Custodio,Building Permit,Cruz Enterprises,Beauty Salon/Spa,Highway Hills,2026-05-01T19:05:27,Denied,,5,True
-PERMIT-2026-CE4CFA02,CIT-000221,Michelle R. Torres,Building Permit,Gonzales Store,Laundry Shop,Malamig,2025-10-30T12:03:59,Denied,,14,True
-PERMIT-2026-768F8C1C,CIT-000262,Cherry P. Villanueva,Barangay Clearance,Pag-Asa Enterprises,Grocery Store,Hagdang Bato Itaas,2025-12-18T14:49:08,Released,2025-12-22T14:49:08,3,True
-PERMIT-2026-C69E807C,CIT-000276,Carlo S. Aguilar,Building Permit,Sy Corp.,IT/Software Services,Barangka Ibaba,2026-05-12T06:15:42,Expired,,5,True
-PERMIT-2026-DCAE3F3B,CIT-000445,Miguel D. Villanueva,Building Permit,,Restaurant/Eatery,Hulo,2026-02-02T13:09:06,Pending Review,,18,True
-PERMIT-2026-A539208C,CIT-000417,Precious D. Bautista,Business Permit Renewal,Ligaya Enterprises,Internet Cafe,Harapin Ang Bukas,2025-10-03T23:56:34,Approved,2025-10-04T23:56:34,4,True
-PERMIT-2026-618D9DC7,CIT-000228,John O. Aguilar,Business Permit Renewal,,Photocopy/Printing Services,Mabini-J. Rizal,2026-02-02T10:15:59,Pending Review,,10,True
-PERMIT-2026-6E049652,CIT-000502,Kevin S. Navarro,Occupancy Permit,Bayanihan Trading,Retail Trading,Hulo,2025-10-15T11:39:35,Denied,,11,False
-PERMIT-2026-B46C5891,CIT-000399,Lourdes E. Dela Cruz,Locational Clearance,Mabuhay General Merchandise,Photocopy/Printing Services,New Zaniga,2025-11-17T13:08:48,Approved,2025-11-20T13:08:48,5,True
-PERMIT-2026-E65662BC,CIT-000274,Julius C. Salazar,Occupancy Permit,Bagong Enterprises,Pharmacy,Mauway,2025-09-28T21:53:28,Expired,,12,True
-PERMIT-2026-92DF4870,CIT-000515,Perla L. Lim,Locational Clearance,Bayanihan Foods,Bakery,Pleasant Hills,2025-12-28T18:30:36,Approved,2026-01-10T18:30:36,11,True
-PERMIT-2026-350A93AA,CIT-000082,Jennylyn A. Espiritu,Building Permit,Flores Enterprises,Photocopy/Printing Services,Barangka Itaas,2025-10-08T03:59:23,Expired,,10,True
-PERMIT-2026-B1906B2E,CIT-000505,Ana D. Robles,Barangay Clearance,Robles Corp.,Sari-Sari Store,Highway Hills,2025-09-12T12:50:19,Released,2025-09-22T12:50:19,7,False
+PERMIT-2026-724CDE6C,CIT-000347,Bryan M. Sy,New Business Permit,,Tailoring Shop,Barangka Ilaya,2026-06-30T13:47:01,Expired,,5,True
+PERMIT-2026-57313032,CIT-000110,Emmanuel A. Pascual,Building Permit,Bagong Enterprises,Sari-Sari Store,Barangka Itaas,2025-10-27T10:58:00,Released,2025-11-08T10:58:00,13,True
+PERMIT-2026-779E43A0,CIT-000138,Liza T. Aguilar,Fire Safety Inspection Certificate,Bagong Enterprises,Laundry Shop,Malamig,2025-12-14T22:49:41,Pending Review,,6,True
+PERMIT-2026-56ADBDD7,CIT-000332,Erlinda G. Del Rosario,Sanitary Permit,Chua Enterprises,Grocery Store,Barangka Ibaba,2026-06-20T00:39:18,Released,2026-06-23T00:39:18,15,True
+PERMIT-2026-13C5210B,CIT-000270,Lourdes C. Uy,Fire Safety Inspection Certificate,,Tailoring Shop,Barangka Ibaba,2026-04-06T22:18:12,Approved,2026-04-15T22:18:12,13,True
+PERMIT-2026-ECF2ECA0,CIT-000020,Rafael C. Ocampo,Building Permit,Masaya General Merchandise,Tailoring Shop,Barangka Drive,2026-05-07T06:30:54,Approved,2026-05-15T06:30:54,18,True
+PERMIT-2026-36556106,CIT-000290,Paolo P. Pascual,Occupancy Permit,,Grocery Store,Mauway,2026-01-11T21:01:13,Released,2026-01-22T21:01:13,3,True
+PERMIT-2026-0E3DDE38,CIT-000133,Danilo O. Manalo,Building Permit,,Beauty Salon/Spa,Poblacion,2025-11-16T23:12:15,Pending Review,,4,True
+PERMIT-2026-33442E59,CIT-000398,Jasmin R. Garcia,Sanitary Permit,,Beauty Salon/Spa,Poblacion,2026-05-22T02:26:26,Released,2026-06-01T02:26:26,3,True
+PERMIT-2026-0A5A4A96,CIT-000214,Marites S. Cruz,Business Permit Renewal,Pag-Asa Foods,Real Estate Services,New Zaniga,2026-05-21T06:11:49,Released,2026-06-02T06:11:49,2,True
+PERMIT-2026-4CA3C9C8,CIT-000273,Charmaine T. Garcia,Business Permit Renewal,Ocampo General Merchandise,Restaurant/Eatery,Harapin Ang Bukas,2026-04-02T01:00:05,Pending Review,,4,True
+PERMIT-2026-96D622E2,CIT-000395,Ronnel R. Mendoza,Building Permit,Bayanihan General Merchandise,Auto Repair Shop,Hagdang Bato Itaas,2025-11-21T04:04:08,Under Evaluation,,15,True
+PERMIT-2026-E608C738,CIT-000438,Bryan L. Ocampo,Barangay Clearance,Ligaya General Merchandise,Laundry Shop,Pleasant Hills,2025-10-19T00:28:28,Under Evaluation,,15,False
+PERMIT-2026-D42AE3D4,CIT-000323,Nathaniel G. Gonzales,Occupancy Permit,Masaya General Merchandise,Grocery Store,Burol,2026-04-10T05:17:58,Approved,2026-04-14T05:17:58,13,True
+PERMIT-2026-0FC49A05,CIT-000261,Fe T. Garcia,Fire Safety Inspection Certificate,Santos Services,Laundry Shop,New Zaniga,2026-01-26T09:41:34,Released,2026-01-27T09:41:34,17,True
+PERMIT-2026-77CA946E,CIT-000310,Angelo F. Garcia,Building Permit,,Auto Repair Shop,Mauway,2025-09-11T03:23:45,Approved,2025-09-12T03:23:45,9,False
+PERMIT-2026-6E29946A,CIT-000159,Precious S. Mendoza,Fire Safety Inspection Certificate,Tahanan General Merchandise,Beauty Salon/Spa,Hagdang Bato Itaas,2025-10-15T04:59:23,Pending Review,,8,True
+PERMIT-2026-9941201C,CIT-000308,Fe R. Ocampo,Locational Clearance,Castillo Store,Auto Repair Shop,Addition Hills,2025-10-14T06:47:16,Denied,,16,True
+PERMIT-2026-1489D602,CIT-000098,Regina P. Aquino,Sanitary Permit,,Real Estate Services,Barangka Ilaya,2026-04-27T18:07:36,Expired,,19,True
+PERMIT-2026-79FC0E4F,CIT-000058,Precious C. Uy,Locational Clearance,Torres Store,Tailoring Shop,Malamig,2026-01-16T10:54:26,Approved,2026-01-30T10:54:26,20,False
+PERMIT-2026-76FBC755,CIT-000392,Miguel L. Reyes,New Business Permit,Sy Services,Grocery Store,Barangka Ibaba,2025-09-29T14:40:44,Approved,2025-10-11T14:40:44,8,True
+PERMIT-2026-F9EFC730,CIT-000403,Erlinda C. Sy,Business Permit Renewal,,Internet Cafe,Old Zaniga,2026-02-28T15:36:51,Denied,,13,True
+PERMIT-2026-2CEFC098,CIT-000345,Katherine R. Aguilar,New Business Permit,Marquez Corp.,Grocery Store,Burol,2025-10-10T15:32:46,Released,2025-10-17T15:32:46,5,True
+PERMIT-2026-DFF1B8CD,CIT-000493,Carlo P. Bermudez,Fire Safety Inspection Certificate,Sy General Merchandise,Laundry Shop,Pag-asa,2026-04-13T19:11:17,Under Evaluation,,17,True
+PERMIT-2026-D93111A0,CIT-000074,Rowena T. Domingo,Occupancy Permit,Sy Enterprises,Tailoring Shop,Hagdang Bato Libis,2025-12-20T23:51:57,Released,2025-12-27T23:51:57,14,True
+PERMIT-2026-BB08DCC8,CIT-000196,Corazon M. Dela Cruz,New Business Permit,Bagong General Merchandise,Retail Trading,Bagong Silang,2026-01-11T03:40:05,Approved,2026-01-19T03:40:05,2,False
+PERMIT-2026-39374A09,CIT-000240,Fe T. Pascual,Occupancy Permit,,Photocopy/Printing Services,Namayan,2025-11-25T03:22:15,Expired,,3,True
+PERMIT-2026-3DED34C0,CIT-000056,Antonio B. Bermudez,Barangay Clearance,Pascual Services,Photocopy/Printing Services,Namayan,2025-12-11T23:32:39,Denied,,4,True
+PERMIT-2026-BDF6EB32,CIT-000483,Grace R. Tan,Building Permit,Castillo General Merchandise,Grocery Store,Hagdang Bato Libis,2025-09-17T10:11:52,Approved,2025-09-30T10:11:52,9,True
+PERMIT-2026-D52128CB,CIT-000145,Jocelyn A. Aguilar,New Business Permit,Sarmiento Services,Retail Trading,Barangka Drive,2026-06-05T12:42:09,Expired,,2,True
+PERMIT-2026-11E9509E,CIT-000278,Danilo U. Mendoza,New Business Permit,,Tailoring Shop,Harapin Ang Bukas,2025-09-29T04:57:37,Released,2025-10-04T04:57:37,12,True
+PERMIT-2026-9AF415AD,CIT-000020,Rafael C. Ocampo,Locational Clearance,,Bakery,Barangka Drive,2025-12-31T04:25:34,Expired,,17,False
+PERMIT-2026-FD698699,CIT-000102,Julius C. Mendoza,Business Permit Renewal,,Grocery Store,Pleasant Hills,2026-01-09T02:25:57,Released,2026-01-17T02:25:57,18,False
+PERMIT-2026-32520017,CIT-000023,Rafael V. Villanueva,Sanitary Permit,Manalo Enterprises,Auto Repair Shop,Barangka Ilaya,2025-09-24T00:41:21,Under Evaluation,,12,True
+PERMIT-2026-CE915186,CIT-000310,Angelo F. Garcia,Sanitary Permit,Mabuhay General Merchandise,Internet Cafe,Mauway,2025-12-09T07:45:28,Denied,,8,True
+PERMIT-2026-CE2B5379,CIT-000403,Erlinda C. Sy,Business Permit Renewal,Sarmiento Corp.,Beauty Salon/Spa,Old Zaniga,2026-05-21T17:13:04,Under Evaluation,,19,True
+PERMIT-2026-ED73DF21,CIT-000320,Corazon E. Salazar,Fire Safety Inspection Certificate,Castillo General Merchandise,Grocery Store,New Zaniga,2026-05-01T16:37:01,Approved,2026-05-12T16:37:01,7,True
+PERMIT-2026-24D83EFB,CIT-000317,Renato D. Bermudez,Barangay Clearance,Aquino Services,Restaurant/Eatery,Burol,2026-06-02T23:45:15,Expired,,18,True
+PERMIT-2026-EF868286,CIT-000122,Ramon L. Salazar,Barangay Clearance,Pag-Asa Foods,Pharmacy,Addition Hills,2025-11-19T02:26:04,Approved,2025-12-01T02:26:04,9,True
+PERMIT-2026-A70BAF2C,CIT-000193,Reynaldo S. Aguilar,Barangay Clearance,,Laundry Shop,Buayang Bato,2025-10-20T01:21:06,Under Evaluation,,20,True
+PERMIT-2026-79650828,CIT-000237,Katherine C. Garcia,Building Permit,Rivera Store,Real Estate Services,Barangka Drive,2026-04-28T04:39:16,Under Evaluation,,16,True
+PERMIT-2026-7F1AE378,CIT-000481,Eduardo M. Torres,Occupancy Permit,,Bakery,Highway Hills,2026-06-12T02:40:09,Expired,,16,True
+PERMIT-2026-B6795D61,CIT-000168,Vincent L. Mendoza,New Business Permit,Pag-Asa Enterprises,Photocopy/Printing Services,Barangka Ilaya,2025-11-22T15:28:55,Under Evaluation,,7,True
+PERMIT-2026-992E4C6B,CIT-000068,Kristine L. Uy,Fire Safety Inspection Certificate,Espiritu Corp.,Bakery,Hulo,2025-11-16T08:39:30,Released,2025-11-29T08:39:30,2,True
+PERMIT-2026-1DA94DD4,CIT-000390,Cristina C. Ocampo,Locational Clearance,Sy General Merchandise,Restaurant/Eatery,Hagdang Bato Itaas,2026-06-15T06:55:44,Approved,2026-06-23T06:55:44,15,True
+PERMIT-2026-3A619D1D,CIT-000044,Kristine T. Robles,Locational Clearance,Mabuhay Enterprises,Internet Cafe,New Zaniga,2025-12-13T00:27:42,Denied,,15,True
+PERMIT-2026-CB57BE90,CIT-000312,Christian T. Ramos,Barangay Clearance,Bautista Corp.,IT/Software Services,Pleasant Hills,2025-12-28T15:05:13,Released,2026-01-08T15:05:13,15,True
+PERMIT-2026-BC91ED0B,CIT-000513,Juan C. Panganiban,Barangay Clearance,Mabuhay Enterprises,Pharmacy,Hulo,2025-10-22T13:00:20,Under Evaluation,,19,False
+PERMIT-2026-C62681B5,CIT-000207,Fe C. Pascual,Sanitary Permit,Flores Enterprises,Restaurant/Eatery,Hagdang Bato Libis,2026-03-04T04:07:28,Pending Review,,15,True
+PERMIT-2026-87F91767,CIT-000088,Eduardo B. Rivera,Locational Clearance,Robles Corp.,Grocery Store,Hagdang Bato Libis,2026-03-31T00:30:04,Expired,,13,True
+PERMIT-2026-266AD027,CIT-000175,Ana A. Rivera,Barangay Clearance,,Retail Trading,Pag-asa,2026-01-16T18:23:47,Denied,,6,True
+PERMIT-2026-D5D454DF,CIT-000053,Fe R. Custodio,Sanitary Permit,Ligaya Trading,Food Cart/Kiosk,Wack-Wack Greenhills,2026-02-18T12:57:17,Approved,2026-02-21T12:57:17,7,True
+PERMIT-2026-06ACC50F,CIT-000260,Angelica G. Reyes,Fire Safety Inspection Certificate,Uy General Merchandise,Food Cart/Kiosk,Namayan,2025-09-13T07:57:16,Released,2025-09-21T07:57:16,8,True
+PERMIT-2026-DCEFE503,CIT-000488,Regina E. Ramos,Fire Safety Inspection Certificate,,Laundry Shop,Pleasant Hills,2026-03-03T19:19:09,Released,2026-03-04T19:19:09,8,False
+PERMIT-2026-AD6AE85E,CIT-000285,Christian G. Cruz,Building Permit,,Retail Trading,Namayan,2026-05-07T06:48:29,Expired,,2,True
+PERMIT-2026-1C90AEA8,CIT-000038,Noel C. Rivera,Sanitary Permit,Garcia Enterprises,Bakery,Plainview,2025-11-04T01:09:27,Pending Review,,6,True
+PERMIT-2026-CCDFBCD5,CIT-000292,Cherry S. Aquino,Barangay Clearance,Mabuhay Trading,Real Estate Services,Pag-asa,2026-05-03T21:56:21,Expired,,10,True
+PERMIT-2026-AA87AA14,CIT-000389,Juan S. Santos,Business Permit Renewal,,Retail Trading,Pleasant Hills,2025-10-04T20:52:08,Released,2025-10-06T20:52:08,9,True
+PERMIT-2026-19F017F3,CIT-000424,Lourdes T. Bautista,Building Permit,Mendoza Corp.,Photocopy/Printing Services,Hulo,2026-03-31T08:13:37,Under Evaluation,,20,False
+PERMIT-2026-1F3E38AB,CIT-000295,Rowena P. Aguilar,Occupancy Permit,,Laundry Shop,Namayan,2026-02-21T10:35:53,Denied,,20,True
+PERMIT-2026-FEED272A,CIT-000133,Danilo O. Manalo,Fire Safety Inspection Certificate,Ligaya General Merchandise,Beauty Salon/Spa,Poblacion,2026-05-05T03:46:03,Denied,,10,False
+PERMIT-2026-A6425E0E,CIT-000002,Danilo C. Alonzo,Fire Safety Inspection Certificate,Torres Food House,Laundry Shop,Barangka Drive,2025-10-24T11:56:25,Pending Review,,14,True
+PERMIT-2026-1B7BC3DD,CIT-000342,Juan L. Sarmiento,Building Permit,,Beauty Salon/Spa,Hagdang Bato Libis,2026-01-22T09:08:40,Denied,,10,True
+PERMIT-2026-BE2D80F2,CIT-000070,Cristina C. Panganiban,Occupancy Permit,Tahanan Services,Photocopy/Printing Services,Vergara,2026-01-06T02:49:05,Approved,2026-01-16T02:49:05,20,False
+PERMIT-2026-CF0B1609,CIT-000180,Josephine D. Torres,Occupancy Permit,Mabuhay Enterprises,Pharmacy,Mabini-J. Rizal,2025-11-22T22:31:34,Approved,2025-11-25T22:31:34,15,False
+PERMIT-2026-39841386,CIT-000344,Angel N. Mendoza,New Business Permit,Mabuhay Enterprises,Laundry Shop,Hagdang Bato Libis,2026-03-07T04:42:12,Released,2026-03-18T04:42:12,11,True
+PERMIT-2026-BE2118E9,CIT-000363,Jocelyn S. Gonzales,Sanitary Permit,Ligaya General Merchandise,Laundry Shop,Addition Hills,2025-10-04T07:19:12,Under Evaluation,,13,True
+PERMIT-2026-5B66EBBF,CIT-000120,Reynaldo C. Tan,Occupancy Permit,Bayanihan Services,Food Cart/Kiosk,Wack-Wack Greenhills,2026-06-27T11:01:56,Approved,2026-07-01T11:01:56,12,True
+PERMIT-2026-2CB06740,CIT-000310,Angelo F. Garcia,Sanitary Permit,,Auto Repair Shop,Mauway,2025-12-01T12:44:22,Denied,,2,True
+PERMIT-2026-1D3C1667,CIT-000095,Alvin G. Ocampo,New Business Permit,Robles Trading,Auto Repair Shop,Hagdang Bato Libis,2026-02-27T22:26:39,Denied,,16,True
+PERMIT-2026-A88D4E76,CIT-000318,Angelica B. Robles,Business Permit Renewal,Sarmiento Trading,Photocopy/Printing Services,Burol,2026-01-13T17:10:51,Under Evaluation,,2,True
+PERMIT-2026-D6D6C15F,CIT-000119,Grace C. Castillo,New Business Permit,Chua Services,Pharmacy,Bagong Silang,2025-09-10T04:28:36,Approved,2025-09-25T04:28:36,2,True
+PERMIT-2026-A3E5D5E8,CIT-000320,Corazon E. Salazar,Sanitary Permit,Masaya Enterprises,Internet Cafe,New Zaniga,2025-09-17T07:42:04,Denied,,9,True
+PERMIT-2026-107459F3,CIT-000452,Julius D. Robles,Sanitary Permit,,Internet Cafe,Barangka Itaas,2026-05-27T05:29:58,Pending Review,,4,True
+PERMIT-2026-A51F436B,CIT-000105,Rowena E. Santos,Occupancy Permit,Gonzales Store,Real Estate Services,Plainview,2025-11-27T19:36:38,Denied,,10,True
+PERMIT-2026-60286176,CIT-000176,Juan C. Aquino,Occupancy Permit,Bautista Enterprises,Pharmacy,Bagong Silang,2025-10-06T06:12:06,Approved,2025-10-21T06:12:06,2,True
+PERMIT-2026-D1A11137,CIT-000056,Antonio B. Bermudez,Locational Clearance,,Laundry Shop,Namayan,2025-10-12T00:51:45,Released,2025-10-27T00:51:45,19,True
+PERMIT-2026-8EACBC9B,CIT-000457,Manuel C. Del Rosario,Sanitary Permit,Villanueva Food House,Real Estate Services,Burol,2026-05-05T22:38:43,Approved,2026-05-13T22:38:43,19,True
+PERMIT-2026-A127C092,CIT-000480,Lourdes T. Custodio,Sanitary Permit,Masaya Enterprises,Retail Trading,San Jose,2025-10-16T08:43:36,Released,2025-10-30T08:43:36,20,True
+PERMIT-2026-ACA8F8B5,CIT-000373,Corazon P. Garcia,Occupancy Permit,Bagong Trading,Restaurant/Eatery,Highway Hills,2026-02-07T20:35:30,Under Evaluation,,16,True
+PERMIT-2026-DC4FCB93,CIT-000491,Jocelyn G. Manalo,Sanitary Permit,Chua General Merchandise,Restaurant/Eatery,Barangka Itaas,2026-03-06T17:15:14,Under Evaluation,,13,True
+PERMIT-2026-B4910C9F,CIT-000110,Emmanuel A. Pascual,Business Permit Renewal,Pag-Asa General Merchandise,Bakery,Barangka Itaas,2026-01-13T03:29:45,Denied,,8,True
+PERMIT-2026-8ED5DDA0,CIT-000163,Noel R. Garcia,Business Permit Renewal,Pag-Asa General Merchandise,Real Estate Services,Buayang Bato,2026-03-14T22:13:39,Released,2026-03-20T22:13:39,18,True
+PERMIT-2026-6E963E31,CIT-000178,Manuel M. Dela Cruz,Business Permit Renewal,Bayanihan General Merchandise,Laundry Shop,Pag-asa,2026-05-23T22:09:49,Expired,,15,True
+PERMIT-2026-5046E8FB,CIT-000100,Karen G. Manalo,Sanitary Permit,Ocampo Store,IT/Software Services,Plainview,2026-02-28T11:53:09,Under Evaluation,,20,True
+PERMIT-2026-B83D3B57,CIT-000389,Juan S. Santos,New Business Permit,,IT/Software Services,Pleasant Hills,2026-01-13T17:50:09,Released,2026-01-16T17:50:09,19,False
+PERMIT-2026-6AFE5EE4,CIT-000001,Juan S. Gonzales,Barangay Clearance,Bagong Enterprises,Beauty Salon/Spa,Barangka Ilaya,2026-06-29T14:38:44,Under Evaluation,,11,True
+PERMIT-2026-8380B60A,CIT-000312,Christian T. Ramos,Occupancy Permit,Lim General Merchandise,Grocery Store,Pleasant Hills,2026-02-24T10:07:10,Expired,,13,True
+PERMIT-2026-38FCC5EB,CIT-000302,Bryan O. Aquino,New Business Permit,,Grocery Store,Old Zaniga,2025-10-02T19:52:42,Approved,2025-10-16T19:52:42,12,True
+PERMIT-2026-1107451F,CIT-000289,Cristina C. Del Rosario,Locational Clearance,Pag-Asa Services,Bakery,Vergara,2025-09-20T16:49:58,Under Evaluation,,14,True
+PERMIT-2026-A71CFC91,CIT-000178,Manuel M. Dela Cruz,Building Permit,Ligaya Foods,IT/Software Services,Pag-asa,2026-03-12T00:17:32,Under Evaluation,,5,True
+PERMIT-2026-12A0DEA8,CIT-000074,Rowena T. Domingo,Barangay Clearance,Ligaya Trading,Retail Trading,Hagdang Bato Libis,2026-05-18T09:35:44,Pending Review,,14,True
+PERMIT-2026-03543B14,CIT-000436,Antonio B. Ocampo,Fire Safety Inspection Certificate,Pag-Asa Foods,Beauty Salon/Spa,Vergara,2026-05-08T15:16:00,Under Evaluation,,6,True
+PERMIT-2026-E47F965A,CIT-000008,Arnel U. Flores,Building Permit,Tahanan Trading,Sari-Sari Store,Barangka Itaas,2026-04-21T00:56:50,Released,2026-05-01T00:56:50,16,True
+PERMIT-2026-C29C9EC5,CIT-000116,Ma. Theresa U. Dela Cruz,Business Permit Renewal,,Photocopy/Printing Services,New Zaniga,2026-04-21T22:40:01,Released,2026-04-30T22:40:01,9,True
+PERMIT-2026-5FC671B7,CIT-000081,Julius C. Castillo,Business Permit Renewal,,Tailoring Shop,Plainview,2026-03-30T20:12:31,Denied,,3,True
+PERMIT-2026-5724A08C,CIT-000320,Corazon E. Salazar,Occupancy Permit,Bagong General Merchandise,Food Cart/Kiosk,New Zaniga,2026-05-04T16:06:31,Pending Review,,16,True
+PERMIT-2026-D4F5A4BC,CIT-000340,Erlinda L. Rivera,Sanitary Permit,,Sari-Sari Store,Pleasant Hills,2026-02-19T02:19:28,Approved,2026-03-03T02:19:28,20,True
+PERMIT-2026-7B90043B,CIT-000267,Kevin R. Tan,Fire Safety Inspection Certificate,Sy Store,Internet Cafe,Pleasant Hills,2025-10-02T10:37:30,Expired,,20,True
+PERMIT-2026-89D2A9D0,CIT-000497,Marites T. Garcia,Business Permit Renewal,Ligaya General Merchandise,Internet Cafe,Mabini-J. Rizal,2025-10-10T15:13:13,Under Evaluation,,9,True
+PERMIT-2026-B2ECF28D,CIT-000015,Divina R. Ramos,Barangay Clearance,Tahanan Enterprises,Internet Cafe,Pag-asa,2026-06-23T12:47:26,Pending Review,,8,True
+PERMIT-2026-7C6A490D,CIT-000034,Angelo C. Pascual,Barangay Clearance,Pag-Asa Services,Beauty Salon/Spa,Pleasant Hills,2026-01-19T17:44:41,Pending Review,,15,True
+PERMIT-2026-C7CF8DA8,CIT-000172,Marites C. Manalo,Occupancy Permit,,Internet Cafe,Hagdang Bato Libis,2025-11-29T11:29:50,Denied,,4,True
+PERMIT-2026-E8930273,CIT-000476,Arnel C. Flores,Sanitary Permit,Uy Corp.,Tailoring Shop,Burol,2026-02-10T10:44:27,Released,2026-02-22T10:44:27,13,True
+PERMIT-2026-230F9D6A,CIT-000149,Jose C. Salazar,New Business Permit,,Real Estate Services,Mauway,2026-04-02T14:14:56,Released,2026-04-10T14:14:56,13,True
+PERMIT-2026-0BF6F9D9,CIT-000043,Mark R. Marquez,Occupancy Permit,Tahanan Foods,Internet Cafe,Bagong Silang,2025-10-16T09:40:16,Denied,,4,True
+PERMIT-2026-6FBD6D6B,CIT-000401,Marites D. Garcia,Building Permit,Lim General Merchandise,Auto Repair Shop,Barangka Itaas,2026-03-06T16:00:48,Expired,,6,True
+PERMIT-2026-AA4442D4,CIT-000011,Corazon A. Lim,Business Permit Renewal,,Restaurant/Eatery,Harapin Ang Bukas,2026-05-27T21:08:16,Pending Review,,17,True
+PERMIT-2026-3CCC5649,CIT-000457,Manuel C. Del Rosario,Sanitary Permit,,Sari-Sari Store,Burol,2026-01-23T02:32:25,Under Evaluation,,1,True
+PERMIT-2026-EB11BA20,CIT-000059,Marianne F. Manalo,Building Permit,Torres Enterprises,IT/Software Services,Barangka Ilaya,2026-04-27T07:56:34,Expired,,20,True
+PERMIT-2026-BC1205CE,CIT-000190,Carlo B. Custodio,Barangay Clearance,,Pharmacy,Mabini-J. Rizal,2025-10-21T15:19:15,Expired,,3,True
+PERMIT-2026-2D23C67D,CIT-000284,Marianne B. Panganiban,Occupancy Permit,,Real Estate Services,Malamig,2026-07-04T09:07:00,Released,2026-07-06T09:07:00,9,True
+PERMIT-2026-E0D38FBB,CIT-000392,Miguel L. Reyes,New Business Permit,,IT/Software Services,Barangka Ibaba,2026-02-06T12:05:43,Approved,2026-02-11T12:05:43,6,True
+PERMIT-2026-6EFA8997,CIT-000504,Kevin A. Rivera,Locational Clearance,,Pharmacy,Mabini-J. Rizal,2025-11-25T12:32:30,Denied,,4,True
+PERMIT-2026-638E5F3B,CIT-000442,Christian R. Castillo,Business Permit Renewal,Marquez Enterprises,Restaurant/Eatery,Hulo,2025-12-02T09:40:46,Denied,,3,True
+PERMIT-2026-7E8018F0,CIT-000257,Charmaine L. Ramos,Fire Safety Inspection Certificate,,Tailoring Shop,Barangka Drive,2026-02-28T18:05:31,Pending Review,,1,False
+PERMIT-2026-16A8ABD6,CIT-000400,Charmaine M. Torres,Occupancy Permit,Sy General Merchandise,Photocopy/Printing Services,Addition Hills,2025-12-21T01:32:16,Under Evaluation,,16,True
+PERMIT-2026-32597E76,CIT-000414,Josephine V. Espiritu,Building Permit,,Photocopy/Printing Services,Barangka Ibaba,2026-06-18T05:27:14,Pending Review,,16,True
+PERMIT-2026-40BED809,CIT-000368,Fe G. Aguilar,Sanitary Permit,Tahanan Trading,IT/Software Services,Old Zaniga,2026-01-16T02:03:12,Expired,,15,True
+PERMIT-2026-D2D4CD36,CIT-000297,Ma. Theresa A. Santos,Barangay Clearance,Tolentino Services,Photocopy/Printing Services,Pleasant Hills,2026-05-18T04:02:03,Under Evaluation,,13,False
+PERMIT-2026-BBF84822,CIT-000368,Fe G. Aguilar,Fire Safety Inspection Certificate,Del Rosario Trading,Sari-Sari Store,Old Zaniga,2026-03-16T12:42:42,Pending Review,,19,True
+PERMIT-2026-8E2A15AB,CIT-000399,Rowena B. Espiritu,Sanitary Permit,Custodio Enterprises,Auto Repair Shop,Wack-Wack Greenhills,2025-10-03T01:18:13,Denied,,2,True
+PERMIT-2026-3195A726,CIT-000044,Kristine T. Robles,Building Permit,Ligaya General Merchandise,Beauty Salon/Spa,New Zaniga,2026-02-13T01:46:37,Pending Review,,3,True
+PERMIT-2026-14C6B87F,CIT-000145,Jocelyn A. Aguilar,New Business Permit,Cruz Store,Tailoring Shop,Barangka Drive,2026-03-17T10:59:56,Expired,,5,True
+PERMIT-2026-0D701C53,CIT-000052,Ana S. Tan,Fire Safety Inspection Certificate,Lim Food House,IT/Software Services,Mabini-J. Rizal,2026-01-05T22:45:41,Pending Review,,4,True
+PERMIT-2026-EE829037,CIT-000226,Lourdes U. Ocampo,Locational Clearance,Bayanihan General Merchandise,Grocery Store,Barangka Drive,2025-10-03T02:23:55,Under Evaluation,,5,True
+PERMIT-2026-3CECA37E,CIT-000219,Angelo S. Dela Cruz,Barangay Clearance,Ligaya Services,Retail Trading,Plainview,2026-07-02T09:17:24,Pending Review,,12,True
+PERMIT-2026-2841B068,CIT-000450,Precious L. Uy,New Business Permit,,Real Estate Services,Harapin Ang Bukas,2025-12-12T05:06:08,Denied,,20,True
+PERMIT-2026-4E809C2D,CIT-000162,Erlinda D. Aquino,Business Permit Renewal,,Retail Trading,Hagdang Bato Itaas,2025-09-14T15:51:18,Released,2025-09-29T15:51:18,3,True
+PERMIT-2026-A0BA44BF,CIT-000291,Angelo D. Del Rosario,Fire Safety Inspection Certificate,Castillo Store,Internet Cafe,Barangka Ilaya,2026-02-17T05:38:32,Expired,,17,True
+PERMIT-2026-9513CB7B,CIT-000245,Manuel O. Cruz,New Business Permit,Panganiban Store,IT/Software Services,San Jose,2025-11-15T09:05:02,Denied,,10,True
+PERMIT-2026-25398C33,CIT-000005,Kristine C. Marquez,Building Permit,,Grocery Store,Namayan,2026-04-13T04:24:27,Under Evaluation,,4,True
+PERMIT-2026-8FEB9B1F,CIT-000520,Lourdes A. Chua,Building Permit,,Beauty Salon/Spa,San Jose,2025-12-02T17:58:18,Released,2025-12-04T17:58:18,5,True
+PERMIT-2026-223259A8,CIT-000486,Alvin D. Lazaro,Barangay Clearance,Cruz Store,Auto Repair Shop,Malamig,2026-03-20T19:20:39,Under Evaluation,,10,True
+PERMIT-2026-1269EB30,CIT-000258,Jasmin A. Tolentino,Fire Safety Inspection Certificate,,Photocopy/Printing Services,Hagdang Bato Libis,2026-01-16T10:01:18,Denied,,2,False
+PERMIT-2026-AF7C4106,CIT-000181,Marianne O. Rivera,Fire Safety Inspection Certificate,Ocampo Store,Pharmacy,Hagdang Bato Itaas,2025-11-08T23:15:42,Pending Review,,19,True
+PERMIT-2026-2616F3B5,CIT-000430,Grace D. Rivera,Occupancy Permit,,Restaurant/Eatery,Plainview,2025-11-24T18:40:02,Expired,,11,True
+PERMIT-2026-60A7BA1D,CIT-000243,Ricardo S. Sy,Building Permit,Domingo Corp.,Laundry Shop,Namayan,2026-06-22T02:28:42,Released,2026-06-30T02:28:42,2,False
+PERMIT-2026-E548B1B5,CIT-000149,Jose C. Salazar,Fire Safety Inspection Certificate,,Auto Repair Shop,Mauway,2025-12-01T12:58:31,Denied,,5,True
+PERMIT-2026-A8FBB525,CIT-000199,Jose D. Cruz,Sanitary Permit,,Retail Trading,Vergara,2026-05-12T01:02:01,Approved,2026-05-13T01:02:01,19,True
+PERMIT-2026-4D2224D8,CIT-000140,Alvin S. Aguilar,Fire Safety Inspection Certificate,Navarro Services,Laundry Shop,New Zaniga,2025-10-21T17:47:00,Released,2025-10-24T17:47:00,20,False
+PERMIT-2026-1B9DA5EE,CIT-000236,Marlon B. Espiritu,Fire Safety Inspection Certificate,Bagong Foods,Sari-Sari Store,Hulo,2025-10-12T04:10:09,Released,2025-10-24T04:10:09,14,True
+PERMIT-2026-6F211456,CIT-000253,Carlo R. Aguilar,Locational Clearance,Lim General Merchandise,Food Cart/Kiosk,New Zaniga,2025-12-13T20:07:35,Approved,2025-12-14T20:07:35,14,False
+PERMIT-2026-06BEC37D,CIT-000042,Rowena G. Ocampo,New Business Permit,Bayanihan Services,Pharmacy,Pag-asa,2026-03-10T08:58:13,Expired,,8,True
+PERMIT-2026-B85D98BC,CIT-000013,Divina T. Marquez,Locational Clearance,Malinis Enterprises,Tailoring Shop,Plainview,2026-06-04T18:53:16,Expired,,3,True
+PERMIT-2026-6C3088C0,CIT-000313,Cristina D. Dela Cruz,Fire Safety Inspection Certificate,Lim Corp.,Pharmacy,Poblacion,2025-11-10T10:16:54,Expired,,5,True
+PERMIT-2026-12EE96ED,CIT-000416,Vilma R. Robles,Fire Safety Inspection Certificate,Santos Corp.,Food Cart/Kiosk,Poblacion,2025-11-19T09:59:21,Approved,2025-12-01T09:59:21,11,True
+PERMIT-2026-D8A286A7,CIT-000304,Charmaine D. Aguilar,Building Permit,Mabuhay General Merchandise,Food Cart/Kiosk,Daang Bakal,2026-02-20T23:52:00,Approved,2026-03-03T23:52:00,12,False
+PERMIT-2026-51403A92,CIT-000114,Arnel A. Tan,Fire Safety Inspection Certificate,Ligaya General Merchandise,Photocopy/Printing Services,Pag-asa,2026-02-04T07:34:09,Approved,2026-02-06T07:34:09,18,True
+PERMIT-2026-1EA53C04,CIT-000210,Arnel S. Lim,Building Permit,Lazaro Food House,Photocopy/Printing Services,Bagong Silang,2025-11-01T08:12:20,Approved,2025-11-14T08:12:20,8,True
+PERMIT-2026-3D325DDD,CIT-000274,Jennylyn M. Lazaro,Locational Clearance,,Restaurant/Eatery,Poblacion,2026-03-23T03:44:42,Expired,,12,True
+PERMIT-2026-C685517E,CIT-000498,Charmaine M. Sy,Business Permit Renewal,Bagong General Merchandise,Auto Repair Shop,Barangka Drive,2026-03-22T08:01:25,Denied,,3,True
+PERMIT-2026-F51CEBC9,CIT-000469,Nathaniel B. Aguilar,Locational Clearance,Pascual Enterprises,Retail Trading,Barangka Ibaba,2025-10-12T11:56:47,Pending Review,,9,True
+PERMIT-2026-C59A0BF7,CIT-000152,Jasmin G. Chua,Building Permit,Pag-Asa General Merchandise,Food Cart/Kiosk,Namayan,2026-03-20T08:17:20,Under Evaluation,,5,True
+PERMIT-2026-6756B6B2,CIT-000431,Precious T. Santos,New Business Permit,,Restaurant/Eatery,Mabini-J. Rizal,2026-02-27T23:14:43,Expired,,1,True
+PERMIT-2026-DECC0ECB,CIT-000238,Alvin V. Ocampo,Occupancy Permit,Bagong General Merchandise,Tailoring Shop,Malamig,2026-03-29T09:23:02,Expired,,17,True
+PERMIT-2026-3F9AA4A1,CIT-000456,Manuel T. Marquez,Barangay Clearance,Fernandez Food House,Internet Cafe,Mauway,2026-03-05T11:06:19,Approved,2026-03-09T11:06:19,16,True
+PERMIT-2026-794ABDB0,CIT-000296,Marites C. Bautista,Barangay Clearance,Espiritu General Merchandise,Food Cart/Kiosk,Pag-asa,2026-07-04T12:45:27,Pending Review,,6,True
+PERMIT-2026-27781DE7,CIT-000293,Ricardo G. Robles,Barangay Clearance,,Restaurant/Eatery,Mabini-J. Rizal,2025-11-18T09:08:50,Under Evaluation,,2,False
+PERMIT-2026-3C36C7BD,CIT-000130,Jocelyn P. Bautista,Occupancy Permit,,Grocery Store,Harapin Ang Bukas,2026-02-26T19:32:59,Approved,2026-03-10T19:32:59,2,True
+PERMIT-2026-4CB68C62,CIT-000353,Cristina M. Bautista,Fire Safety Inspection Certificate,Bayanihan Trading,Bakery,Buayang Bato,2025-11-05T01:06:36,Approved,2025-11-20T01:06:36,16,True
+PERMIT-2026-A94027F7,CIT-000470,Angel G. Dela Cruz,New Business Permit,Malinis Services,Food Cart/Kiosk,San Jose,2026-01-10T22:49:02,Under Evaluation,,10,False
+PERMIT-2026-D4C8467D,CIT-000151,Liza C. Marquez,Fire Safety Inspection Certificate,Mabuhay Enterprises,Tailoring Shop,Hagdang Bato Libis,2026-04-16T02:30:34,Expired,,18,True
+PERMIT-2026-87D9A38B,CIT-000026,Rowena P. Espiritu,Building Permit,Mabuhay General Merchandise,Tailoring Shop,Pleasant Hills,2026-02-11T13:37:55,Denied,,7,True
+PERMIT-2026-E75C1379,CIT-000228,Bryan T. Rivera,Building Permit,,Grocery Store,Namayan,2026-07-03T12:00:53,Approved,2026-07-17T12:00:53,15,True
+PERMIT-2026-19727F90,CIT-000090,Jocelyn S. Robles,Building Permit,Chua Store,Auto Repair Shop,Hulo,2026-03-26T08:22:31,Released,2026-04-02T08:22:31,5,True
+PERMIT-2026-603C63E8,CIT-000438,Bryan L. Ocampo,Occupancy Permit,,Auto Repair Shop,Pleasant Hills,2026-01-30T03:22:15,Released,2026-02-05T03:22:15,10,False
+PERMIT-2026-28464267,CIT-000090,Jocelyn S. Robles,Fire Safety Inspection Certificate,Malinis Enterprises,Real Estate Services,Hulo,2025-12-01T08:35:40,Expired,,14,True
+PERMIT-2026-997DED0B,CIT-000425,Josephine D. Custodio,Business Permit Renewal,,Internet Cafe,San Jose,2025-11-01T19:02:06,Denied,,16,False
+PERMIT-2026-2E89D7DF,CIT-000344,Angel N. Mendoza,Locational Clearance,,Bakery,Hagdang Bato Libis,2025-10-04T06:24:49,Denied,,9,True
+PERMIT-2026-96758C80,CIT-000474,Michelle G. Dela Cruz,Barangay Clearance,,IT/Software Services,Poblacion,2026-06-11T10:09:06,Denied,,13,True
+PERMIT-2026-B0A0DC4C,CIT-000503,Michelle P. Salazar,Sanitary Permit,Espiritu Enterprises,Real Estate Services,Pag-asa,2025-09-24T23:48:33,Approved,2025-09-25T23:48:33,5,True
+PERMIT-2026-4E3106BE,CIT-000484,Eduardo S. Villanueva,Sanitary Permit,Panganiban Enterprises,Restaurant/Eatery,Daang Bakal,2025-10-26T19:34:58,Expired,,9,True
+PERMIT-2026-C4F80F05,CIT-000069,Angelo S. Custodio,Occupancy Permit,Malinis Services,Photocopy/Printing Services,New Zaniga,2026-04-29T04:14:30,Expired,,4,True
+PERMIT-2026-DADFAC46,CIT-000018,Josephine V. Uy,New Business Permit,,Pharmacy,Highway Hills,2025-12-18T09:13:54,Under Evaluation,,5,True
+PERMIT-2026-38E335FA,CIT-000055,Angelo A. Navarro,Locational Clearance,Rivera Services,Internet Cafe,Barangka Ilaya,2025-12-23T11:38:30,Approved,2026-01-01T11:38:30,3,True
+PERMIT-2026-ABD6977D,CIT-000188,Antonio S. Cruz,Barangay Clearance,Malinis Foods,Restaurant/Eatery,Pag-asa,2026-07-02T13:35:29,Pending Review,,18,True
+PERMIT-2026-89D9547F,CIT-000148,Paolo L. Chua,Sanitary Permit,Tahanan Enterprises,Restaurant/Eatery,Bagong Silang,2025-09-13T14:23:05,Under Evaluation,,7,True
+PERMIT-2026-1D27BDB6,CIT-000227,Julius D. Bermudez,Business Permit Renewal,Ocampo Food House,Retail Trading,Mabini-J. Rizal,2025-11-20T18:20:30,Denied,,1,True
+PERMIT-2026-89E23483,CIT-000320,Corazon E. Salazar,Barangay Clearance,Ligaya Foods,Sari-Sari Store,New Zaniga,2026-06-03T23:13:45,Approved,2026-06-15T23:13:45,4,True
+PERMIT-2026-86F9817D,CIT-000146,Ramon O. Robles,Sanitary Permit,,Retail Trading,Mabini-J. Rizal,2026-06-02T19:14:03,Under Evaluation,,3,True
+PERMIT-2026-0D632514,CIT-000115,John C. Cruz,Fire Safety Inspection Certificate,Cruz Enterprises,Sari-Sari Store,Malamig,2025-10-08T18:42:55,Pending Review,,17,True
+PERMIT-2026-A0CB6431,CIT-000481,Eduardo M. Torres,New Business Permit,,Tailoring Shop,Highway Hills,2025-10-24T18:36:19,Approved,2025-10-25T18:36:19,4,True
+PERMIT-2026-67E7713B,CIT-000211,Karen M. Lazaro,Barangay Clearance,Reyes Trading,IT/Software Services,Addition Hills,2026-04-24T19:01:38,Under Evaluation,,9,False
+PERMIT-2026-F8EA477B,CIT-000357,Grace T. Uy,Building Permit,Ocampo Food House,Laundry Shop,Harapin Ang Bukas,2026-01-23T08:56:32,Under Evaluation,,1,True
+PERMIT-2026-9A803712,CIT-000197,Grace R. Tolentino,New Business Permit,Mendoza General Merchandise,IT/Software Services,San Jose,2025-12-27T01:15:56,Under Evaluation,,16,True
+PERMIT-2026-4ADFD25D,CIT-000190,Carlo B. Custodio,Business Permit Renewal,,Auto Repair Shop,Mabini-J. Rizal,2026-02-26T08:09:09,Expired,,13,True
+PERMIT-2026-365FFA4B,CIT-000234,Bryan T. Alonzo,Occupancy Permit,,Restaurant/Eatery,Bagong Silang,2026-02-13T21:04:19,Pending Review,,17,True
+PERMIT-2026-287C0828,CIT-000370,Jasmin S. Sarmiento,New Business Permit,,Pharmacy,Barangka Itaas,2026-06-09T06:44:17,Approved,2026-06-11T06:44:17,13,True
+PERMIT-2026-0B31FC0E,CIT-000320,Corazon E. Salazar,Building Permit,Masaya Trading,Food Cart/Kiosk,New Zaniga,2026-06-02T09:54:28,Released,2026-06-16T09:54:28,16,False
+PERMIT-2026-42C5151E,CIT-000377,Angel S. Mendoza,Fire Safety Inspection Certificate,Bayanihan Trading,Retail Trading,Namayan,2025-11-17T05:20:30,Pending Review,,13,True
+PERMIT-2026-5DF4A0EB,CIT-000105,Rowena E. Santos,Business Permit Renewal,Masaya General Merchandise,IT/Software Services,Plainview,2026-06-23T12:49:06,Under Evaluation,,13,True
+PERMIT-2026-C5366496,CIT-000435,Perla C. Mendoza,Sanitary Permit,Pag-Asa Foods,Pharmacy,Pag-asa,2026-06-17T05:31:42,Released,2026-06-28T05:31:42,20,False
+PERMIT-2026-4DA099DF,CIT-000497,Marites T. Garcia,Barangay Clearance,Mendoza Services,Pharmacy,Mabini-J. Rizal,2026-03-26T04:53:55,Approved,2026-04-03T04:53:55,8,True
+PERMIT-2026-A639C74A,CIT-000138,Liza T. Aguilar,New Business Permit,Panganiban Trading,Bakery,Malamig,2025-09-20T03:12:47,Pending Review,,20,True
+PERMIT-2026-F4EDA1EE,CIT-000157,Michelle S. Uy,Business Permit Renewal,Bagong Enterprises,Internet Cafe,Vergara,2026-01-04T04:01:43,Denied,,16,True
+PERMIT-2026-936B8BC4,CIT-000268,Marianne D. Panganiban,New Business Permit,Bayanihan Services,Pharmacy,Burol,2026-04-07T06:03:34,Approved,2026-04-13T06:03:34,13,True
+PERMIT-2026-41F2FD6F,CIT-000037,Renato D. Cruz,Sanitary Permit,Pag-Asa Enterprises,Internet Cafe,Hulo,2025-09-21T08:26:43,Under Evaluation,,13,True
+PERMIT-2026-C86D98F7,CIT-000113,Marianne L. Marquez,Fire Safety Inspection Certificate,Bagong General Merchandise,IT/Software Services,Wack-Wack Greenhills,2026-04-17T12:17:05,Expired,,6,True
+PERMIT-2026-A872AD09,CIT-000401,Marites D. Garcia,Locational Clearance,Tahanan Trading,Sari-Sari Store,Barangka Itaas,2025-12-19T21:09:06,Released,2025-12-29T21:09:06,2,True
+PERMIT-2026-49E5B4E1,CIT-000376,Marites R. Tolentino,New Business Permit,Bayanihan Services,Auto Repair Shop,Daang Bakal,2026-01-22T01:56:14,Expired,,12,True
+PERMIT-2026-D5754E8F,CIT-000058,Precious C. Uy,Building Permit,,Internet Cafe,Malamig,2026-05-23T09:22:24,Under Evaluation,,19,True
+PERMIT-2026-538E0065,CIT-000068,Kristine L. Uy,Occupancy Permit,,Grocery Store,Hulo,2026-01-05T00:09:36,Pending Review,,11,True
+PERMIT-2026-3ABCEDBA,CIT-000433,Divina C. Robles,Locational Clearance,,Photocopy/Printing Services,Bagong Silang,2026-04-17T04:46:27,Denied,,16,True
+PERMIT-2026-6BB12C82,CIT-000325,Rafael M. Pascual,Locational Clearance,Bayanihan Enterprises,Auto Repair Shop,Vergara,2026-02-02T06:56:22,Denied,,16,True
+PERMIT-2026-E7CB5129,CIT-000348,Bryan N. Garcia,Sanitary Permit,Alonzo Corp.,Tailoring Shop,Addition Hills,2025-11-12T07:14:53,Denied,,3,True
+PERMIT-2026-7B2A48BD,CIT-000220,Lourdes P. Torres,New Business Permit,,Laundry Shop,Old Zaniga,2025-12-29T04:31:04,Approved,2026-01-05T04:31:04,8,True
+PERMIT-2026-C476282E,CIT-000095,Alvin G. Ocampo,Business Permit Renewal,Gonzales General Merchandise,Real Estate Services,Hagdang Bato Libis,2026-06-14T07:40:57,Denied,,17,True
+PERMIT-2026-55B7C6AE,CIT-000215,Marites R. Del Rosario,Sanitary Permit,Tahanan Enterprises,Bakery,Daang Bakal,2026-01-21T11:23:39,Pending Review,,13,True
+PERMIT-2026-11AFEA6A,CIT-000465,Eduardo C. Del Rosario,Barangay Clearance,Sarmiento General Merchandise,Pharmacy,San Jose,2026-05-27T09:33:54,Denied,,7,True
+PERMIT-2026-3D086660,CIT-000479,Renato R. Ocampo,Locational Clearance,Bautista Services,Pharmacy,Hagdang Bato Libis,2025-12-21T15:30:50,Expired,,5,True
+PERMIT-2026-4315D1D8,CIT-000308,Fe R. Ocampo,Occupancy Permit,Ocampo Food House,Bakery,Addition Hills,2026-02-24T16:17:15,Released,2026-03-01T16:17:15,10,True
+PERMIT-2026-303C1296,CIT-000263,Ramon S. Marquez,Building Permit,Torres Trading,Sari-Sari Store,Old Zaniga,2026-06-02T08:07:18,Denied,,8,True
+PERMIT-2026-EBB79A18,CIT-000318,Angelica B. Robles,Locational Clearance,Cruz Trading,Internet Cafe,Burol,2026-03-07T20:27:07,Released,2026-03-10T20:27:07,1,True
+PERMIT-2026-7BA8B241,CIT-000285,Christian G. Cruz,Barangay Clearance,Mabuhay Trading,IT/Software Services,Namayan,2026-05-22T09:25:33,Denied,,3,True
+PERMIT-2026-8E06F51C,CIT-000306,Marlon P. Salazar,Occupancy Permit,Ligaya Enterprises,Restaurant/Eatery,Barangka Ibaba,2025-10-03T06:47:39,Released,2025-10-13T06:47:39,17,False
+PERMIT-2026-2CB7CFEF,CIT-000258,Jasmin A. Tolentino,Building Permit,Pag-Asa Enterprises,Food Cart/Kiosk,Hagdang Bato Libis,2026-03-20T09:25:46,Pending Review,,14,True
+PERMIT-2026-3131938B,CIT-000110,Emmanuel A. Pascual,Sanitary Permit,Marquez Corp.,Grocery Store,Barangka Itaas,2025-11-15T14:43:33,Under Evaluation,,12,True
+PERMIT-2026-A0475B47,CIT-000116,Ma. Theresa U. Dela Cruz,Locational Clearance,Ligaya Foods,Pharmacy,New Zaniga,2026-01-09T12:04:12,Denied,,12,True
+PERMIT-2026-6895DE2E,CIT-000022,Jennylyn B. Alonzo,New Business Permit,Bautista Services,Grocery Store,Poblacion,2026-05-17T05:42:41,Denied,,13,True
+PERMIT-2026-C1113AB9,CIT-000372,Rafael P. Dela Cruz,Building Permit,Tolentino Corp.,Food Cart/Kiosk,Barangka Itaas,2026-06-01T17:08:50,Pending Review,,9,True
+PERMIT-2026-BF42A2B4,CIT-000242,Vincent R. Aquino,Barangay Clearance,Mabuhay Foods,IT/Software Services,Namayan,2026-01-02T02:21:08,Under Evaluation,,3,True
+PERMIT-2026-622BB245,CIT-000504,Kevin A. Rivera,Locational Clearance,Bayanihan Enterprises,Photocopy/Printing Services,Mabini-J. Rizal,2026-03-10T13:03:32,Expired,,9,True
+PERMIT-2026-8067401C,CIT-000361,Mark R. Custodio,Occupancy Permit,Reyes Store,Tailoring Shop,Buayang Bato,2026-02-19T00:58:03,Denied,,6,True
+PERMIT-2026-79AF810E,CIT-000140,Alvin S. Aguilar,Building Permit,Aguilar Enterprises,Retail Trading,New Zaniga,2025-09-09T18:50:18,Released,2025-09-13T18:50:18,17,True
+PERMIT-2026-50D024D1,CIT-000134,Charmaine N. Espiritu,Locational Clearance,Bagong Enterprises,Internet Cafe,Harapin Ang Bukas,2026-04-27T06:48:05,Expired,,6,True
+PERMIT-2026-61EE77BD,CIT-000336,Bryan R. Uy,Business Permit Renewal,Pag-Asa General Merchandise,Beauty Salon/Spa,Vergara,2025-12-27T00:42:41,Under Evaluation,,1,False
+PERMIT-2026-7120F69B,CIT-000235,Jasmin T. Fernandez,Building Permit,,IT/Software Services,San Jose,2025-10-13T03:29:30,Released,2025-10-16T03:29:30,2,True
+PERMIT-2026-976896A2,CIT-000440,Vincent U. Manalo,Barangay Clearance,,Auto Repair Shop,Pag-asa,2026-04-29T18:14:09,Approved,2026-05-02T18:14:09,19,True
+PERMIT-2026-11D792E0,CIT-000446,Danilo D. Sy,Fire Safety Inspection Certificate,,Photocopy/Printing Services,Hulo,2026-03-03T19:02:01,Expired,,7,True
+PERMIT-2026-41934D0B,CIT-000273,Charmaine T. Garcia,Fire Safety Inspection Certificate,Alonzo General Merchandise,Beauty Salon/Spa,Harapin Ang Bukas,2025-12-29T10:10:12,Expired,,10,True
+PERMIT-2026-BB1E243B,CIT-000194,Cherry G. Reyes,Locational Clearance,Malinis Enterprises,Laundry Shop,Mauway,2026-02-18T01:17:50,Under Evaluation,,15,False
+PERMIT-2026-0A67AE0B,CIT-000379,Noel C. Bautista,Fire Safety Inspection Certificate,,Pharmacy,Plainview,2026-04-22T23:13:13,Expired,,5,True
+PERMIT-2026-16BA27A5,CIT-000408,Antonio C. Espiritu,Locational Clearance,Bayanihan Trading,Grocery Store,Barangka Drive,2026-06-02T08:05:55,Under Evaluation,,2,True
+PERMIT-2026-DC1E2BED,CIT-000241,Ma. Theresa L. Mendoza,New Business Permit,,Grocery Store,Buayang Bato,2026-03-10T11:34:41,Approved,2026-03-20T11:34:41,13,True
+PERMIT-2026-56840E68,CIT-000405,Kevin S. Navarro,Barangay Clearance,Tan General Merchandise,Retail Trading,Hulo,2026-05-27T06:47:07,Approved,2026-06-01T06:47:07,6,True
+PERMIT-2026-A58BE156,CIT-000348,Bryan N. Garcia,Business Permit Renewal,Ligaya Foods,Restaurant/Eatery,Addition Hills,2026-03-09T09:02:13,Under Evaluation,,11,True
+PERMIT-2026-06C84B04,CIT-000131,Ramon D. Tan,Occupancy Permit,Malinis General Merchandise,Auto Repair Shop,San Jose,2026-03-21T11:09:00,Approved,2026-03-28T11:09:00,6,True
+PERMIT-2026-6141C54D,CIT-000504,Kevin A. Rivera,Fire Safety Inspection Certificate,,Retail Trading,Mabini-J. Rizal,2026-07-02T04:08:26,Under Evaluation,,2,True
+PERMIT-2026-4A59B4EF,CIT-000037,Renato D. Cruz,Barangay Clearance,Alonzo Corp.,Sari-Sari Store,Hulo,2026-03-10T05:11:40,Approved,2026-03-18T05:11:40,12,False
+PERMIT-2026-14DAD49E,CIT-000497,Marites T. Garcia,Business Permit Renewal,Aquino Services,Restaurant/Eatery,Mabini-J. Rizal,2026-03-05T08:47:58,Released,2026-03-09T08:47:58,10,True
+PERMIT-2026-8686D243,CIT-000173,Erlinda A. Garcia,Sanitary Permit,Lim General Merchandise,Sari-Sari Store,Hulo,2026-06-26T20:05:10,Denied,,17,True
+PERMIT-2026-19C42F30,CIT-000185,Julius A. Del Rosario,Building Permit,Mabuhay Foods,Tailoring Shop,Wack-Wack Greenhills,2026-02-17T07:28:34,Pending Review,,4,True
+PERMIT-2026-3437A7AA,CIT-000109,Marianne M. Del Rosario,New Business Permit,,IT/Software Services,Hagdang Bato Itaas,2026-01-12T05:45:57,Under Evaluation,,16,True
+PERMIT-2026-5B510E70,CIT-000276,Ma. Theresa M. Domingo,New Business Permit,Tahanan General Merchandise,Retail Trading,Barangka Itaas,2026-04-27T08:33:18,Expired,,7,True
+PERMIT-2026-DFBE96F1,CIT-000290,Paolo P. Pascual,Business Permit Renewal,Bayanihan Services,Internet Cafe,Mauway,2026-01-12T02:20:26,Pending Review,,6,True
+PERMIT-2026-1716E480,CIT-000409,Mark B. Manalo,Building Permit,,Real Estate Services,Namayan,2025-10-13T05:27:55,Pending Review,,13,True
+PERMIT-2026-7C9BE9B0,CIT-000158,Ma. Theresa T. Pascual,Fire Safety Inspection Certificate,Fernandez Services,Tailoring Shop,Barangka Itaas,2025-10-25T10:15:43,Approved,2025-10-27T10:15:43,12,True
+PERMIT-2026-0FE24D36,CIT-000502,Divina M. Garcia,Fire Safety Inspection Certificate,,Laundry Shop,Old Zaniga,2026-02-28T13:59:39,Released,2026-03-07T13:59:39,3,True
+PERMIT-2026-DA4CF75C,CIT-000378,Paolo A. Gonzales,Locational Clearance,Garcia General Merchandise,Auto Repair Shop,Daang Bakal,2026-05-04T23:49:56,Under Evaluation,,15,True
+PERMIT-2026-554C7457,CIT-000159,Precious S. Mendoza,Business Permit Renewal,,Bakery,Hagdang Bato Itaas,2026-03-19T22:54:28,Denied,,3,False
+PERMIT-2026-D3EAF982,CIT-000490,Cherry D. Navarro,Barangay Clearance,Fernandez General Merchandise,Bakery,Malamig,2026-01-03T06:02:17,Under Evaluation,,10,True
+PERMIT-2026-C152138B,CIT-000079,John F. Sy,Business Permit Renewal,Bermudez Corp.,Tailoring Shop,Burol,2025-09-26T02:29:05,Denied,,19,True
+PERMIT-2026-71F6E20D,CIT-000364,Emmanuel S. Mendoza,Business Permit Renewal,Reyes Store,Tailoring Shop,Vergara,2025-12-16T13:38:21,Denied,,15,True
+PERMIT-2026-92042938,CIT-000187,Manuel L. Flores,Business Permit Renewal,Bagong Services,Laundry Shop,Barangka Itaas,2026-02-08T04:47:52,Pending Review,,9,True
+PERMIT-2026-926DDCFD,CIT-000192,Ma. Theresa A. Salazar,Business Permit Renewal,Bayanihan Services,Grocery Store,Bagong Silang,2025-11-29T13:28:11,Under Evaluation,,1,True
+PERMIT-2026-66B98478,CIT-000120,Reynaldo C. Tan,Fire Safety Inspection Certificate,Malinis General Merchandise,IT/Software Services,Wack-Wack Greenhills,2025-09-13T18:10:40,Under Evaluation,,20,True
+PERMIT-2026-DF71BF14,CIT-000405,Kevin S. Navarro,Barangay Clearance,,Beauty Salon/Spa,Hulo,2026-01-04T03:08:04,Pending Review,,4,True
+PERMIT-2026-5F4EB670,CIT-000193,Reynaldo S. Aguilar,Fire Safety Inspection Certificate,Masaya Trading,Internet Cafe,Buayang Bato,2025-09-19T00:06:24,Under Evaluation,,15,True
+PERMIT-2026-59408194,CIT-000433,Divina C. Robles,Barangay Clearance,Bagong Trading,IT/Software Services,Bagong Silang,2025-09-17T01:31:03,Pending Review,,15,True
+PERMIT-2026-CADCE13E,CIT-000207,Fe C. Pascual,Locational Clearance,,Sari-Sari Store,Hagdang Bato Libis,2026-01-01T02:11:52,Denied,,4,True
+PERMIT-2026-2A34675D,CIT-000443,Josephine R. Torres,Sanitary Permit,,Bakery,San Jose,2026-02-17T00:38:36,Released,2026-02-25T00:38:36,17,True
+PERMIT-2026-66BEA4C1,CIT-000500,Charmaine R. Flores,New Business Permit,Bayanihan Foods,Food Cart/Kiosk,Barangka Ilaya,2025-12-07T15:41:18,Expired,,14,False
+PERMIT-2026-3EBD59DB,CIT-000120,Reynaldo C. Tan,Occupancy Permit,Alonzo Trading,Internet Cafe,Wack-Wack Greenhills,2026-03-19T17:56:09,Denied,,7,True
+PERMIT-2026-25A44D03,CIT-000449,Vincent R. Ocampo,Building Permit,Ligaya Foods,Photocopy/Printing Services,Wack-Wack Greenhills,2025-12-07T17:31:40,Denied,,13,False
+PERMIT-2026-B9270197,CIT-000369,Corazon S. Panganiban,Building Permit,,Photocopy/Printing Services,Wack-Wack Greenhills,2026-03-11T00:33:23,Under Evaluation,,3,True
+PERMIT-2026-C8B5FE32,CIT-000133,Danilo O. Manalo,Barangay Clearance,Bagong Foods,Beauty Salon/Spa,Poblacion,2025-11-14T21:21:36,Under Evaluation,,7,True
+PERMIT-2026-26A6224D,CIT-000019,Rafael O. Domingo,Occupancy Permit,Ramos Food House,Restaurant/Eatery,Addition Hills,2026-01-25T22:18:17,Approved,2026-01-31T22:18:17,14,True
+PERMIT-2026-0B0F16FF,CIT-000233,Michelle A. Fernandez,Building Permit,Mabuhay General Merchandise,Internet Cafe,Hulo,2025-10-25T11:03:50,Denied,,5,True
+PERMIT-2026-F0B0A675,CIT-000107,Angel P. Pascual,Fire Safety Inspection Certificate,Torres Food House,Laundry Shop,Wack-Wack Greenhills,2026-06-09T22:20:27,Pending Review,,20,True
+PERMIT-2026-CF1C5B47,CIT-000105,Rowena E. Santos,Business Permit Renewal,,Restaurant/Eatery,Plainview,2026-04-15T00:47:49,Pending Review,,7,False
+PERMIT-2026-99F6C7A4,CIT-000161,Michelle G. Tolentino,Fire Safety Inspection Certificate,Panganiban Trading,Tailoring Shop,Burol,2026-06-18T10:52:38,Approved,2026-06-24T10:52:38,11,True
+PERMIT-2026-53E88287,CIT-000126,Regina S. Chua,Locational Clearance,Santos Food House,Real Estate Services,Mabini-J. Rizal,2025-11-25T23:55:27,Released,2025-12-03T23:55:27,11,True
+PERMIT-2026-DE3D4A0C,CIT-000176,Juan C. Aquino,Occupancy Permit,Masaya Enterprises,Real Estate Services,Bagong Silang,2025-10-11T16:36:25,Approved,2025-10-24T16:36:25,17,True
+PERMIT-2026-8EE8BA64,CIT-000234,Bryan T. Alonzo,Locational Clearance,Mabuhay Services,Retail Trading,Bagong Silang,2025-11-01T04:22:13,Released,2025-11-14T04:22:13,1,True
+PERMIT-2026-8B465C13,CIT-000072,Katherine C. Panganiban,Occupancy Permit,Mabuhay Services,Real Estate Services,Barangka Drive,2025-10-11T12:21:36,Approved,2025-10-12T12:21:36,5,False
+PERMIT-2026-1FD71D23,CIT-000060,Antonio D. Alonzo,Sanitary Permit,Tahanan Foods,Sari-Sari Store,Barangka Itaas,2026-05-11T21:10:44,Expired,,9,False
+PERMIT-2026-B7BA532D,CIT-000151,Liza C. Marquez,Fire Safety Inspection Certificate,Tahanan Services,Real Estate Services,Hagdang Bato Libis,2026-06-07T13:23:35,Released,2026-06-11T13:23:35,10,True
+PERMIT-2026-5DDFD753,CIT-000343,Ana A. Reyes,Barangay Clearance,Masaya Trading,Grocery Store,San Jose,2026-02-07T01:10:23,Expired,,18,True
+PERMIT-2026-0C7D0983,CIT-000349,Erlinda S. Mendoza,Barangay Clearance,,Food Cart/Kiosk,Highway Hills,2026-06-29T14:21:11,Expired,,18,True
+PERMIT-2026-D74A0BCB,CIT-000248,Precious R. Pascual,Locational Clearance,Torres Food House,Auto Repair Shop,Vergara,2026-01-04T15:06:56,Expired,,9,True
+PERMIT-2026-44D8EB06,CIT-000363,Jocelyn S. Gonzales,Business Permit Renewal,Sy Corp.,Auto Repair Shop,Addition Hills,2025-10-26T16:11:27,Pending Review,,8,True
+PERMIT-2026-7683344F,CIT-000240,Fe T. Pascual,Sanitary Permit,Sy Store,Bakery,Namayan,2026-01-22T15:32:55,Approved,2026-01-31T15:32:55,8,True
+PERMIT-2026-5C74F8E6,CIT-000198,Mark D. Manalo,Business Permit Renewal,,Bakery,Namayan,2026-01-26T21:25:38,Released,2026-02-09T21:25:38,14,True
+PERMIT-2026-FA4B1C40,CIT-000064,Julius F. Flores,Fire Safety Inspection Certificate,,Restaurant/Eatery,New Zaniga,2026-02-20T14:24:04,Under Evaluation,,12,True
+PERMIT-2026-A6F2C1F7,CIT-000413,Eduardo B. Del Rosario,Locational Clearance,Pag-Asa Services,Photocopy/Printing Services,Daang Bakal,2026-04-25T00:57:32,Denied,,16,True
+PERMIT-2026-4C3B09D6,CIT-000427,Jasmin L. Flores,Barangay Clearance,Espiritu Store,Grocery Store,Addition Hills,2025-11-10T19:58:28,Under Evaluation,,17,True
+PERMIT-2026-419892F6,CIT-000218,Juan T. Marquez,New Business Permit,Bayanihan General Merchandise,IT/Software Services,Mabini-J. Rizal,2026-03-04T11:06:26,Released,2026-03-11T11:06:26,4,True
+PERMIT-2026-E9ACD6D7,CIT-000297,Ma. Theresa A. Santos,Barangay Clearance,,Internet Cafe,Pleasant Hills,2025-09-24T05:37:36,Denied,,12,True
+PERMIT-2026-21B3A359,CIT-000498,Charmaine M. Sy,Barangay Clearance,Bermudez Services,Food Cart/Kiosk,Barangka Drive,2025-09-19T10:56:30,Under Evaluation,,10,True
+PERMIT-2026-AADE3168,CIT-000501,Miguel M. Flores,Occupancy Permit,,Sari-Sari Store,Barangka Ibaba,2025-09-09T09:36:38,Pending Review,,14,True
+PERMIT-2026-3A1F9A30,CIT-000318,Angelica B. Robles,Occupancy Permit,Lazaro Food House,Retail Trading,Burol,2026-04-16T07:28:20,Released,2026-04-25T07:28:20,15,True
+PERMIT-2026-2EA0E3F5,CIT-000460,Noel A. Sy,Occupancy Permit,,Laundry Shop,Barangka Itaas,2025-11-05T10:47:18,Expired,,20,True
+PERMIT-2026-6F848C94,CIT-000239,Vincent L. Torres,New Business Permit,Bayanihan Enterprises,Photocopy/Printing Services,Pleasant Hills,2026-02-09T03:32:18,Approved,2026-02-10T03:32:18,19,True
+PERMIT-2026-17EEA308,CIT-000317,Renato D. Bermudez,Business Permit Renewal,Garcia General Merchandise,Grocery Store,Burol,2026-04-14T11:28:56,Expired,,19,True
+PERMIT-2026-D3A6E033,CIT-000194,Cherry G. Reyes,New Business Permit,,Food Cart/Kiosk,Mauway,2026-06-27T01:52:58,Released,2026-07-06T01:52:58,6,False
+PERMIT-2026-31FB7AC2,CIT-000282,Katherine R. Uy,Fire Safety Inspection Certificate,,Grocery Store,Malamig,2025-11-27T12:24:41,Under Evaluation,,20,True
+PERMIT-2026-3DFA3942,CIT-000047,Marianne S. Ramos,Occupancy Permit,Bermudez Food House,Grocery Store,Highway Hills,2026-03-18T11:01:50,Pending Review,,11,True
+PERMIT-2026-AE1A83A0,CIT-000094,Charmaine L. Lazaro,Barangay Clearance,,Retail Trading,Mabini-J. Rizal,2025-10-23T02:44:07,Pending Review,,9,True
+PERMIT-2026-4BD131D1,CIT-000158,Ma. Theresa T. Pascual,Barangay Clearance,,Auto Repair Shop,Barangka Itaas,2026-01-05T17:41:57,Released,2026-01-08T17:41:57,1,True
+PERMIT-2026-600C6C6D,CIT-000306,Marlon P. Salazar,Occupancy Permit,,Food Cart/Kiosk,Barangka Ibaba,2026-02-07T00:40:17,Pending Review,,11,True
+PERMIT-2026-D0964899,CIT-000124,Vincent F. Sarmiento,Building Permit,Lim Corp.,Grocery Store,Pag-asa,2025-09-28T17:42:32,Under Evaluation,,17,True
+PERMIT-2026-9F4CF38E,CIT-000118,Angelica U. Dela Cruz,Occupancy Permit,Bermudez Corp.,Sari-Sari Store,Bagong Silang,2025-12-22T04:06:42,Pending Review,,14,True
+PERMIT-2026-15CE5D2F,CIT-000020,Rafael C. Ocampo,Business Permit Renewal,,Grocery Store,Barangka Drive,2025-12-22T02:55:14,Denied,,5,True
+PERMIT-2026-CB8C5CBF,CIT-000417,Divina B. Tolentino,Building Permit,Ligaya Enterprises,Grocery Store,Daang Bakal,2026-02-28T19:01:33,Pending Review,,14,False
+PERMIT-2026-01CC6E6B,CIT-000463,Kristine O. Lim,Fire Safety Inspection Certificate,Pascual Enterprises,Sari-Sari Store,Highway Hills,2025-09-24T19:42:01,Pending Review,,16,True
+PERMIT-2026-AB41CAAF,CIT-000257,Charmaine L. Ramos,Occupancy Permit,Mabuhay Enterprises,Photocopy/Printing Services,Barangka Drive,2026-05-30T16:12:31,Released,2026-06-08T16:12:31,19,True
+PERMIT-2026-D444A2E1,CIT-000092,Angelica C. Reyes,Business Permit Renewal,Pag-Asa Enterprises,Laundry Shop,Pleasant Hills,2026-02-09T02:40:43,Expired,,17,False
+PERMIT-2026-2D27453B,CIT-000326,Miguel L. Del Rosario,Sanitary Permit,Masaya Foods,Auto Repair Shop,Barangka Ilaya,2026-05-31T11:48:43,Approved,2026-06-04T11:48:43,15,False
+PERMIT-2026-FA7874C6,CIT-000337,Vilma R. Sy,Barangay Clearance,Mabuhay Trading,Tailoring Shop,Highway Hills,2025-09-14T18:07:55,Expired,,6,True
+PERMIT-2026-7B2355C1,CIT-000501,Miguel M. Flores,Business Permit Renewal,Ocampo Food House,IT/Software Services,Barangka Ibaba,2026-07-01T16:51:40,Released,2026-07-12T16:51:40,15,True
+PERMIT-2026-85517F4B,CIT-000362,Josephine C. Aquino,Occupancy Permit,Santos Corp.,Auto Repair Shop,Hagdang Bato Libis,2026-02-01T18:15:09,Denied,,7,True
+PERMIT-2026-66808244,CIT-000227,Julius D. Bermudez,Sanitary Permit,Rivera Enterprises,IT/Software Services,Mabini-J. Rizal,2026-06-24T04:46:41,Pending Review,,20,True
+PERMIT-2026-C644BA17,CIT-000227,Julius D. Bermudez,Occupancy Permit,,Pharmacy,Mabini-J. Rizal,2025-12-08T13:36:44,Released,2025-12-23T13:36:44,20,True
+PERMIT-2026-37439182,CIT-000201,Lourdes F. Sy,Business Permit Renewal,Ligaya General Merchandise,Beauty Salon/Spa,Wack-Wack Greenhills,2026-05-14T12:49:32,Released,2026-05-25T12:49:32,19,True
+PERMIT-2026-F4BCFFCB,CIT-000180,Josephine D. Torres,Barangay Clearance,Masaya General Merchandise,Photocopy/Printing Services,Mabini-J. Rizal,2025-10-03T23:22:30,Denied,,9,True
+PERMIT-2026-EB298A80,CIT-000024,Ferdinand M. Tan,Sanitary Permit,Espiritu Corp.,Tailoring Shop,Pag-asa,2026-06-04T17:15:57,Expired,,2,True
+PERMIT-2026-F232B5CC,CIT-000331,Jennylyn L. Garcia,Sanitary Permit,,Grocery Store,Wack-Wack Greenhills,2026-02-23T13:48:40,Released,2026-03-03T13:48:40,16,True
+PERMIT-2026-D7C46792,CIT-000045,Ramon O. Alonzo,New Business Permit,,Bakery,Old Zaniga,2026-06-15T16:25:48,Under Evaluation,,18,True
+PERMIT-2026-1B60F40C,CIT-000006,Angel O. Villanueva,Occupancy Permit,,Laundry Shop,Plainview,2026-02-07T18:33:34,Under Evaluation,,1,False
+PERMIT-2026-384F1776,CIT-000232,John P. Robles,Business Permit Renewal,Villanueva Services,Internet Cafe,Wack-Wack Greenhills,2026-06-03T09:13:55,Released,2026-06-05T09:13:55,4,True
+PERMIT-2026-CA79631D,CIT-000443,Josephine R. Torres,Occupancy Permit,Salazar Corp.,Beauty Salon/Spa,San Jose,2025-09-17T22:05:07,Denied,,11,True
+PERMIT-2026-8123797F,CIT-000342,Juan L. Sarmiento,Business Permit Renewal,Custodio Store,Pharmacy,Hagdang Bato Libis,2026-03-29T09:53:32,Under Evaluation,,19,True
+PERMIT-2026-6B940355,CIT-000063,Marianne S. Torres,Occupancy Permit,Ocampo Enterprises,Food Cart/Kiosk,Mabini-J. Rizal,2025-09-21T12:57:20,Released,2025-10-04T12:57:20,15,True
+PERMIT-2026-74B8B12C,CIT-000443,Josephine R. Torres,New Business Permit,Pag-Asa Trading,Laundry Shop,San Jose,2025-10-04T03:22:46,Pending Review,,14,True
+PERMIT-2026-AB0DF6C6,CIT-000011,Corazon A. Lim,Fire Safety Inspection Certificate,Mabuhay Services,Grocery Store,Harapin Ang Bukas,2026-03-03T16:16:08,Released,2026-03-09T16:16:08,19,True
+PERMIT-2026-243F9958,CIT-000106,Katherine M. Alonzo,Business Permit Renewal,Villanueva Store,Grocery Store,Hagdang Bato Itaas,2025-09-13T08:42:28,Denied,,9,True
+PERMIT-2026-6C1F727B,CIT-000493,Carlo P. Bermudez,Fire Safety Inspection Certificate,,Retail Trading,Pag-asa,2026-06-17T00:08:46,Denied,,2,True
+PERMIT-2026-629A57FA,CIT-000320,Corazon E. Salazar,Occupancy Permit,Uy Trading,Pharmacy,New Zaniga,2026-04-23T14:18:45,Released,2026-04-28T14:18:45,20,True
+PERMIT-2026-CB468227,CIT-000378,Paolo A. Gonzales,Barangay Clearance,,Grocery Store,Daang Bakal,2025-09-11T17:29:53,Denied,,18,True
+PERMIT-2026-08DAAA44,CIT-000433,Divina C. Robles,Building Permit,Villanueva Services,Beauty Salon/Spa,Bagong Silang,2026-01-20T02:46:06,Under Evaluation,,16,True
+PERMIT-2026-AEC48B1F,CIT-000479,Renato R. Ocampo,Occupancy Permit,Malinis Services,Auto Repair Shop,Hagdang Bato Libis,2026-04-29T12:21:35,Expired,,6,True
+PERMIT-2026-B46614BE,CIT-000044,Kristine T. Robles,New Business Permit,Masaya Enterprises,Pharmacy,New Zaniga,2026-03-20T04:34:44,Under Evaluation,,11,True
+PERMIT-2026-3B7629C9,CIT-000385,John N. Villanueva,Barangay Clearance,Mabuhay Trading,Auto Repair Shop,New Zaniga,2025-11-27T07:51:25,Released,2025-11-28T07:51:25,18,True
+PERMIT-2026-FF04D550,CIT-000298,Grace M. Dela Cruz,Occupancy Permit,,Sari-Sari Store,Harapin Ang Bukas,2026-02-26T15:04:16,Under Evaluation,,7,True
+PERMIT-2026-7D30B2C2,CIT-000179,Divina T. Tolentino,Barangay Clearance,Tan Trading,Beauty Salon/Spa,Daang Bakal,2025-12-02T14:53:08,Approved,2025-12-03T14:53:08,6,True
+PERMIT-2026-7D5821B5,CIT-000104,Carlo T. Garcia,Barangay Clearance,Masaya Foods,Pharmacy,Malamig,2025-09-16T17:50:45,Expired,,8,True
+PERMIT-2026-BF3DBDF9,CIT-000382,Corazon R. Tan,Locational Clearance,Ocampo Trading,Food Cart/Kiosk,Pag-asa,2026-05-23T06:17:08,Under Evaluation,,5,True
+PERMIT-2026-CEADE1D3,CIT-000197,Grace R. Tolentino,Occupancy Permit,Alonzo Enterprises,Real Estate Services,San Jose,2026-04-03T09:56:22,Released,2026-04-13T09:56:22,19,True
+PERMIT-2026-6EF7620B,CIT-000302,Bryan O. Aquino,Building Permit,,Real Estate Services,Old Zaniga,2025-11-05T06:54:50,Approved,2025-11-10T06:54:50,5,True
+PERMIT-2026-09071289,CIT-000501,Miguel M. Flores,Business Permit Renewal,Ocampo General Merchandise,Bakery,Barangka Ibaba,2025-11-28T20:24:19,Expired,,17,True
+PERMIT-2026-1A5C3450,CIT-000476,Arnel C. Flores,Occupancy Permit,Bagong Foods,Laundry Shop,Burol,2025-11-17T02:33:25,Approved,2025-11-24T02:33:25,19,True
+PERMIT-2026-A1161A8C,CIT-000213,Emmanuel B. Ramos,Fire Safety Inspection Certificate,Manalo Services,Bakery,Bagong Silang,2025-12-02T20:18:11,Under Evaluation,,13,True
+PERMIT-2026-E853C9EE,CIT-000384,Eduardo R. Villanueva,Business Permit Renewal,,Restaurant/Eatery,Plainview,2025-12-16T10:33:16,Denied,,10,True
+PERMIT-2026-8094D1D2,CIT-000361,Mark R. Custodio,New Business Permit,Bagong Services,Bakery,Buayang Bato,2025-12-06T23:34:49,Denied,,14,True
+PERMIT-2026-2DCC17CE,CIT-000510,Liza G. Uy,Locational Clearance,,Pharmacy,Buayang Bato,2026-01-09T17:00:52,Approved,2026-01-13T17:00:52,9,True
+PERMIT-2026-B1EF0DEC,CIT-000368,Fe G. Aguilar,Business Permit Renewal,Domingo Enterprises,Restaurant/Eatery,Old Zaniga,2025-10-10T14:21:58,Approved,2025-10-16T14:21:58,2,True
+PERMIT-2026-C7ED3CBE,CIT-000342,Juan L. Sarmiento,Occupancy Permit,,Photocopy/Printing Services,Hagdang Bato Libis,2025-11-23T23:02:47,Expired,,9,True
+PERMIT-2026-767DEE55,CIT-000142,Ricardo N. Fernandez,Sanitary Permit,,Internet Cafe,Hagdang Bato Libis,2026-06-27T18:53:28,Expired,,10,True
+PERMIT-2026-DE18D90B,CIT-000414,Josephine V. Espiritu,New Business Permit,Robles Food House,Bakery,Barangka Ibaba,2026-02-13T04:06:47,Denied,,8,True
+PERMIT-2026-D927725A,CIT-000215,Marites R. Del Rosario,Fire Safety Inspection Certificate,Bayanihan Foods,IT/Software Services,Daang Bakal,2026-03-11T20:15:18,Under Evaluation,,7,True
+PERMIT-2026-A2120CC9,CIT-000428,Emmanuel C. Aguilar,Fire Safety Inspection Certificate,Ligaya General Merchandise,IT/Software Services,San Jose,2025-11-28T23:38:29,Released,2025-12-01T23:38:29,10,False
+PERMIT-2026-97738566,CIT-000010,Josephine M. Panganiban,Occupancy Permit,Pag-Asa General Merchandise,Internet Cafe,Barangka Ilaya,2026-03-21T16:38:44,Expired,,11,True
+PERMIT-2026-2ED69653,CIT-000033,Kristine S. Sarmiento,Occupancy Permit,Pag-Asa Enterprises,Bakery,Plainview,2025-11-01T14:59:59,Under Evaluation,,3,True
+PERMIT-2026-734E3BE4,CIT-000193,Reynaldo S. Aguilar,Occupancy Permit,Bayanihan Enterprises,Restaurant/Eatery,Buayang Bato,2026-03-11T23:25:06,Pending Review,,18,True
+PERMIT-2026-1C339271,CIT-000501,Miguel M. Flores,Building Permit,,Bakery,Barangka Ibaba,2025-09-19T00:19:22,Under Evaluation,,10,True
+PERMIT-2026-DC01179B,CIT-000299,Ronnel M. Garcia,Business Permit Renewal,Dela Cruz Trading,Auto Repair Shop,Buayang Bato,2026-05-22T17:48:25,Denied,,14,True
+PERMIT-2026-FD484B66,CIT-000114,Arnel A. Tan,Locational Clearance,Masaya Enterprises,IT/Software Services,Pag-asa,2025-10-28T17:49:13,Denied,,7,True
+PERMIT-2026-EBC38BFB,CIT-000487,Regina S. Domingo,Sanitary Permit,Malinis Enterprises,Sari-Sari Store,Bagong Silang,2025-11-09T06:07:06,Denied,,5,True
+PERMIT-2026-B7A497F6,CIT-000409,Mark B. Manalo,Occupancy Permit,Bagong General Merchandise,Sari-Sari Store,Namayan,2026-05-01T11:46:03,Under Evaluation,,3,True
+PERMIT-2026-C81A1A50,CIT-000468,Rowena S. Villanueva,Sanitary Permit,Masaya Enterprises,Food Cart/Kiosk,New Zaniga,2026-01-21T06:24:39,Expired,,20,True
+PERMIT-2026-29A8FA34,CIT-000469,Nathaniel B. Aguilar,Barangay Clearance,Mabuhay Enterprises,Food Cart/Kiosk,Barangka Ibaba,2026-02-04T23:30:27,Expired,,6,True
+PERMIT-2026-204757AC,CIT-000299,Ronnel M. Garcia,Building Permit,Bermudez Services,Restaurant/Eatery,Buayang Bato,2026-05-25T11:51:46,Pending Review,,4,True
+PERMIT-2026-CF8FD5C6,CIT-000334,Angelo C. Gonzales,Barangay Clearance,,Grocery Store,Bagong Silang,2026-02-14T20:32:32,Released,2026-02-15T20:32:32,15,True
+PERMIT-2026-6D05865C,CIT-000473,Carlo S. Tolentino,Locational Clearance,Manalo Enterprises,Internet Cafe,Wack-Wack Greenhills,2026-02-03T14:47:50,Approved,2026-02-05T14:47:50,5,True
+PERMIT-2026-9859DBF6,CIT-000476,Arnel C. Flores,Business Permit Renewal,,Tailoring Shop,Burol,2026-03-15T20:27:12,Released,2026-03-19T20:27:12,15,True
+PERMIT-2026-BB38F474,CIT-000286,Precious T. Robles,New Business Permit,Bayanihan General Merchandise,Photocopy/Printing Services,Daang Bakal,2025-11-10T06:12:54,Under Evaluation,,13,True
+PERMIT-2026-EC983341,CIT-000012,Alvin A. Torres,Barangay Clearance,Ramos Store,Sari-Sari Store,Vergara,2026-05-29T15:50:18,Approved,2026-06-13T15:50:18,18,True
+PERMIT-2026-07D30921,CIT-000049,Grace F. Salazar,Business Permit Renewal,Mabuhay General Merchandise,Sari-Sari Store,Vergara,2026-05-13T02:50:43,Denied,,2,True
+PERMIT-2026-29E654DA,CIT-000207,Fe C. Pascual,Building Permit,,Sari-Sari Store,Hagdang Bato Libis,2025-12-14T13:32:26,Approved,2025-12-21T13:32:26,1,False
+PERMIT-2026-41BC5C23,CIT-000346,Jasmin S. Ramos,Business Permit Renewal,,Food Cart/Kiosk,San Jose,2025-11-22T05:09:17,Expired,,4,True
+PERMIT-2026-B0E830EA,CIT-000172,Marites C. Manalo,New Business Permit,Tahanan General Merchandise,Tailoring Shop,Hagdang Bato Libis,2026-06-16T18:26:46,Under Evaluation,,7,True
+PERMIT-2026-8A103F7E,CIT-000405,Kevin S. Navarro,Building Permit,,Auto Repair Shop,Hulo,2026-02-21T18:18:12,Pending Review,,11,True
+PERMIT-2026-5B62E035,CIT-000412,Juan R. Navarro,New Business Permit,Espiritu Enterprises,Tailoring Shop,Namayan,2026-05-20T13:49:27,Approved,2026-06-03T13:49:27,9,True
+PERMIT-2026-5E050984,CIT-000378,Paolo A. Gonzales,Building Permit,Bayanihan General Merchandise,Real Estate Services,Daang Bakal,2025-09-25T15:42:38,Pending Review,,19,True
+PERMIT-2026-22951200,CIT-000098,Regina P. Aquino,Locational Clearance,Ligaya Foods,IT/Software Services,Barangka Ilaya,2026-04-29T13:20:13,Approved,2026-05-10T13:20:13,16,True
+PERMIT-2026-0B447F1C,CIT-000019,Rafael O. Domingo,Fire Safety Inspection Certificate,Domingo Trading,Sari-Sari Store,Addition Hills,2026-05-02T22:06:41,Denied,,20,True
+PERMIT-2026-1281D6C4,CIT-000128,Karen D. Marquez,Locational Clearance,Garcia Trading,Auto Repair Shop,Plainview,2026-01-06T12:50:52,Under Evaluation,,16,True
+PERMIT-2026-8DF18B98,CIT-000156,Vincent C. Custodio,New Business Permit,,Photocopy/Printing Services,Harapin Ang Bukas,2026-02-01T12:23:40,Under Evaluation,,20,False
+PERMIT-2026-C3B730BA,CIT-000455,Perla L. Marquez,Barangay Clearance,,Tailoring Shop,Highway Hills,2026-06-22T16:31:54,Approved,2026-07-05T16:31:54,2,True
+PERMIT-2026-54295CBA,CIT-000425,Josephine D. Custodio,New Business Permit,,Photocopy/Printing Services,San Jose,2026-05-18T06:24:01,Approved,2026-05-24T06:24:01,11,True
+PERMIT-2026-CFA7F6FA,CIT-000056,Antonio B. Bermudez,Building Permit,Ligaya Services,Tailoring Shop,Namayan,2026-05-24T20:28:31,Under Evaluation,,1,True
+PERMIT-2026-A4D5316B,CIT-000504,Kevin A. Rivera,New Business Permit,Aquino Trading,Restaurant/Eatery,Mabini-J. Rizal,2025-10-05T18:28:36,Under Evaluation,,6,True
+PERMIT-2026-9D151186,CIT-000210,Arnel S. Lim,Business Permit Renewal,Ligaya Enterprises,Beauty Salon/Spa,Bagong Silang,2025-12-09T08:44:24,Denied,,14,True
+PERMIT-2026-7519473E,CIT-000255,Ana A. Mendoza,Fire Safety Inspection Certificate,Bagong Trading,Auto Repair Shop,Wack-Wack Greenhills,2026-01-04T07:16:24,Approved,2026-01-11T07:16:24,13,True
+PERMIT-2026-B1F63CFD,CIT-000452,Julius D. Robles,Locational Clearance,Lazaro Food House,Bakery,Barangka Itaas,2026-02-19T17:59:38,Denied,,14,True
+PERMIT-2026-BE6F382D,CIT-000308,Fe R. Ocampo,Barangay Clearance,Pag-Asa Services,Internet Cafe,Addition Hills,2026-04-27T17:40:51,Denied,,15,True
+PERMIT-2026-2D3FBEDD,CIT-000493,Carlo P. Bermudez,Barangay Clearance,Villanueva Trading,Sari-Sari Store,Pag-asa,2025-10-06T12:41:46,Approved,2025-10-07T12:41:46,17,True
+PERMIT-2026-BCCE6BFD,CIT-000384,Eduardo R. Villanueva,Locational Clearance,Bagong Foods,Tailoring Shop,Plainview,2026-03-18T10:51:02,Released,2026-03-28T10:51:02,3,True
+PERMIT-2026-1145BDBC,CIT-000040,Erlinda G. Salazar,Barangay Clearance,,Bakery,Vergara,2025-10-26T22:23:04,Released,2025-10-31T22:23:04,12,True
+PERMIT-2026-16446C44,CIT-000501,Miguel M. Flores,Occupancy Permit,Masaya Enterprises,Pharmacy,Barangka Ibaba,2026-05-13T04:36:36,Expired,,2,False
+PERMIT-2026-0981F249,CIT-000371,Emmanuel V. Dela Cruz,New Business Permit,Bagong Enterprises,Internet Cafe,Harapin Ang Bukas,2026-05-11T15:04:31,Expired,,8,True
+PERMIT-2026-C8E73288,CIT-000166,Danilo R. Bermudez,Business Permit Renewal,Bayanihan General Merchandise,Food Cart/Kiosk,Mauway,2025-09-13T09:09:46,Pending Review,,7,True
+PERMIT-2026-C17F8205,CIT-000170,Christian C. Villanueva,Sanitary Permit,Malinis Services,Real Estate Services,Bagong Silang,2026-02-21T08:54:01,Approved,2026-03-08T08:54:01,3,True
+PERMIT-2026-18E371BD,CIT-000353,Cristina M. Bautista,Building Permit,Mabuhay Enterprises,IT/Software Services,Buayang Bato,2025-11-03T00:21:21,Approved,2025-11-11T00:21:21,1,True
+PERMIT-2026-84637528,CIT-000428,Emmanuel C. Aguilar,Sanitary Permit,Flores Services,Retail Trading,San Jose,2026-03-31T11:10:13,Released,2026-04-12T11:10:13,5,True
+PERMIT-2026-7E1FCDAE,CIT-000187,Manuel L. Flores,Fire Safety Inspection Certificate,Castillo Trading,Sari-Sari Store,Barangka Itaas,2026-03-22T18:52:10,Pending Review,,6,True
+PERMIT-2026-EDF67F5A,CIT-000197,Grace R. Tolentino,Fire Safety Inspection Certificate,Mendoza Enterprises,Internet Cafe,San Jose,2025-12-18T07:30:18,Released,2025-12-20T07:30:18,13,True
+PERMIT-2026-E1BA9787,CIT-000066,Ramon A. Uy,Building Permit,Mendoza Enterprises,Internet Cafe,Barangka Drive,2026-01-19T11:15:25,Pending Review,,1,True
+PERMIT-2026-89327EAA,CIT-000043,Mark R. Marquez,New Business Permit,Bagong Services,Real Estate Services,Bagong Silang,2025-10-16T04:48:05,Under Evaluation,,11,True
+PERMIT-2026-4C28D9AD,CIT-000345,Katherine R. Aguilar,Occupancy Permit,Pag-Asa Services,Laundry Shop,Burol,2026-01-30T14:08:16,Expired,,2,False
+PERMIT-2026-308C5E8F,CIT-000339,Angelo B. Uy,Fire Safety Inspection Certificate,Manalo Enterprises,Laundry Shop,New Zaniga,2025-10-17T11:53:26,Pending Review,,4,True
+PERMIT-2026-0DEDBE61,CIT-000287,Precious A. Castillo,Occupancy Permit,Masaya Trading,Tailoring Shop,Poblacion,2026-06-07T03:47:19,Under Evaluation,,11,True
+PERMIT-2026-F1B746EE,CIT-000369,Corazon S. Panganiban,Occupancy Permit,Pag-Asa General Merchandise,Real Estate Services,Wack-Wack Greenhills,2025-09-26T08:37:50,Expired,,3,True
+PERMIT-2026-CFCFEDEA,CIT-000488,Regina E. Ramos,Business Permit Renewal,Pascual Store,Retail Trading,Pleasant Hills,2026-05-22T06:20:03,Expired,,17,True
+PERMIT-2026-7E4F26DF,CIT-000517,Regina A. Fernandez,Fire Safety Inspection Certificate,Ligaya Services,Restaurant/Eatery,Pag-asa,2025-09-20T22:03:42,Under Evaluation,,16,True
+PERMIT-2026-DCA63EBF,CIT-000247,Marianne R. Panganiban,Barangay Clearance,Garcia Corp.,Photocopy/Printing Services,Namayan,2025-12-12T02:24:44,Under Evaluation,,1,True
+PERMIT-2026-2F8FC89F,CIT-000335,Ana G. Garcia,Building Permit,Lazaro Store,Retail Trading,Barangka Ilaya,2026-02-04T12:33:14,Approved,2026-02-19T12:33:14,18,True
+PERMIT-2026-CBFEC618,CIT-000504,Kevin A. Rivera,Occupancy Permit,Sy Store,Auto Repair Shop,Mabini-J. Rizal,2025-10-13T17:08:53,Expired,,13,False
+PERMIT-2026-171F9F7D,CIT-000391,Paolo R. Panganiban,Locational Clearance,Bayanihan Foods,Restaurant/Eatery,Barangka Itaas,2026-05-20T13:08:34,Expired,,4,True
+PERMIT-2026-687A01FA,CIT-000193,Reynaldo S. Aguilar,Occupancy Permit,,Auto Repair Shop,Buayang Bato,2026-06-24T18:30:37,Pending Review,,13,True
+PERMIT-2026-57B8076E,CIT-000002,Danilo C. Alonzo,Building Permit,Tahanan Enterprises,Grocery Store,Barangka Drive,2026-01-07T07:01:33,Pending Review,,20,True
+PERMIT-2026-B9946FBB,CIT-000110,Emmanuel A. Pascual,Fire Safety Inspection Certificate,Pascual Corp.,Tailoring Shop,Barangka Itaas,2026-02-09T02:44:54,Pending Review,,15,True
+PERMIT-2026-93801B7D,CIT-000291,Angelo D. Del Rosario,New Business Permit,Fernandez Services,IT/Software Services,Barangka Ilaya,2025-11-04T05:47:00,Expired,,19,True
+PERMIT-2026-342F9B3A,CIT-000221,Charmaine L. Tan,Locational Clearance,,Real Estate Services,San Jose,2026-03-19T20:08:32,Approved,2026-03-25T20:08:32,5,True
+PERMIT-2026-58F9F25A,CIT-000216,Lourdes S. Ramos,New Business Permit,Pag-Asa Foods,IT/Software Services,Vergara,2026-06-20T03:02:18,Under Evaluation,,6,False
+PERMIT-2026-F3D8D074,CIT-000402,Lourdes B. Lazaro,Fire Safety Inspection Certificate,Bayanihan General Merchandise,Photocopy/Printing Services,Barangka Ibaba,2026-01-17T15:03:37,Released,2026-01-22T15:03:37,10,True
+PERMIT-2026-F2311E9C,CIT-000200,Paolo F. Aguilar,Locational Clearance,,Auto Repair Shop,Old Zaniga,2026-06-07T20:58:35,Denied,,19,True
+PERMIT-2026-CCBC18D6,CIT-000056,Antonio B. Bermudez,Fire Safety Inspection Certificate,Sy Corp.,Photocopy/Printing Services,Namayan,2026-06-11T04:00:18,Approved,2026-06-19T04:00:18,10,False
+PERMIT-2026-9B151299,CIT-000215,Marites R. Del Rosario,Building Permit,Bayanihan Enterprises,Bakery,Daang Bakal,2025-12-02T07:20:57,Expired,,14,True
+PERMIT-2026-01570E4C,CIT-000173,Erlinda A. Garcia,Occupancy Permit,Ramos Enterprises,Grocery Store,Hulo,2025-09-30T11:13:03,Pending Review,,11,True
+PERMIT-2026-82C0CAA4,CIT-000153,Bryan R. Alonzo,Locational Clearance,,Restaurant/Eatery,Addition Hills,2026-05-10T01:58:39,Expired,,8,True
+PERMIT-2026-05727A77,CIT-000310,Angelo F. Garcia,Barangay Clearance,Tolentino Food House,Pharmacy,Mauway,2026-06-02T18:38:47,Denied,,13,True
+PERMIT-2026-A4959841,CIT-000456,Manuel T. Marquez,Business Permit Renewal,,Restaurant/Eatery,Mauway,2026-01-29T05:52:08,Pending Review,,16,True
+PERMIT-2026-DB2347FD,CIT-000231,Ferdinand B. Chua,Fire Safety Inspection Certificate,,Photocopy/Printing Services,Poblacion,2025-09-17T12:47:41,Denied,,4,True
+PERMIT-2026-2114BEEF,CIT-000186,Ramon P. Sarmiento,Locational Clearance,,Retail Trading,Daang Bakal,2026-02-04T16:56:07,Released,2026-02-06T16:56:07,11,True
+PERMIT-2026-419BBCFA,CIT-000190,Carlo B. Custodio,New Business Permit,Bayanihan General Merchandise,IT/Software Services,Mabini-J. Rizal,2026-02-13T00:07:27,Expired,,19,True
+PERMIT-2026-77D8946B,CIT-000128,Karen D. Marquez,Business Permit Renewal,,Laundry Shop,Plainview,2026-06-28T05:22:32,Under Evaluation,,6,True
+PERMIT-2026-C1A54BEB,CIT-000458,Kristine D. Torres,New Business Permit,,Beauty Salon/Spa,Vergara,2026-01-08T15:37:18,Pending Review,,6,True
+PERMIT-2026-88C97F5A,CIT-000263,Ramon S. Marquez,Business Permit Renewal,Tahanan General Merchandise,Retail Trading,Old Zaniga,2026-06-28T01:16:45,Pending Review,,14,False
+PERMIT-2026-00E7D2D8,CIT-000001,Juan S. Gonzales,New Business Permit,Bagong Enterprises,Laundry Shop,Barangka Ilaya,2025-12-14T00:50:21,Approved,2025-12-22T00:50:21,11,True
+PERMIT-2026-49CEBB4F,CIT-000361,Mark R. Custodio,Building Permit,Cruz Enterprises,Beauty Salon/Spa,Buayang Bato,2026-05-02T00:06:13,Denied,,5,True
+PERMIT-2026-84F7BB9B,CIT-000221,Charmaine L. Tan,Building Permit,Gonzales Store,Laundry Shop,San Jose,2025-10-30T17:04:45,Denied,,14,True
+PERMIT-2026-6742B655,CIT-000262,Liza P. Gonzales,Barangay Clearance,Pag-Asa Enterprises,Grocery Store,Barangka Drive,2025-12-18T19:49:54,Released,2025-12-22T19:49:54,3,True
+PERMIT-2026-DE93325C,CIT-000276,Ma. Theresa M. Domingo,Building Permit,Sy Corp.,IT/Software Services,Barangka Itaas,2026-05-12T11:16:28,Expired,,5,True
+PERMIT-2026-C37A957E,CIT-000445,Kristine V. Ocampo,Building Permit,,Restaurant/Eatery,Malamig,2026-02-02T18:09:52,Pending Review,,18,True
+PERMIT-2026-B9AE0BFA,CIT-000417,Divina B. Tolentino,Business Permit Renewal,Ligaya Enterprises,Internet Cafe,Daang Bakal,2025-10-04T04:57:20,Approved,2025-10-05T04:57:20,4,True
+PERMIT-2026-A9016F88,CIT-000228,Bryan T. Rivera,Business Permit Renewal,,Photocopy/Printing Services,Namayan,2026-02-02T15:16:45,Pending Review,,10,True
+PERMIT-2026-4CBF97B5,CIT-000502,Divina M. Garcia,Occupancy Permit,Bayanihan Trading,Retail Trading,Old Zaniga,2025-10-15T16:40:21,Denied,,11,False
+PERMIT-2026-6A1AE584,CIT-000399,Rowena B. Espiritu,Locational Clearance,Mabuhay General Merchandise,Photocopy/Printing Services,Wack-Wack Greenhills,2025-11-17T18:09:34,Approved,2025-11-20T18:09:34,5,True
+PERMIT-2026-39D6BF92,CIT-000274,Jennylyn M. Lazaro,Occupancy Permit,Bagong Enterprises,Pharmacy,Poblacion,2025-09-29T02:54:14,Expired,,12,True
+PERMIT-2026-AE60BC0F,CIT-000515,Perla S. Tolentino,Locational Clearance,Bayanihan Foods,Bakery,San Jose,2025-12-28T23:31:22,Approved,2026-01-10T23:31:22,11,True
+PERMIT-2026-C89C5CF5,CIT-000082,Juan C. Bermudez,Building Permit,Flores Enterprises,Photocopy/Printing Services,Hagdang Bato Itaas,2025-10-08T09:00:09,Expired,,10,True
+PERMIT-2026-F6277C91,CIT-000505,Danilo E. Chua,Barangay Clearance,Robles Corp.,Sari-Sari Store,Mauway,2025-09-12T17:51:05,Released,2025-09-22T17:51:05,7,False
+PERMIT-2026-8F5994BA,CIT-000008,Arnel U. Flores,Occupancy Permit,,Photocopy/Printing Services,Barangka Itaas,2026-06-12T22:37:27,Released,2026-06-23T22:37:27,17,True
+PERMIT-2026-6818129D,CIT-000044,Kristine T. Robles,Barangay Clearance,Sarmiento Trading,Restaurant/Eatery,New Zaniga,2026-05-02T11:18:06,Released,2026-05-08T11:18:06,5,True
+PERMIT-2026-4D99E28B,CIT-000053,Fe R. Custodio,Locational Clearance,,Restaurant/Eatery,Wack-Wack Greenhills,2026-02-19T18:13:37,Released,2026-02-25T18:13:37,8,True
+PERMIT-2026-6519EB5F,CIT-000121,Angelo D. Aquino,Fire Safety Inspection Certificate,,Beauty Salon/Spa,Vergara,2025-12-30T05:46:09,Approved,2025-12-31T05:46:09,19,True
+PERMIT-2026-95AFB15B,CIT-000313,Cristina D. Dela Cruz,New Business Permit,Panganiban Services,Sari-Sari Store,Poblacion,2026-05-16T07:07:07,Denied,,20,True
+PERMIT-2026-465CF2DF,CIT-000306,Marlon P. Salazar,New Business Permit,Tahanan Trading,Restaurant/Eatery,Barangka Ibaba,2026-01-24T00:41:22,Pending Review,,14,True
+PERMIT-2026-B95A53D7,CIT-000087,Eduardo C. Sarmiento,Barangay Clearance,Panganiban Trading,Real Estate Services,Barangka Itaas,2026-04-02T01:42:26,Denied,,9,True
+PERMIT-2026-AE36B3A7,CIT-000405,Kevin S. Navarro,Occupancy Permit,Bayanihan Services,Tailoring Shop,Hulo,2026-01-31T22:59:13,Approved,2026-02-14T22:59:13,15,True
+PERMIT-2026-84ADE493,CIT-000363,Jocelyn S. Gonzales,New Business Permit,Villanueva Trading,Internet Cafe,Addition Hills,2026-06-25T17:33:49,Released,2026-06-26T17:33:49,5,True
+PERMIT-2026-06E769D8,CIT-000340,Erlinda L. Rivera,Building Permit,Gonzales Corp.,Pharmacy,Pleasant Hills,2025-09-20T20:45:51,Under Evaluation,,18,True
+PERMIT-2026-A2CF34CA,CIT-000131,Ramon D. Tan,Locational Clearance,,Restaurant/Eatery,San Jose,2026-01-12T18:20:34,Released,2026-01-25T18:20:34,1,True
+PERMIT-2026-215AAB43,CIT-000353,Cristina M. Bautista,Building Permit,,IT/Software Services,Buayang Bato,2026-03-21T18:30:59,Pending Review,,11,True
+PERMIT-2026-3E3C0EC7,CIT-000009,Kevin B. Aguilar,Sanitary Permit,,Restaurant/Eatery,Wack-Wack Greenhills,2026-02-24T06:24:18,Released,2026-03-09T06:24:18,14,True
+PERMIT-2026-E65FEC8A,CIT-000157,Michelle S. Uy,Barangay Clearance,,Real Estate Services,Vergara,2026-06-18T19:15:33,Denied,,4,True
+PERMIT-2026-5F3EDEEC,CIT-000254,Danilo U. Tolentino,Building Permit,Mendoza Trading,IT/Software Services,Highway Hills,2026-05-25T08:49:11,Released,2026-06-04T08:49:11,5,True
+PERMIT-2026-C4C9039F,CIT-000136,Josephine T. Robles,Sanitary Permit,Mabuhay General Merchandise,Beauty Salon/Spa,Hulo,2026-02-11T10:24:00,Pending Review,,3,True
+PERMIT-2026-5FB58D2F,CIT-000390,Cristina C. Ocampo,Sanitary Permit,Domingo Services,Bakery,Hagdang Bato Itaas,2026-02-13T18:27:17,Denied,,16,True
+PERMIT-2026-08369FAF,CIT-000438,Bryan L. Ocampo,Sanitary Permit,,Auto Repair Shop,Pleasant Hills,2026-05-16T15:30:10,Pending Review,,9,False
+PERMIT-2026-2E398350,CIT-000429,Grace S. Aguilar,New Business Permit,,Sari-Sari Store,Barangka Itaas,2025-12-13T12:05:04,Approved,2025-12-14T12:05:04,11,True
+PERMIT-2026-B4229AE7,CIT-000484,Eduardo S. Villanueva,Business Permit Renewal,Tahanan Foods,Internet Cafe,Daang Bakal,2025-12-26T09:26:39,Denied,,4,True
+PERMIT-2026-EE5364BE,CIT-000014,Fe T. Navarro,Barangay Clearance,Masaya Foods,Beauty Salon/Spa,Hulo,2026-05-31T19:49:57,Denied,,19,True
+PERMIT-2026-7B24EB32,CIT-000109,Marianne M. Del Rosario,Business Permit Renewal,,Food Cart/Kiosk,Hagdang Bato Itaas,2025-10-29T06:22:55,Expired,,7,True
+PERMIT-2026-37D200FD,CIT-000457,Manuel C. Del Rosario,Occupancy Permit,Lazaro General Merchandise,Photocopy/Printing Services,Burol,2025-10-16T21:32:14,Pending Review,,5,True
+PERMIT-2026-E0838319,CIT-000197,Grace R. Tolentino,Sanitary Permit,Tahanan Services,Tailoring Shop,San Jose,2026-02-18T00:11:36,Denied,,4,False
+PERMIT-2026-2C329262,CIT-000070,Cristina C. Panganiban,New Business Permit,,Internet Cafe,Vergara,2026-03-15T02:23:03,Released,2026-03-27T02:23:03,5,True
+PERMIT-2026-5CF4A3DF,CIT-000063,Marianne S. Torres,Locational Clearance,Uy Trading,Pharmacy,Mabini-J. Rizal,2026-06-05T00:53:08,Under Evaluation,,17,True
+PERMIT-2026-2C54ED96,CIT-000400,Charmaine M. Torres,Sanitary Permit,,Sari-Sari Store,Addition Hills,2026-02-11T06:21:11,Denied,,6,True
+PERMIT-2026-03C8DB9E,CIT-000010,Josephine M. Panganiban,Sanitary Permit,Malinis General Merchandise,Restaurant/Eatery,Barangka Ilaya,2026-03-26T17:46:19,Released,2026-03-29T17:46:19,8,True
+PERMIT-2026-8E3A3B36,CIT-000244,Ma. Theresa R. Flores,Barangay Clearance,Gonzales Services,IT/Software Services,Barangka Ilaya,2025-12-30T22:20:48,Pending Review,,2,True
+PERMIT-2026-EEFE5E85,CIT-000255,Ana A. Mendoza,Business Permit Renewal,,Auto Repair Shop,Wack-Wack Greenhills,2025-11-29T03:15:16,Denied,,20,False
+PERMIT-2026-142D1EFE,CIT-000333,Perla P. Manalo,Sanitary Permit,Tahanan Trading,Tailoring Shop,Highway Hills,2025-10-10T22:04:49,Expired,,1,True
+PERMIT-2026-1B0CF697,CIT-000225,Corazon M. Reyes,Barangay Clearance,,Sari-Sari Store,Wack-Wack Greenhills,2026-06-19T06:42:21,Approved,2026-06-28T06:42:21,19,True
+PERMIT-2026-75B3A926,CIT-000392,Miguel L. Reyes,Building Permit,Malinis Enterprises,Laundry Shop,Barangka Ibaba,2026-05-20T12:15:29,Approved,2026-05-31T12:15:29,13,True
+PERMIT-2026-994DAE2A,CIT-000238,Alvin V. Ocampo,Locational Clearance,Lazaro Corp.,Retail Trading,Malamig,2026-06-19T00:30:35,Expired,,15,True
+PERMIT-2026-A3844E94,CIT-000181,Marianne O. Rivera,Fire Safety Inspection Certificate,Mabuhay Foods,Retail Trading,Hagdang Bato Itaas,2025-11-20T22:28:19,Denied,,6,True
+PERMIT-2026-6B1997B3,CIT-000193,Reynaldo S. Aguilar,Business Permit Renewal,Bayanihan General Merchandise,Retail Trading,Buayang Bato,2025-10-05T13:31:45,Under Evaluation,,1,True
+PERMIT-2026-219A7C16,CIT-000387,Danilo P. Flores,Business Permit Renewal,Cruz Trading,Real Estate Services,Barangka Ilaya,2026-02-04T17:13:16,Pending Review,,3,True
+PERMIT-2026-A7FCD541,CIT-000014,Fe T. Navarro,Occupancy Permit,Garcia Trading,Pharmacy,Hulo,2025-09-12T05:44:55,Pending Review,,19,False
+PERMIT-2026-EF3914FB,CIT-000168,Vincent L. Mendoza,Fire Safety Inspection Certificate,,Sari-Sari Store,Barangka Ilaya,2026-01-05T23:12:20,Approved,2026-01-14T23:12:20,9,True
+PERMIT-2026-3478DDC5,CIT-000127,Ronnel D. Custodio,Business Permit Renewal,Ligaya Trading,Food Cart/Kiosk,Hagdang Bato Libis,2025-09-16T19:50:31,Pending Review,,8,True
+PERMIT-2026-FF464BC6,CIT-000438,Bryan L. Ocampo,Occupancy Permit,Bayanihan Services,Retail Trading,Pleasant Hills,2026-02-05T06:12:01,Under Evaluation,,4,True
+PERMIT-2026-B9566EF4,CIT-000289,Cristina C. Del Rosario,Occupancy Permit,,Food Cart/Kiosk,Vergara,2026-01-25T08:31:15,Pending Review,,3,False
+PERMIT-2026-DC71E117,CIT-000155,Kevin D. Navarro,Occupancy Permit,Alonzo Store,Tailoring Shop,Barangka Ilaya,2025-11-16T17:52:55,Released,2025-11-21T17:52:55,20,True
+PERMIT-2026-C52C4544,CIT-000357,Grace T. Uy,Fire Safety Inspection Certificate,Marquez Food House,Sari-Sari Store,Harapin Ang Bukas,2025-10-18T22:47:54,Approved,2025-11-01T22:47:54,5,True
+PERMIT-2026-FE7CF293,CIT-000151,Liza C. Marquez,Locational Clearance,Lazaro Enterprises,Laundry Shop,Hagdang Bato Libis,2026-01-10T23:10:20,Under Evaluation,,14,False
+PERMIT-2026-D8880631,CIT-000286,Precious T. Robles,Occupancy Permit,Tahanan Foods,Pharmacy,Daang Bakal,2025-11-03T18:34:18,Pending Review,,14,True
+PERMIT-2026-6A470F16,CIT-000424,Lourdes T. Bautista,Occupancy Permit,,Tailoring Shop,Hulo,2026-04-30T06:49:20,Expired,,8,True
+PERMIT-2026-6AD6D681,CIT-000510,Liza G. Uy,Fire Safety Inspection Certificate,Bayanihan General Merchandise,Photocopy/Printing Services,Buayang Bato,2026-04-05T19:39:29,Denied,,14,True
+PERMIT-2026-4576222A,CIT-000225,Corazon M. Reyes,Building Permit,Castillo Services,Grocery Store,Wack-Wack Greenhills,2026-06-08T15:28:28,Pending Review,,16,False
+PERMIT-2026-7ACC2BF3,CIT-000113,Marianne L. Marquez,Occupancy Permit,Bagong Enterprises,IT/Software Services,Wack-Wack Greenhills,2025-10-01T17:28:17,Approved,2025-10-15T17:28:17,18,False
+PERMIT-2026-0613667B,CIT-000432,Vilma T. Torres,Building Permit,,Retail Trading,Namayan,2025-12-11T18:24:34,Under Evaluation,,4,False
+PERMIT-2026-0D257991,CIT-000147,Bryan C. Garcia,New Business Permit,Mabuhay Trading,Tailoring Shop,Mabini-J. Rizal,2026-02-02T04:21:34,Expired,,19,True
+PERMIT-2026-A25150AB,CIT-000162,Erlinda D. Aquino,Occupancy Permit,,Beauty Salon/Spa,Hagdang Bato Itaas,2025-09-20T07:31:17,Under Evaluation,,3,True
+PERMIT-2026-23AFA83E,CIT-000427,Jasmin L. Flores,Fire Safety Inspection Certificate,Bagong Services,Photocopy/Printing Services,Addition Hills,2025-11-05T17:38:08,Under Evaluation,,11,True
+PERMIT-2026-000155D9,CIT-000014,Fe T. Navarro,Barangay Clearance,,Tailoring Shop,Hulo,2025-12-28T23:03:05,Pending Review,,2,True
+PERMIT-2026-01A68B58,CIT-000178,Manuel M. Dela Cruz,New Business Permit,Malinis General Merchandise,Grocery Store,Pag-asa,2026-03-23T01:13:24,Under Evaluation,,10,True
+PERMIT-2026-89D73133,CIT-000434,Carlo U. Uy,Business Permit Renewal,Del Rosario Corp.,Laundry Shop,Pag-asa,2025-11-08T11:39:28,Approved,2025-11-09T11:39:28,8,True
+PERMIT-2026-381537D7,CIT-000080,Julius T. Sarmiento,Fire Safety Inspection Certificate,Ligaya Trading,Real Estate Services,Mabini-J. Rizal,2026-06-04T12:03:13,Released,2026-06-10T12:03:13,14,True
+PERMIT-2026-B54069EC,CIT-000112,Julius M. Domingo,Occupancy Permit,Navarro Trading,Internet Cafe,Barangka Drive,2025-10-19T03:14:56,Pending Review,,6,True
+PERMIT-2026-27F0430F,CIT-000067,Angelica D. Alonzo,New Business Permit,Fernandez General Merchandise,Beauty Salon/Spa,Pleasant Hills,2025-11-29T21:18:49,Denied,,2,True
+PERMIT-2026-375F3697,CIT-000088,Eduardo B. Rivera,New Business Permit,Lazaro Enterprises,Auto Repair Shop,Hagdang Bato Libis,2026-04-18T00:05:57,Denied,,3,False
+PERMIT-2026-A5A3D01F,CIT-000009,Kevin B. Aguilar,Locational Clearance,Tahanan Enterprises,Photocopy/Printing Services,Wack-Wack Greenhills,2026-01-25T02:22:51,Approved,2026-02-05T02:22:51,4,True
+PERMIT-2026-E62AA752,CIT-000516,Vincent V. Cruz,Barangay Clearance,,Real Estate Services,Poblacion,2025-10-17T19:35:06,Denied,,13,True
+PERMIT-2026-8D570378,CIT-000039,Emmanuel F. Salazar,Barangay Clearance,Garcia Store,Beauty Salon/Spa,Hulo,2025-12-30T06:16:43,Under Evaluation,,7,True
+PERMIT-2026-3D785836,CIT-000145,Jocelyn A. Aguilar,Barangay Clearance,Bagong Enterprises,Auto Repair Shop,Barangka Drive,2026-07-04T04:08:42,Expired,,10,True
+PERMIT-2026-90B21430,CIT-000442,Christian R. Castillo,Locational Clearance,,Laundry Shop,Hulo,2025-09-24T03:07:02,Expired,,20,True
+PERMIT-2026-3C889181,CIT-000157,Michelle S. Uy,Fire Safety Inspection Certificate,,Sari-Sari Store,Vergara,2026-04-16T18:04:08,Expired,,5,True
+PERMIT-2026-8EDBB3C1,CIT-000317,Renato D. Bermudez,Fire Safety Inspection Certificate,,Auto Repair Shop,Burol,2026-04-09T01:50:51,Pending Review,,6,False
+PERMIT-2026-018FE270,CIT-000166,Danilo R. Bermudez,Occupancy Permit,Ocampo Store,Real Estate Services,Mauway,2025-10-05T01:29:03,Approved,2025-10-13T01:29:03,9,False
+PERMIT-2026-EDF3D144,CIT-000263,Ramon S. Marquez,Barangay Clearance,Mabuhay Foods,IT/Software Services,Old Zaniga,2026-07-01T23:12:34,Released,2026-07-06T23:12:34,13,True
+PERMIT-2026-397B359A,CIT-000133,Danilo O. Manalo,Occupancy Permit,Malinis Trading,Laundry Shop,Poblacion,2026-02-26T18:58:54,Approved,2026-03-09T18:58:54,2,True
+PERMIT-2026-0286CA63,CIT-000251,Ana F. Santos,New Business Permit,,Restaurant/Eatery,Malamig,2026-06-07T08:16:07,Denied,,10,True
+PERMIT-2026-B1EEC747,CIT-000409,Mark B. Manalo,Locational Clearance,Bagong Services,Tailoring Shop,Namayan,2025-10-06T22:22:50,Under Evaluation,,18,False
+PERMIT-2026-B6CF4D54,CIT-000477,Jennylyn M. Manalo,Barangay Clearance,Masaya Services,Auto Repair Shop,Mauway,2025-10-20T23:13:59,Pending Review,,3,True
+PERMIT-2026-6053AAEA,CIT-000498,Charmaine M. Sy,Fire Safety Inspection Certificate,,Pharmacy,Barangka Drive,2025-11-30T04:04:24,Expired,,2,True
+PERMIT-2026-B83549A1,CIT-000482,Charmaine S. Rivera,Building Permit,Mabuhay Foods,Real Estate Services,Pleasant Hills,2025-11-04T02:27:24,Expired,,14,False
+PERMIT-2026-0E8ECB0E,CIT-000219,Angelo S. Dela Cruz,New Business Permit,Malinis Enterprises,Restaurant/Eatery,Plainview,2025-09-29T14:12:32,Under Evaluation,,5,True
+PERMIT-2026-4AC5C089,CIT-000415,Julius E. Custodio,Fire Safety Inspection Certificate,Sarmiento Store,Food Cart/Kiosk,Malamig,2025-10-10T07:45:14,Approved,2025-10-15T07:45:14,6,True
+PERMIT-2026-91AA1451,CIT-000095,Alvin G. Ocampo,Sanitary Permit,,Auto Repair Shop,Hagdang Bato Libis,2026-02-22T00:23:56,Approved,2026-03-01T00:23:56,16,True
+PERMIT-2026-97E51584,CIT-000165,Kristine R. Uy,Occupancy Permit,Mabuhay General Merchandise,Real Estate Services,Pleasant Hills,2026-06-06T03:47:32,Released,2026-06-21T03:47:32,20,True
+PERMIT-2026-EF284D52,CIT-000149,Jose C. Salazar,Occupancy Permit,,Food Cart/Kiosk,Mauway,2026-01-12T07:34:34,Expired,,15,False
+PERMIT-2026-2C3B9360,CIT-000512,Carlo P. Mendoza,Locational Clearance,,Photocopy/Printing Services,Barangka Ilaya,2026-01-09T11:18:17,Pending Review,,1,False
+PERMIT-2026-52D6861B,CIT-000129,Angelica D. Dela Cruz,Business Permit Renewal,,Photocopy/Printing Services,New Zaniga,2026-05-12T22:12:35,Released,2026-05-16T22:12:35,14,True
+PERMIT-2026-914A3F97,CIT-000171,Rowena V. Cruz,Building Permit,Villanueva Services,IT/Software Services,Harapin Ang Bukas,2026-04-29T23:22:05,Released,2026-05-05T23:22:05,1,True
+PERMIT-2026-943CA2C1,CIT-000315,Ramon M. Flores,Fire Safety Inspection Certificate,Pag-Asa Foods,Auto Repair Shop,New Zaniga,2026-03-22T13:56:35,Pending Review,,18,True
+PERMIT-2026-AC629F03,CIT-000344,Angel N. Mendoza,Fire Safety Inspection Certificate,Ramos General Merchandise,Bakery,Hagdang Bato Libis,2025-10-22T14:56:53,Under Evaluation,,13,True
+PERMIT-2026-F230D32B,CIT-000448,Carlo G. Chua,Business Permit Renewal,Mendoza Store,Sari-Sari Store,Wack-Wack Greenhills,2026-05-12T20:28:40,Approved,2026-05-22T20:28:40,14,True
+PERMIT-2026-166F82C4,CIT-000103,Jennylyn A. Dela Cruz,New Business Permit,Bermudez Trading,Real Estate Services,Burol,2026-05-12T15:03:08,Released,2026-05-20T15:03:08,18,True
+PERMIT-2026-C2D3AC49,CIT-000201,Lourdes F. Sy,Occupancy Permit,Pag-Asa Trading,Auto Repair Shop,Wack-Wack Greenhills,2026-03-09T22:55:08,Pending Review,,8,True
+PERMIT-2026-79B3B675,CIT-000275,Juan M. Navarro,Sanitary Permit,Bermudez Enterprises,Food Cart/Kiosk,Poblacion,2026-05-22T09:31:47,Approved,2026-06-06T09:31:47,14,True
+PERMIT-2026-55F00B2F,CIT-000027,Danilo B. Uy,Occupancy Permit,Masaya General Merchandise,Bakery,Bagong Silang,2025-11-07T03:43:54,Approved,2025-11-11T03:43:54,20,True
+PERMIT-2026-8FBFD7BF,CIT-000053,Fe R. Custodio,Barangay Clearance,Tolentino Corp.,Food Cart/Kiosk,Wack-Wack Greenhills,2026-04-21T00:09:21,Released,2026-04-27T00:09:21,17,True
+PERMIT-2026-55684916,CIT-000237,Katherine C. Garcia,Barangay Clearance,Malinis General Merchandise,Retail Trading,Barangka Drive,2025-10-17T06:18:12,Expired,,11,True
+PERMIT-2026-AAC1D776,CIT-000096,Jocelyn C. Aquino,New Business Permit,Lim Enterprises,Laundry Shop,Harapin Ang Bukas,2025-09-18T13:09:15,Released,2025-09-30T13:09:15,18,False
+PERMIT-2026-29C18DD2,CIT-000081,Julius C. Castillo,New Business Permit,Tahanan Enterprises,Beauty Salon/Spa,Plainview,2026-04-18T15:40:29,Released,2026-04-29T15:40:29,8,True
+PERMIT-2026-3D5410DE,CIT-000252,Rafael S. Castillo,Sanitary Permit,Gonzales Trading,Tailoring Shop,Daang Bakal,2026-06-17T15:53:39,Released,2026-06-18T15:53:39,19,True
