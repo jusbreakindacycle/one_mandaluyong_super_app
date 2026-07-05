@@ -1,0 +1,156 @@
+<h2 class="sr-only">Interactive roadmap dashboard for One Mandaluyong Super App, showing phase goals, compliance checklist items, risk focus, KPIs, and training plans across five phases</h2>
+<style>
+  .phase-pill { border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: var(--surface-1); padding: 8px 14px; font-size: 13px; font-weight: 500; cursor: pointer; color: var(--text-secondary); white-space: nowrap; }
+  .phase-pill.active { background: var(--fill-accent); color: var(--on-accent); border-color: var(--fill-accent); }
+  .sec-title { font-size: 13px; font-weight: 500; color: var(--text-secondary); margin: 0 0 8px; display: flex; align-items: center; gap: 6px; }
+  .chk-item { display: flex; align-items: flex-start; gap: 8px; padding: 6px 0; font-size: 13px; color: var(--text-primary); border-bottom: 0.5px solid var(--border); }
+  .chk-item:last-child { border-bottom: none; }
+  .risk-tag { display: inline-block; font-size: 12px; padding: 3px 10px; border-radius: var(--radius); background: var(--bg-warning); color: var(--text-warning); margin: 0 6px 6px 0; }
+  .kpi-tag { display: inline-block; font-size: 12px; padding: 3px 10px; border-radius: var(--radius); background: var(--bg-accent); color: var(--text-accent); margin: 0 6px 6px 0; }
+  .train-item { display: flex; align-items: flex-start; gap: 8px; padding: 6px 0; font-size: 13px; color: var(--text-primary); border-bottom: 0.5px solid var(--border); }
+  .train-item:last-child { border-bottom: none; }
+  .train-audience { font-size: 11px; color: var(--text-muted); min-width: 92px; }
+  .card { background: var(--surface-1); border-radius: 12px; padding: 1rem 1.25rem; margin-bottom: 12px; }
+</style>
+<div style="display:flex; gap:8px; overflow-x:auto; padding-bottom: 4px; margin-bottom: 1.25rem;" id="pillbar"></div>
+<div id="content"></div>
+
+<script>
+const phases = [
+  {
+    id: 0, name: "Phase 0", label: "Foundation and governance",
+    goals: [
+      "Core platform: identity, API gateway, data architecture, observability",
+      "Finalize governance structures, coding standards, branching, security baselines",
+      "Stand up repository structure and CI/CD",
+      "No citizen-facing features launched yet"
+    ],
+    checklist: [
+      "NPC registration initiated for modules processing personal data, DPO formally designated",
+      "Procurement regime confirmed with BAC and City Legal (NGPA vs transitional RA 9184)",
+      "Phase 0 procurement items in the Annual Procurement Plan, posted on PhilGEPS",
+      "Legal basis review of this document completed by City Legal Department"
+    ],
+    risks: ["Change in city leadership", "Delayed budget appropriation", "Procurement transition (RA 9184 to RA 12009)"],
+    kpis: ["Compliance Checklist completion rate: 100% of Phase 0 items", "IT Steering Committee and Architecture Review Board constituted (yes/no)", "Core infrastructure operational in non-production environment"],
+    training: [
+      { aud: "ICTD staff", item: "Platform architecture, coding standards, and branching strategy, ahead of active development" },
+      { aud: "City leadership", item: "Orientation on the IT Steering Committee's structure and decision-making role" }
+    ],
+  },
+  {
+    id: 1, name: "Phase 1", label: "Limited pilot",
+    goals: [
+      "Launch one or two high-value citizen services with a limited group of departments",
+      "Validate identity, payments, notifications, and core workflow modules",
+      "Establish baseline metrics for performance, security, and citizen satisfaction"
+    ],
+    checklist: [
+      "Privacy Impact Assessment completed for each pilot citizen-facing module",
+      "Citizen's Charter drafted and published, reflecting RA 11032 processing-time ceilings",
+      "Data-sharing agreements executed for interdepartmental data exchange",
+      "Records retention approach for pilot-generated records confirmed"
+    ],
+    risks: ["Employee resistance to digitized workflows", "Data migration from legacy systems", "Citizen trust and communication"],
+    kpis: ["Citizen adoption rate vs. prior manual-process volume", "Citizen satisfaction score (post-transaction survey)", "RA 11032 processing-time compliance rate per pilot service", "Platform uptime and incident count during pilot"],
+    training: [
+      { aud: "Dept. end-users", item: "Role-based training on pilot modules, delivered before pilot go-live" },
+      { aud: "Citizens", item: "Digital literacy materials published for the specific pilot services going live" }
+    ],
+  },
+  {
+    id: 2, name: "Phase 2", label: "Controlled expansion",
+    goals: [
+      "Onboard additional departments and modules based on pilot learnings",
+      "Expand Master Data Management, Enterprise Search, Enterprise Integration",
+      "Introduce AI-Assisted Enterprise Intelligence internally, under full human review"
+    ],
+    checklist: [
+      "Pilot Citizen's Charter and processing-time performance reviewed against RA 11032",
+      "Data-sharing agreements extended to newly onboarded departments",
+      "DICT interoperability and certification requirements confirmed, if integrating with eGovDX or eGovPH"
+    ],
+    risks: ["Vendor or platform lock-in", "Data migration risk", "Loss of institutional knowledge in transitions"],
+    kpis: ["Adoption rate trend across newly onboarded departments vs. pilot baseline", "MDM match and duplicate rates across expanded modules", "Compliance Checklist completion rate for Phase 2 gate items"],
+    training: [
+      { aud: "Dept. end-users", item: "Training extended to each newly onboarded department, incorporating Phase 1 lessons learned" },
+      { aud: "ICTD staff", item: "Trained on Master Data Management, Enterprise Search, and Enterprise Integration" }
+    ],
+  },
+  {
+    id: 3, name: "Phase 3", label: "Citywide scale-up",
+    goals: [
+      "Extend the platform to remaining departments and citizen services",
+      "Deepen interoperability with barangays and national government platforms",
+      "Mature analytics and reporting, including the analytics/warehouse expansion path"
+    ],
+    checklist: [
+      "NPC registration and PIAs extended to cover all citywide modules",
+      "Accessibility compliance verified across all citizen-facing modules",
+      "COA documentation and audit-trail requirements confirmed for citywide volume"
+    ],
+    risks: ["Server, network, or cloud downtime at scale", "Citizen data breach or misuse", "Digital exclusion of citizens without smartphones or internet"],
+    kpis: ["Citywide adoption rate and satisfaction score vs. Phase 1 baseline", "Accessibility compliance rate across all citizen-facing modules", "Cost per transaction vs. pre-digital baseline"],
+    training: [
+      { aud: "All depts.", item: "Training scaled to remaining departments and barangays" },
+      { aud: "Citizens", item: "Digital literacy track expanded citywide, coordinated with the City Public Information Office" }
+    ],
+  },
+  {
+    id: 4, name: "Phase 4", label: "Continuous evolution",
+    goals: [
+      "Treat the platform as a permanent digital foundation, not a finished project",
+      "Continuously incorporate lessons learned, citizen feedback, new integrations",
+      "Periodically reassess architecture, security posture, and governance practices"
+    ],
+    checklist: [
+      "Legal and regulatory basis re-verified against current, in-force law",
+      "Breach notification readiness re-tested",
+      "New national government integrations reviewed against Integration Governance before implementation"
+    ],
+    risks: ["Ongoing political and administrative continuity", "Ongoing procurement cycles", "Continuous reputational and trust risk"],
+    kpis: ["Trend analysis across all prior KPI categories, reviewed at each phase gate", "Rate of new risks identified and closed", "Citizen feedback themes incorporated into the continuous improvement cycle"],
+    training: [
+      { aud: "All staff", item: "Training refreshed continuously as modules, integrations, and governance evolve" },
+      { aud: "New hires", item: "Platform training included as standard onboarding, not a one-time rollout" }
+    ],
+  },
+];
+
+let active = 0;
+
+function render() {
+  const bar = document.getElementById('pillbar');
+  bar.innerHTML = phases.map(p =>
+    `<button class="phase-pill${p.id===active?' active':''}" onclick="setActive(${p.id})">${p.name}</button>`
+  ).join('');
+
+  const p = phases[active];
+  const content = document.getElementById('content');
+  content.innerHTML = `
+    <div class="card">
+      <p class="sec-title"><i class="ti ti-flag" aria-hidden="true"></i>${p.name} — ${p.label}</p>
+      ${p.goals.map(g => `<div class="chk-item"><i class="ti ti-point" aria-hidden="true" style="margin-top:2px;color:var(--text-muted)"></i>${g}</div>`).join('')}
+    </div>
+    <div class="card">
+      <p class="sec-title"><i class="ti ti-clipboard-check" aria-hidden="true"></i>Compliance checklist before this phase proceeds</p>
+      ${p.checklist.map(c => `<div class="chk-item"><input type="checkbox" style="margin-top:2px"/>${c}</div>`).join('')}
+    </div>
+    <div class="card">
+      <p class="sec-title"><i class="ti ti-alert-triangle" aria-hidden="true"></i>Risk focus this phase</p>
+      <div>${p.risks.map(r => `<span class="risk-tag">${r}</span>`).join('')}</div>
+    </div>
+    <div class="card">
+      <p class="sec-title"><i class="ti ti-chart-bar" aria-hidden="true"></i>KPIs this phase</p>
+      <div>${p.kpis.map(k => `<span class="kpi-tag">${k}</span>`).join('')}</div>
+    </div>
+    <div class="card">
+      <p class="sec-title"><i class="ti ti-school" aria-hidden="true"></i>Training this phase</p>
+      ${p.training.map(t => `<div class="train-item"><span class="train-audience">${t.aud}</span><span>${t.item}</span></div>`).join('')}
+    </div>
+  `;
+}
+
+function setActive(id) { active = id; render(); }
+render();
+</script>
