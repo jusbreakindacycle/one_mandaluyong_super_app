@@ -1,6 +1,6 @@
 # One Mandaluyong Super App
 
-**Version:** 1.8.0  
+**Version:** 1.9.3  
 **Status:** Engineering Blueprint — Ready for Architecture Freeze
 
 Table of Contents
@@ -252,7 +252,7 @@ Section 10 identifies who is *involved* in One Mandaluyong Super App. This secti
 >
 > However, the **Chief Information Officer position below is no longer merely a proposal.** Republic Act No. 12254 (the E-Governance Act of 2025) requires all covered government agencies, including LGUs, to designate a Chief Information Officer to lead digital transformation and ensure alignment with national ICT standards, and requires agency ICT strategies to align with DICT's E-Government Master Plan (EGMP). This section should be read as identifying a legal obligation the City must fulfill, not just a best-practice recommendation.
 >
-> **Statutory deadlines, corrected:** RA 12254 was signed September 5, 2025 and took effect 15 days after publication (approximately late September 2025) — Sections 9(b) and 32 of the Act set the deadline for LGUs to establish their own digital portal or adopt DICT's eLGU system at **one (1) year from the effectivity of the Act itself, not from its Implementing Rules and Regulations.** That places the deadline at approximately **late September 2026**, not April 2027. Separately, the Anti-Red Tape Authority has set **November 1, 2026** as the deadline for LGUs to have online business-permit processing (eBOSS) operational; as of December 31, 2025, only 127 of 1,642 LGUs nationwide were compliant. Both dates should anchor Phase 0/Phase 1 planning discussions, with the September 2026 date taking priority since it comes first.
+> **Statutory deadlines, corrected:** RA 12254 was signed September 5, 2025 and took effect 15 days after publication (approximately late September 2025) — Sections 9(b) and 32 of the Act set the deadline for LGUs to establish their own digital portal or adopt DICT's eLGU system at **one (1) year from the effectivity of the Act itself, not from its Implementing Rules and Regulations.** That places the deadline at approximately **late September 2026**. Separately, the Anti-Red Tape Authority has set **November 1, 2026** as the deadline for LGUs to have online business-permit processing (eBOSS) operational; as of December 31, 2025, only 127 of 1,642 LGUs nationwide were compliant. Both dates should anchor Phase 0/Phase 1 planning discussions, with the September 2026 date taking priority since it comes first.
 
 ---
 
@@ -299,6 +299,25 @@ A module or service change follows this path when it cannot be resolved at the w
 2. **Technical Architecture Review Board** — for issues involving shared contracts, security, identity, or data governance.
 3. **IT Steering Committee** — for issues involving budget, cross-department conflict, or Roadmap phase-gate decisions.
 4. **Office of the City Mayor / Sangguniang Panlungsod** — reserved for matters requiring executive or legislative action, such as ordinance changes or budget appropriation beyond the Steering Committee's authority.
+
+---
+
+## Budget Framework (Deferred, Owner TBD)
+
+> ⚠️ **Referenced Elsewhere, Not Yet Defined**
+> The IT Steering Committee's budget-approval responsibility above, and the Financial KPIs ("budget variance against the future Budget Framework") in the Monitoring and Evaluation Framework, both assume a Budget Framework document that does not yet exist. This subsection names the gap rather than inventing budget figures, cost ceilings, or funding mechanics that are not this engineering blueprint's decision to make.
+>
+> A Budget Framework, once developed, should define: how each Roadmap phase's funding request is scoped and justified (consistent with the Procurement Risk mitigation in Risk Management, which ties funding to demonstrated outcomes from the prior phase); how it interacts with the City's Annual Procurement Plan (APP) and Sanggunian appropriation cycle; and the specific cost-per-transaction and budget-variance baselines the Monitoring and Evaluation Framework currently leaves unset.
+>
+> *Proposed Owner: City Budget Department, jointly with the IT Steering Committee once constituted — consistent with the City Budget Department's existing seat on that Committee. This should be developed before the first Phase 0 budget request is submitted, not after.*
+
+---
+
+## Dependency Note: CIO and Data Protection Officer Appointments
+
+The CIO designation (above) and the Data Protection Officer appointment (Legal and Regulatory Compliance, Data Privacy) are independent statutory obligations under RA 12254 and RA 10173 respectively, but this platform's governance model has a single point of dependency on both: the IT Steering Committee cannot be meaningfully chaired until a CIO is named, and the Phase 0 NPC-registration compliance item cannot proceed until a DPO is designated. A delay in either appointment stalls two separate workstreams at once.
+
+This is not a reason to delay Phase 0 planning. It is a reason for the City Administrator's Department to treat both appointments as shared upstream dependencies with an interim-designee fallback (e.g., an acting CIO or DPO drawn from ICTD or the City Legal Department) if a permanent appointment is not finalized before Phase 0 governance activities are scheduled to begin.
 
 ---
 
@@ -419,10 +438,10 @@ These shared services establish a consistent and reusable foundation for future 
 One Mandaluyong Super App complements—not replaces—national digital government initiatives.
 
 > ⚠️ **Federation Decision — Proposed Direction, Pending IT Steering Committee Confirmation**
-> This is no longer a "potential future integration" question. The national eGovPH super app launched December 2025 and already covers permits, clearances, civil registry documents, identity verification, and payments — the same ground much of the Citizen Experience Layer was originally scoped to cover independently. Republic Act No. 12254 §9(a) requires LGUs providing frontline services to file an application for integration with DICT, and the Anti-Red Tape Authority's Central Business Portal (CBP) mandate under RA 11032 requires business-permit systems to integrate with DICT/ARTA's national infrastructure — with a November 1, 2026 compliance deadline. Building a fully independent citizen-facing layer without resolving this is now a decision with statutory and scheduling consequences, not a Phase 3 "maybe."
+> This is no longer a "potential future integration" question. The national eGovPH super app was originally launched in January 2024 and had its major national "Super App" relaunch on July 18, 2025, led by the Office of the President — it already covers permits, clearances, civil registry documents, identity verification, and payments — the same ground much of the Citizen Experience Layer was originally scoped to cover independently. Republic Act No. 12254 §9(a) requires LGUs providing frontline services to file an application for integration with DICT, and the Anti-Red Tape Authority's Central Business Portal (CBP) mandate under RA 11032 requires business-permit systems to integrate with DICT/ARTA's national infrastructure — with a November 1, 2026 compliance deadline. Building a fully independent citizen-facing layer without resolving this is now a decision with statutory and scheduling consequences, not a Phase 3 "maybe."
 >
 > **Proposed direction, module by module:**
-> - **Business Registration and Permit Services** — federate through DICT's free `eNGU`/eBPLS system and the ARTA Central Business Portal rather than building an independent permitting engine. This is the module under the nearest deadline (November 1, 2026).
+> - **Business Registration and Permit Services** — federate through DICT's free `eNGU`/eBPLS system and the ARTA Central Business Portal rather than building an independent permitting engine. This is the module under the nearest deadline (November 1, 2026). *(Terminology note: `eNGU` refers to DICT's overarching next-generation LGU platform; `eBPLS`, the electronic Business Permit and Licensing System, is the specific business-permit module within it that satisfies the ARTA eBOSS integration requirement — these are not competing systems.)*
 > - **Citizen identity verification** — federate through PhilSys/eGovDX-style credential exchange rather than building a parallel identity-verification system, while the platform's own Identity and Access Management (Security Architecture, Technology Stack) continues to govern authorization and RBAC within Mandaluyong's own operational systems.
 > - **Payments** — federate through the national Government Digital Payment Systems framework (RA 12254 §9(c)) where available, rather than building independent payment rails as the primary channel.
 > - **Government Operations Layer, Enterprise Intelligence Layer, Local Legislation and Ordinance Knowledge Base, barangay-level coordination, case management, and internal departmental workflows** — remain unique to Mandaluyong. Nothing at the national level replicates these, and they are the platform's actual long-term value, independent of the federation decision above.
@@ -436,7 +455,7 @@ Integrations under this federation model include:
 - **eLGU** — the DICT-provided system Mandaluyong must adopt if it does not stand up its own compliant portal by the RA 12254 deadline (approximately late September 2026).
 - **eGovDX** for secure interoperability and information exchange with national registries.
 - **eGovPH** as the national citizen-facing entry point for services the City chooses to federate rather than duplicate, per the decision above.
-- **DICT's `eNGU`/eBPLS and the ARTA Central Business Portal** for Business Registration and Permit Services, ahead of the November 1, 2026 deadline.
+- **DICT's `eNGU`/eBPLS and the ARTA Central Business Portal** — see the Business Registration and Permit Services federation decision above.
 - Other authorized national government platforms and services that enhance local public service delivery while complying with applicable laws, standards, and governance requirements.
 
 ---
@@ -549,7 +568,7 @@ Its primary responsibilities include:
 - Continuous Improvement
 - Enterprise Repository Intelligence
 
-The detailed responsibilities, principles, and implementation of this layer are formally defined in **Section 14 – AI-Assisted Enterprise Intelligence**.
+The detailed responsibilities, principles, and implementation of this layer are formally defined in **Section 15 – AI-Assisted Enterprise Intelligence**.
 
 ---
 
@@ -1314,7 +1333,7 @@ Knowledge generated during projects becomes an organizational asset that support
 
 Solution-Oriented Engineering defines **how solutions should be conceived, evaluated, and implemented**.
 
-The AI-Assisted Enterprise Intelligence Layer, described in Section 14, supports this methodology by providing evidence-based insights, engineering recommendations, governance assistance, and organizational learning.
+The AI-Assisted Enterprise Intelligence Layer, described in Section 15, supports this methodology by providing evidence-based insights, engineering recommendations, governance assistance, and organizational learning.
 
 Artificial Intelligence does not determine engineering decisions. Instead, it augments human expertise by helping engineers, architects, analysts, project teams, and city leadership make more informed, transparent, and sustainable decisions.
 
@@ -1449,7 +1468,7 @@ Master data may include:
 - Reference Codes
 - Geographic Information
 
-MDM reduces duplicate records, improves data consistency, and enables reliable information sharing across departments.
+MDM reduces duplicate records, improves data consistency, and enables reliable information sharing across departments. In practice, this is the technical mechanism behind the **Once-Only Principle** already named in the Data Architecture Principles, above, and behind the platform's PGIF conformance obligation (see Legal and Regulatory Compliance, Government Digital Transformation Mandate).
 
 The specific database-level isolation boundary that enforces this — schema-per-service as the minimum, with MDM implemented as a read pattern rather than a shared-write pattern — is defined in the Technology Stack's System of Record subsection. This section defines *what* MDM does; that section defines *how* it is technically enforced so departmental data ownership isn't quietly undermined by a shared database schema.
 
@@ -1488,7 +1507,7 @@ The platform promotes:
 - Interoperability with Internal Systems
 - Interoperability with Authorized External Government Systems
 
-This approach reduces duplication, improves consistency, and enables seamless cross-department collaboration.
+This approach reduces duplication, improves consistency, and enables seamless cross-department collaboration. Data exchange crossing department or agency boundaries follows the Philippine Government Interoperability Framework (PGIF), as defined in Legal and Regulatory Compliance.
 
 ---
 
@@ -1562,11 +1581,9 @@ This subsection should be finalized once the City Government of Mandaluyong init
 
 ## Role-Based Data Access
 
-Access to enterprise data is governed according to organizational responsibilities.
+Access to enterprise data is governed according to organizational responsibilities, using the same Role-Based Access Control (RBAC) mechanism defined in full under Security Architecture's Role-Based Access Control (RBAC) subsection. This subsection covers what is specific to *data* access rather than restating that definition.
 
-The platform implements Role-Based Access Control (RBAC) to ensure that city employees can access only the information necessary for their authorized duties.
-
-Access decisions consider:
+For data specifically, access decisions consider:
 
 - User Roles
 - Department Responsibilities
@@ -1801,6 +1818,9 @@ Privacy remains a shared responsibility across technology, governance, and opera
 
 The platform is designed to maintain service availability and recover from operational disruptions.
 
+> ⚠️ **Recovery Targets Not Yet Set — Requires IT Steering Committee Confirmation**
+> This subsection names the required recovery capabilities. It does not invent specific numeric targets (e.g., "4-hour recovery time," "15-minute data loss tolerance") for any service tier. Setting a Recovery Time Objective (RTO — how long the platform may be unavailable before service is restored) and a Recovery Point Objective (RPO — how much recent data loss is acceptable in a failure) is a risk-tolerance decision for City leadership, not an engineering assumption. Different modules may warrant different targets — for example, Payment Services likely warrants a stricter RPO than the Local Legislation and Ordinance Knowledge Base. Targets should be confirmed by the IT Steering Committee once constituted, informed by the Risk Management section's risk register, and finalized before Phase 1 (Limited Pilot) puts any service under real operating conditions.
+
 Business continuity capabilities include:
 
 - Regular Backups
@@ -1810,6 +1830,7 @@ Business continuity capabilities include:
 - High Availability
 - Operational Resilience
 - Recovery Testing
+- **Recovery Time Objective (RTO) and Recovery Point Objective (RPO)** — per-service-tier targets, pending IT Steering Committee confirmation as described above
 - Continuity Planning
 
 These capabilities help ensure that essential government services remain available during unexpected events.
@@ -1859,7 +1880,7 @@ One Mandaluyong Super App is designed, procured, and operated within the framewo
 
 This section identifies the primary legal and regulatory instruments applicable to the platform. It does not substitute for formal legal review; all citations and applicability determinations should be confirmed with the City Government of Mandaluyong's Legal Office before procurement, development, or public launch.
 
-> **Reference:** See `docs/governance/legal-and-regulatory-references.md` for a citation-only index of every law, act, and executive order referenced in this section, maintained separately for quick review by Legal, ICTD, or future contributors.
+> **Reference:** See `docs/governance/legal-and-regulatory-references.md` for a citation index covering the laws, acts, and executive orders cited in this section, plus their specific implementing circulars, resolutions, and local ordinances where identified — maintained separately for quick review by Legal, ICTD, or future contributors.
 
 ---
 
@@ -1898,9 +1919,10 @@ This section identifies the primary legal and regulatory instruments applicable 
 
 ## Government Digital Transformation Mandate
 
-- **Republic Act No. 12254, the E-Governance Act**, signed September 5, 2025 — designates DICT as lead implementing body for government digital transformation across all LGUs, mandates a Chief Information Officer (see IT Governance Structure), and requires LGUs to establish their own digital service portal or adopt DICT's eLGU system within one year of the Act's effectivity (approximately late September 2026, not the IRR's April 2026 effectivity date — see the corrected timeline in IT Governance Structure).
+- **Republic Act No. 12254, the E-Governance Act**, signed September 5, 2025 — designates DICT as lead implementing body for government digital transformation across all LGUs, mandates a Chief Information Officer (see IT Governance Structure), and requires LGUs to establish their own digital service portal or adopt DICT's eLGU system within one year of the Act's effectivity (approximately late September 2026 — see the corrected timeline in IT Governance Structure for why this is measured from the Act itself, and not its IRR).
 - Separately, the Anti-Red Tape Authority has set November 1, 2026 as the deadline for LGUs to have online business-permit processing (eBOSS) operational, integrated with DICT's free `eNGU` system and the Bureau of Fire Protection. This directly governs the Business Registration and Permit Services module.
 - The Act also sets minimum standards for government websites and digital portals, including an e-Bulletin Board, API-accessible public information, a public staff directory, Philippine Web Accessibility Policy compliance, and a real-time citizen feedback mechanism with results publicly aggregated and reported quarterly. These should be reflected in the Citizen Engagement capabilities under Key Features and System Modules, not treated as satisfied by general accessibility commitments alone.
+- **The Philippine Government Interoperability Framework (PGIF)**, established under RA 12254's IRR, sets the specific data-exchange and once-only-principle standards that this platform's API-first integration approach must conform to. The platform's shared APIs, event contracts, and cross-department data exchange (Data Architecture, Technology Stack) are the technical mechanisms through which PGIF compliance is achieved; they are not a separate, unrelated engineering choice from the PGIF obligation. PGIF conformance should be confirmed with DICT before any interdepartmental or national-government data exchange goes live, consistent with the Compliance Checklist by Phase, below.
 
 ## Records Management
 
@@ -1956,6 +1978,7 @@ The obligations below are not all urgent at once. Each becomes active at a speci
 - [ ] Data-sharing agreements executed for any interdepartmental data exchange used by pilot modules
 - [ ] Records retention and disposition approach for pilot-generated records confirmed with the City Government's records management practice
 - [ ] COA e-OR and Treasury reconciliation requirements researched against the applicable COA circular and confirmed with the City Accounting/Treasury Office before Payment Services go-live
+- [ ] Recovery Time Objective (RTO) and Recovery Point Objective (RPO) targets confirmed per service tier by the IT Steering Committee (see Security Architecture, Business Continuity and Disaster Recovery)
 
 ### Before Phase 2 (Controlled Expansion) proceeds
 
